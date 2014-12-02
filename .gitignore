@@ -1,0 +1,29 @@
+###OSX###
+
+.DS_Store
+
+# Thumbnails
+._*
+
+###DMXIS###
+*.bin
+*.pdf
+*.bmp
+*.png
+*.zip
+
+# Default Macros
+/Macros/Channel\ Masks
+/Macros/Chases
+/Macros/Colours
+/Macros/Fan
+/Macros/Fixture\ Setup
+/Macros/Global\ Edits
+/Macros/Python
+/Macros/Select
+/Macros/Shapes
+/Macros/System
+
+# Default Library
+*.dmx
+

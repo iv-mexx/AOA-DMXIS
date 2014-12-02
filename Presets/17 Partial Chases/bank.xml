@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<Order>
+    <Preset name="Falling Stripes" crossfade="0.000000" />
+    <Preset name="Middle Stripes Fade Out" crossfade="0.100000" />
+</Order>
+<Tempo val="120.000000" />

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<Order>
+    <Preset name="A" crossfade="0.000000" />
+    <Preset name="B" crossfade="0.000000" />
+    <Preset name="C" crossfade="0.000000" />
+    <Preset name="D" crossfade="0.000000" />
+    <Preset name="E" crossfade="0.000000" />
+    <Preset name="F" crossfade="0.000000" />
+    <Preset name="G" crossfade="0.000000" />
+    <Preset name="H" crossfade="0.000000" />
+    <Preset name="I" crossfade="0.000000" />
+    <Preset name="J" crossfade="0.000000" />
+    <Preset name="K" crossfade="0.000000" />
+    <Preset name="L" crossfade="0.000000" />
+    <Preset name="M" crossfade="0.000000" />
+    <Preset name="N" crossfade="0.000000" />
+    <Preset name="O" crossfade="0.000000" />
+    <Preset name="P" crossfade="0.000000" />
+    <Preset name="Q" crossfade="0.000000" />
+    <Preset name="R" crossfade="0.000000" />
+    <Preset name="S" crossfade="0.000000" />
+    <Preset name="T" crossfade="0.000000" />
+    <Preset name="U" crossfade="0.000000" />
+    <Preset name="V" crossfade="0.000000" />
+    <Preset name="W" crossfade="0.000000" />
+    <Preset name="X" crossfade="0.000000" />
+    <Preset name="Y" crossfade="0.000000" />
+    <Preset name="Z" crossfade="0.000000" />
+</Order>
+<Tempo val="120.000000" />

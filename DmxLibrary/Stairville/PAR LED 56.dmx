@@ -1,0 +1,16 @@
+Mode
+S,0,63,RGB
+S,64,127,7ColFade
+S,128,191,7ColChg
+S,192,255,3ColChg
+Red
+D,0,255,
+Green
+D,0,255,
+Blue
+D,0,255,
+Speed
+S,0,10,Off
+V,11,100,
+S,101,150,Off
+S,151,255,Music

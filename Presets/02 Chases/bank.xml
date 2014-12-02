@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Order>
+    <Preset name="Full Off" crossfade="0.100000" />
+    <Preset name="Full On" crossfade="0.100000" />
+    <Preset name="Light Upwards" crossfade="0.100000" />
+    <Preset name="Falling Lights" crossfade="0.100000" />
+    <Preset name="Falling Lines" crossfade="0.100000" />
+    <Preset name="Outwards Bright" crossfade="0.100000" />
+    <Preset name="Outwards Dark" crossfade="0.100000" />
+    <Preset name="Inwards Bright" crossfade="0.100000" />
+    <Preset name="Inwards Dark" crossfade="0.100000" />
+    <Preset name="Falling Wall" crossfade="0.100000" />
+    <Preset name="Into Oblivion" crossfade="0.100000" />
+    <Preset name="Falling Stripes" crossfade="0.000000" />
+    <Preset name="Falling Lines Brighter" crossfade="0.100000" />
+    <Preset name="Monocracy" crossfade="0.100000" />
+</Order>
+<Tempo val="120.000000" />

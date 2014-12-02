@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Order>
+    <Preset name="Strobe Left Only" crossfade="0.100000" />
+    <Preset name="Strobe Right Only" crossfade="0.100000" />
+    <Preset name="Fast Lines Left Only" crossfade="0.100000" />
+    <Preset name="Fast Lines Right Only" crossfade="0.100000" />
+</Order>
+<Tempo val="120.000000" />
