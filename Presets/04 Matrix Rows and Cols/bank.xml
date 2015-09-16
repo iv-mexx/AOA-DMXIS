@@ -32,5 +32,6 @@
     <Preset name="Row 5 off" crossfade="0.000000" />
     <Preset name="All Off" crossfade="0.000000" />
     <Preset name="All On" crossfade="0.000000" />
+    <Preset name="Activate Matrix" crossfade="0.503592" />
 </Order>
 <Tempo val="120.000000" />

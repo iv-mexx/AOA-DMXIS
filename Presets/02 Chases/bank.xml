@@ -15,5 +15,6 @@
     <Preset name="Falling Lines Brighter" crossfade="0.100000" />
     <Preset name="Monocracy" crossfade="0.100000" />
     <Preset name="All Blinking" crossfade="0.100000" />
+    <Preset name="Schoen Intro" crossfade="0.000000" />
 </Order>
 <Tempo val="120.000000" />
