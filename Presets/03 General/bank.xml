@@ -1,5 +1,13 @@
 <?xml version="1.0" ?>
 <Order>
     <Preset name="Reset All" crossfade="0.000000" />
+    <Preset name="Full Off" crossfade="0.100000" />
+    <Preset name="Full On" crossfade="0.100000" />
+    <Preset name="Matrix Only Full" crossfade="0.000000" />
+    <Preset name="Sunstrip Only Full" crossfade="0.000000" />
+    <Preset name="Left Matrix Only Full" crossfade="0.000000" />
+    <Preset name="Right Matrix Only Full" crossfade="0.000000" />
+    <Preset name="Left Sunstrip Only Full" crossfade="0.000000" />
+    <Preset name="Right Sunstrip Only Full" crossfade="0.000000" />
 </Order>
 <Tempo val="120.000000" />
