@@ -17,5 +17,6 @@
     <Preset name="All Blinking" crossfade="0.100000" />
     <Preset name="Schoen Intro" crossfade="0.000000" />
     <Preset name="Resilience Verse" crossfade="0.100000" />
+    <Preset name="Matrix Chase Top-Outwards" crossfade="0.100000" />
 </Order>
-<Tempo val="120.000000" />
+<Tempo val="137.000000" />

@@ -10,5 +10,7 @@
     <Preset name="Left Sunstrip Only Full" crossfade="0.000000" />
     <Preset name="Right Sunstrip Only Full" crossfade="0.000000" />
     <Preset name="Add Matrix" crossfade="0.000000" />
+    <Preset name="Left Full" crossfade="0.000000" />
+    <Preset name="Right Full" crossfade="0.000000" />
 </Order>
 <Tempo val="120.000000" />
