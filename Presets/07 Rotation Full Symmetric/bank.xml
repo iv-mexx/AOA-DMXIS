@@ -1,8 +1,12 @@
-<?xml version="1.0" ?>
-<Order>
-    <Preset name="Step 1" crossfade="0.000000" />
-    <Preset name="Step 2" crossfade="0.000000" />
-    <Preset name="Step 3" crossfade="0.000000" />
-    <Preset name="Step 4" crossfade="0.000000" />
-</Order>
-<Tempo val="120.000000" />
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Step 1" crossfade="0"/>
+    <Preset name="Step 2" crossfade="0"/>
+    <Preset name="Step 3" crossfade="0"/>
+    <Preset name="Step 4" crossfade="0"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="6"/>
+</CmPresetBank>

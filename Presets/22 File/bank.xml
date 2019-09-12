@@ -1,34 +1,38 @@
-<?xml version="1.0" ?>
-<Order>
-    <Preset name="Life 1" crossfade="0.000000" />
-    <Preset name="Life 2" crossfade="0.000000" />
-    <Preset name="Life 3" crossfade="0.000000" />
-    <Preset name="Life 4" crossfade="0.000000" />
-    <Preset name="Life 5" crossfade="0.000000" />
-    <Preset name="Life 6" crossfade="0.000000" />
-    <Preset name="Life 7" crossfade="0.000000" />
-    <Preset name="Life 8" crossfade="0.000000" />
-    <Preset name="Life 9" crossfade="0.000000" />
-    <Preset name="Life 10" crossfade="0.000000" />
-    <Preset name="Life 11" crossfade="0.000000" />
-    <Preset name="Life 12" crossfade="0.000000" />
-    <Preset name="Life 13" crossfade="0.000000" />
-    <Preset name="Life 14" crossfade="0.000000" />
-    <Preset name="Life 15" crossfade="0.000000" />
-    <Preset name="File 1" crossfade="0.000000" />
-    <Preset name="File 2" crossfade="0.000000" />
-    <Preset name="File 3" crossfade="0.000000" />
-    <Preset name="File 4" crossfade="0.000000" />
-    <Preset name="File 5" crossfade="0.000000" />
-    <Preset name="File 6" crossfade="0.000000" />
-    <Preset name="File 7" crossfade="0.000000" />
-    <Preset name="File 8" crossfade="0.000000" />
-    <Preset name="File 9" crossfade="0.000000" />
-    <Preset name="File 10" crossfade="0.000000" />
-    <Preset name="File 11" crossfade="0.000000" />
-    <Preset name="File 12" crossfade="0.000000" />
-    <Preset name="File 13" crossfade="0.000000" />
-    <Preset name="File 14" crossfade="0.000000" />
-    <Preset name="File 15" crossfade="0.000000" />
-</Order>
-<Tempo val="120.000000" />
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Life 1" crossfade="0"/>
+    <Preset name="Life 2" crossfade="0"/>
+    <Preset name="Life 3" crossfade="0"/>
+    <Preset name="Life 4" crossfade="0"/>
+    <Preset name="Life 5" crossfade="0"/>
+    <Preset name="Life 6" crossfade="0"/>
+    <Preset name="Life 7" crossfade="0"/>
+    <Preset name="Life 8" crossfade="0"/>
+    <Preset name="Life 9" crossfade="0"/>
+    <Preset name="Life 10" crossfade="0"/>
+    <Preset name="Life 11" crossfade="0"/>
+    <Preset name="Life 12" crossfade="0"/>
+    <Preset name="Life 13" crossfade="0"/>
+    <Preset name="Life 14" crossfade="0"/>
+    <Preset name="Life 15" crossfade="0"/>
+    <Preset name="File 1" crossfade="0"/>
+    <Preset name="File 2" crossfade="0"/>
+    <Preset name="File 3" crossfade="0"/>
+    <Preset name="File 4" crossfade="0"/>
+    <Preset name="File 5" crossfade="0"/>
+    <Preset name="File 6" crossfade="0"/>
+    <Preset name="File 7" crossfade="0"/>
+    <Preset name="File 8" crossfade="0"/>
+    <Preset name="File 9" crossfade="0"/>
+    <Preset name="File 10" crossfade="0"/>
+    <Preset name="File 11" crossfade="0"/>
+    <Preset name="File 12" crossfade="0"/>
+    <Preset name="File 13" crossfade="0"/>
+    <Preset name="File 14" crossfade="0"/>
+    <Preset name="File 15" crossfade="0"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="22"/>
+</CmPresetBank>

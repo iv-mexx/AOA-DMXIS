@@ -1,15 +1,19 @@
-<?xml version="1.0" ?>
-<Order>
-    <Preset name="Full Off" crossfade="0.100000" />
-    <Preset name="Full On" crossfade="0.100000" />
-    <Preset name="Flat Step 1" crossfade="0.100000" />
-    <Preset name="Flat Step 2" crossfade="0.100000" />
-    <Preset name="Flat Step 3" crossfade="0.100000" />
-    <Preset name="Flat Step 4" crossfade="0.100000" />
-    <Preset name="Flat Step 5" crossfade="0.100000" />
-    <Preset name="Flat Step 6" crossfade="0.100000" />
-    <Preset name="Flat Step 7" crossfade="0.100000" />
-    <Preset name="Flat Step 8" crossfade="0.100000" />
-    <Preset name="Flat Step 9" crossfade="0.100000" />
-</Order>
-<Tempo val="120.000000" />
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Full Off" crossfade="0.10000000149011611938"/>
+    <Preset name="Full On" crossfade="0.10000000149011611938"/>
+    <Preset name="Flat Step 1" crossfade="0.10000000149011611938"/>
+    <Preset name="Flat Step 2" crossfade="0.10000000149011611938"/>
+    <Preset name="Flat Step 3" crossfade="0.10000000149011611938"/>
+    <Preset name="Flat Step 4" crossfade="0.10000000149011611938"/>
+    <Preset name="Flat Step 5" crossfade="0.10000000149011611938"/>
+    <Preset name="Flat Step 6" crossfade="0.10000000149011611938"/>
+    <Preset name="Flat Step 7" crossfade="0.10000000149011611938"/>
+    <Preset name="Flat Step 8" crossfade="0.10000000149011611938"/>
+    <Preset name="Flat Step 9" crossfade="0.10000000149011611938"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="9"/>
+</CmPresetBank>

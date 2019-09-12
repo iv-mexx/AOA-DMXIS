@@ -1,16 +1,20 @@
-<?xml version="1.0" ?>
-<Order>
-    <Preset name="Full Off" crossfade="0.000000" />
-    <Preset name="Full On" crossfade="0.000000" />
-    <Preset name="Wave 00" crossfade="0.000000" />
-    <Preset name="Wave 01" crossfade="0.000000" />
-    <Preset name="Wave 02" crossfade="0.000000" />
-    <Preset name="Wave 03" crossfade="0.000000" />
-    <Preset name="Wave 04" crossfade="0.000000" />
-    <Preset name="Wave 05" crossfade="0.000000" />
-    <Preset name="Wave 06" crossfade="0.000000" />
-    <Preset name="Wave 07" crossfade="0.000000" />
-    <Preset name="Wave 08" crossfade="0.000000" />
-    <Preset name="Clean Chase" crossfade="0.100000" />
-</Order>
-<Tempo val="120.000000" />
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Full Off" crossfade="0"/>
+    <Preset name="Full On" crossfade="0"/>
+    <Preset name="Wave 00" crossfade="0"/>
+    <Preset name="Wave 01" crossfade="0"/>
+    <Preset name="Wave 02" crossfade="0"/>
+    <Preset name="Wave 03" crossfade="0"/>
+    <Preset name="Wave 04" crossfade="0"/>
+    <Preset name="Wave 05" crossfade="0"/>
+    <Preset name="Wave 06" crossfade="0"/>
+    <Preset name="Wave 07" crossfade="0"/>
+    <Preset name="Wave 08" crossfade="0"/>
+    <Preset name="Clean Chase" crossfade="0.10000000149011611938"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="27"/>
+</CmPresetBank>

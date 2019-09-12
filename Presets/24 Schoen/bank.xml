@@ -1,35 +1,39 @@
-<?xml version="1.0" ?>
-<Order>
-    <Preset name="Full Off" crossfade="0.000000" />
-    <Preset name="Full On" crossfade="0.000000" />
-    <Preset name="Intro-01" crossfade="0.000000" />
-    <Preset name="Intro-02" crossfade="0.000000" />
-    <Preset name="Intro-03" crossfade="0.000000" />
-    <Preset name="Intro-04" crossfade="0.000000" />
-    <Preset name="Intro-05" crossfade="0.000000" />
-    <Preset name="Intro-06" crossfade="0.000000" />
-    <Preset name="Intro-07" crossfade="0.000000" />
-    <Preset name="Intro-08" crossfade="0.000000" />
-    <Preset name="Intro-09" crossfade="0.000000" />
-    <Preset name="Intro-10" crossfade="0.000000" />
-    <Preset name="Intro-11" crossfade="0.000000" />
-    <Preset name="Intro-Chase-01" crossfade="0.000000" />
-    <Preset name="Intro-Chase-02" crossfade="0.000000" />
-    <Preset name="Intro-Chase-03" crossfade="0.000000" />
-    <Preset name="Intro-Chase-04" crossfade="0.000000" />
-    <Preset name="Refrain-Matrix-1" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-2" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-3" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-4" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-5" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-6" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-7" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-8" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-9" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-10" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-11" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-12" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-13" crossfade="0.100000" />
-    <Preset name="Refrain-Matrix-14" crossfade="0.100000" />
-</Order>
-<Tempo val="120.000000" />
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Full Off" crossfade="0"/>
+    <Preset name="Full On" crossfade="0"/>
+    <Preset name="Intro-01" crossfade="0"/>
+    <Preset name="Intro-02" crossfade="0"/>
+    <Preset name="Intro-03" crossfade="0"/>
+    <Preset name="Intro-04" crossfade="0"/>
+    <Preset name="Intro-05" crossfade="0"/>
+    <Preset name="Intro-06" crossfade="0"/>
+    <Preset name="Intro-07" crossfade="0"/>
+    <Preset name="Intro-08" crossfade="0"/>
+    <Preset name="Intro-09" crossfade="0"/>
+    <Preset name="Intro-10" crossfade="0"/>
+    <Preset name="Intro-11" crossfade="0"/>
+    <Preset name="Intro-Chase-01" crossfade="0"/>
+    <Preset name="Intro-Chase-02" crossfade="0"/>
+    <Preset name="Intro-Chase-03" crossfade="0"/>
+    <Preset name="Intro-Chase-04" crossfade="0"/>
+    <Preset name="Refrain-Matrix-1" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-2" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-3" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-4" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-5" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-6" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-7" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-8" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-9" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-10" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-11" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-12" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-13" crossfade="0.10000000149011611938"/>
+    <Preset name="Refrain-Matrix-14" crossfade="0.10000000149011611938"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="24"/>
+</CmPresetBank>

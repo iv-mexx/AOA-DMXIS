@@ -1,7 +1,11 @@
-<?xml version="1.0" ?>
-<Order>
-    <Preset name="Full Off" crossfade="0.100000" />
-    <Preset name="Full On" crossfade="0.100000" />
-    <Preset name="01 - Calm 1" crossfade="0.100000" />
-</Order>
-<Tempo val="120.000000" />
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Full Off" crossfade="0.10000000149011611938"/>
+    <Preset name="Full On" crossfade="0.10000000149011611938"/>
+    <Preset name="01 - Calm 1" crossfade="0.10000000149011611938"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="29"/>
+</CmPresetBank>

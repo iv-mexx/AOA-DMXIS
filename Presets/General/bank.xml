@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Reset All"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="30"/>
+</CmPresetBank>

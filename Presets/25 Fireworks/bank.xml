@@ -1,54 +1,58 @@
-<?xml version="1.0" ?>
-<Order>
-    <Preset name="Full Off" crossfade="0.000000" />
-    <Preset name="Full On" crossfade="0.000000" />
-    <Preset name="1-01" crossfade="0.000000" />
-    <Preset name="1-02" crossfade="0.000000" />
-    <Preset name="1-03" crossfade="0.000000" />
-    <Preset name="1-04" crossfade="0.000000" />
-    <Preset name="1-05" crossfade="0.000000" />
-    <Preset name="1-06" crossfade="0.000000" />
-    <Preset name="1-07" crossfade="0.000000" />
-    <Preset name="1-08" crossfade="0.000000" />
-    <Preset name="2-01" crossfade="0.000000" />
-    <Preset name="2-02" crossfade="0.000000" />
-    <Preset name="2-03" crossfade="0.000000" />
-    <Preset name="2-04" crossfade="0.000000" />
-    <Preset name="2-05" crossfade="0.000000" />
-    <Preset name="2-06" crossfade="0.000000" />
-    <Preset name="2-07" crossfade="0.000000" />
-    <Preset name="2-08" crossfade="0.000000" />
-    <Preset name="3-01" crossfade="0.000000" />
-    <Preset name="3-02" crossfade="0.000000" />
-    <Preset name="3-03" crossfade="0.000000" />
-    <Preset name="3-04" crossfade="0.000000" />
-    <Preset name="3-05" crossfade="0.000000" />
-    <Preset name="3-06" crossfade="0.000000" />
-    <Preset name="3-07" crossfade="0.000000" />
-    <Preset name="3-08" crossfade="0.000000" />
-    <Preset name="4-01" crossfade="0.000000" />
-    <Preset name="4-02" crossfade="0.000000" />
-    <Preset name="4-03" crossfade="0.000000" />
-    <Preset name="4-04" crossfade="0.000000" />
-    <Preset name="4-05" crossfade="0.000000" />
-    <Preset name="4-06" crossfade="0.000000" />
-    <Preset name="4-07" crossfade="0.000000" />
-    <Preset name="4-08" crossfade="0.000000" />
-    <Preset name="5-01" crossfade="0.000000" />
-    <Preset name="5-02" crossfade="0.000000" />
-    <Preset name="5-03" crossfade="0.000000" />
-    <Preset name="5-04" crossfade="0.000000" />
-    <Preset name="5-05" crossfade="0.000000" />
-    <Preset name="5-06" crossfade="0.000000" />
-    <Preset name="5-07" crossfade="0.000000" />
-    <Preset name="5-08" crossfade="0.000000" />
-    <Preset name="6-01" crossfade="0.000000" />
-    <Preset name="6-02" crossfade="0.000000" />
-    <Preset name="6-03" crossfade="0.000000" />
-    <Preset name="6-04" crossfade="0.000000" />
-    <Preset name="6-05" crossfade="0.000000" />
-    <Preset name="6-06" crossfade="0.000000" />
-    <Preset name="6-07" crossfade="0.000000" />
-    <Preset name="6-08" crossfade="0.000000" />
-</Order>
-<Tempo val="120.000000" />
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Full Off" crossfade="0"/>
+    <Preset name="Full On" crossfade="0"/>
+    <Preset name="1-01" crossfade="0"/>
+    <Preset name="1-02" crossfade="0"/>
+    <Preset name="1-03" crossfade="0"/>
+    <Preset name="1-04" crossfade="0"/>
+    <Preset name="1-05" crossfade="0"/>
+    <Preset name="1-06" crossfade="0"/>
+    <Preset name="1-07" crossfade="0"/>
+    <Preset name="1-08" crossfade="0"/>
+    <Preset name="2-01" crossfade="0"/>
+    <Preset name="2-02" crossfade="0"/>
+    <Preset name="2-03" crossfade="0"/>
+    <Preset name="2-04" crossfade="0"/>
+    <Preset name="2-05" crossfade="0"/>
+    <Preset name="2-06" crossfade="0"/>
+    <Preset name="2-07" crossfade="0"/>
+    <Preset name="2-08" crossfade="0"/>
+    <Preset name="3-01" crossfade="0"/>
+    <Preset name="3-02" crossfade="0"/>
+    <Preset name="3-03" crossfade="0"/>
+    <Preset name="3-04" crossfade="0"/>
+    <Preset name="3-05" crossfade="0"/>
+    <Preset name="3-06" crossfade="0"/>
+    <Preset name="3-07" crossfade="0"/>
+    <Preset name="3-08" crossfade="0"/>
+    <Preset name="4-01" crossfade="0"/>
+    <Preset name="4-02" crossfade="0"/>
+    <Preset name="4-03" crossfade="0"/>
+    <Preset name="4-04" crossfade="0"/>
+    <Preset name="4-05" crossfade="0"/>
+    <Preset name="4-06" crossfade="0"/>
+    <Preset name="4-07" crossfade="0"/>
+    <Preset name="4-08" crossfade="0"/>
+    <Preset name="5-01" crossfade="0"/>
+    <Preset name="5-02" crossfade="0"/>
+    <Preset name="5-03" crossfade="0"/>
+    <Preset name="5-04" crossfade="0"/>
+    <Preset name="5-05" crossfade="0"/>
+    <Preset name="5-06" crossfade="0"/>
+    <Preset name="5-07" crossfade="0"/>
+    <Preset name="5-08" crossfade="0"/>
+    <Preset name="6-01" crossfade="0"/>
+    <Preset name="6-02" crossfade="0"/>
+    <Preset name="6-03" crossfade="0"/>
+    <Preset name="6-04" crossfade="0"/>
+    <Preset name="6-05" crossfade="0"/>
+    <Preset name="6-06" crossfade="0"/>
+    <Preset name="6-07" crossfade="0"/>
+    <Preset name="6-08" crossfade="0"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="25"/>
+</CmPresetBank>

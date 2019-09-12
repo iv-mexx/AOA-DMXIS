@@ -1,559 +1,564 @@
-<?xml version="1.0" ?>
-<DmxFixtures>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Stairville/5x5 LED Matrix 28 Channel.dmx" disp="5x5 LED Matrix 28 Channel" from="1" to="28" />
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Stairville/5x5 LED Matrix 28 Channel.dmx" disp="5x5 LED Matrix 28 Channel" from="33" to="60" />
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Showtec/Sunstrip 10ch.dmx" disp="Sunstrip 10ch" from="65" to="74" />
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Showtec/Sunstrip 10ch.dmx" disp="Sunstrip 10ch" from="81" to="90" />
-</DmxFixtures>
-<DmxZones />
-<MidiAssignments>
-    <Param name="X Value" val="-1" nrpn="-1" channel="0" />
-    <Param name="Bank" val="-1" nrpn="-1" channel="0" />
-    <Param name="Preset" val="-1" nrpn="-1" channel="0" />
-    <Param name="PresetUp" val="-1" nrpn="-1" channel="0" />
-    <Param name="PresetDown" val="-1" nrpn="-1" channel="0" />
-    <Param name="ShowPresetPage" val="-1" nrpn="-1" channel="0" />
-    <Param name="BankUp" val="-1" nrpn="-1" channel="0" />
-    <Param name="BankDown" val="-1" nrpn="-1" channel="0" />
-    <Param name="NewPreset" val="-1" nrpn="-1" channel="0" />
-    <Param name="DeletePreset" val="-1" nrpn="-1" channel="0" />
-    <Param name="EditPreset" val="-1" nrpn="-1" channel="0" />
-    <Param name="NewBank" val="-1" nrpn="-1" channel="0" />
-    <Param name="DeleteBank" val="-1" nrpn="-1" channel="0" />
-    <Param name="EditBank" val="-1" nrpn="-1" channel="0" />
-    <Param name="SortMode" val="-1" nrpn="-1" channel="0" />
-    <Param name="Autoplay Bank" val="-1" nrpn="-1" channel="0" />
-    <Param name="OverwrtPst" val="-1" nrpn="-1" channel="0" />
-    <Param name="1" val="-1" nrpn="-1" channel="0" />
-    <Param name="2" val="-1" nrpn="-1" channel="0" />
-    <Param name="3" val="-1" nrpn="-1" channel="0" />
-    <Param name="4" val="-76" nrpn="-1" channel="0" />
-    <Param name="5" val="108" nrpn="-1" channel="0" />
-    <Param name="6" val="-1" nrpn="-1" channel="0" />
-    <Param name="7" val="-1" nrpn="-1" channel="0" />
-    <Param name="8" val="-1" nrpn="-1" channel="0" />
-    <Param name="9" val="108" nrpn="-1" channel="0" />
-    <Param name="10" val="-1" nrpn="-1" channel="0" />
-    <Param name="11" val="-1" nrpn="-1" channel="0" />
-    <Param name="12" val="-1" nrpn="-1" channel="0" />
-    <Param name="13" val="-1" nrpn="-1" channel="0" />
-    <Param name="14" val="-1" nrpn="-1" channel="0" />
-    <Param name="15" val="-1" nrpn="-1" channel="0" />
-    <Param name="16" val="-1" nrpn="-1" channel="0" />
-    <Param name="17" val="5" nrpn="-1" channel="0" />
-    <Param name="18" val="-1" nrpn="-1" channel="0" />
-    <Param name="19" val="-1" nrpn="-1" channel="0" />
-    <Param name="20" val="-1" nrpn="-1" channel="0" />
-    <Param name="21" val="-1" nrpn="-1" channel="0" />
-    <Param name="22" val="-1" nrpn="-1" channel="0" />
-    <Param name="23" val="-1" nrpn="-1" channel="0" />
-    <Param name="24" val="-1" nrpn="-1" channel="0" />
-    <Param name="25" val="-1" nrpn="-1" channel="0" />
-    <Param name="26" val="-1" nrpn="-1" channel="0" />
-    <Param name="27" val="-1" nrpn="-1" channel="0" />
-    <Param name="28" val="-1" nrpn="-1" channel="0" />
-    <Param name="29" val="-1" nrpn="-1" channel="0" />
-    <Param name="30" val="-1" nrpn="-1" channel="0" />
-    <Param name="31" val="-1" nrpn="-1" channel="0" />
-    <Param name="32" val="-1" nrpn="-1" channel="0" />
-    <Param name="33" val="-1" nrpn="-1" channel="0" />
-    <Param name="34" val="-1" nrpn="-1" channel="0" />
-    <Param name="35" val="-1" nrpn="-1" channel="0" />
-    <Param name="36" val="-1" nrpn="-1" channel="0" />
-    <Param name="37" val="-1" nrpn="-1" channel="0" />
-    <Param name="38" val="-1" nrpn="-1" channel="0" />
-    <Param name="39" val="-1" nrpn="-1" channel="0" />
-    <Param name="40" val="-1" nrpn="-1" channel="0" />
-    <Param name="41" val="-1" nrpn="-1" channel="0" />
-    <Param name="42" val="-1" nrpn="-1" channel="0" />
-    <Param name="43" val="-1" nrpn="-1" channel="0" />
-    <Param name="44" val="-1" nrpn="-1" channel="0" />
-    <Param name="45" val="-1" nrpn="-1" channel="0" />
-    <Param name="46" val="-1" nrpn="-1" channel="0" />
-    <Param name="47" val="-1" nrpn="-1" channel="0" />
-    <Param name="48" val="-1" nrpn="-1" channel="0" />
-    <Param name="49" val="-1" nrpn="-1" channel="0" />
-    <Param name="50" val="-1" nrpn="-1" channel="0" />
-    <Param name="51" val="-1" nrpn="-1" channel="0" />
-    <Param name="52" val="-1" nrpn="-1" channel="0" />
-    <Param name="53" val="-1" nrpn="-1" channel="0" />
-    <Param name="54" val="-1" nrpn="-1" channel="0" />
-    <Param name="55" val="-1" nrpn="-1" channel="0" />
-    <Param name="56" val="-1" nrpn="-1" channel="0" />
-    <Param name="57" val="-1" nrpn="-1" channel="0" />
-    <Param name="58" val="-1" nrpn="-1" channel="0" />
-    <Param name="59" val="-1" nrpn="-1" channel="0" />
-    <Param name="60" val="-1" nrpn="-1" channel="0" />
-    <Param name="61" val="-1" nrpn="-1" channel="0" />
-    <Param name="62" val="-1" nrpn="-1" channel="0" />
-    <Param name="63" val="-1" nrpn="-1" channel="0" />
-    <Param name="64" val="-1" nrpn="-1" channel="0" />
-    <Param name="65" val="-1" nrpn="-1" channel="0" />
-    <Param name="66" val="-1" nrpn="-1" channel="0" />
-    <Param name="67" val="-1" nrpn="-1" channel="0" />
-    <Param name="68" val="-1" nrpn="-1" channel="0" />
-    <Param name="69" val="-1" nrpn="-1" channel="0" />
-    <Param name="70" val="-1" nrpn="-1" channel="0" />
-    <Param name="71" val="-1" nrpn="-1" channel="0" />
-    <Param name="72" val="-1" nrpn="-1" channel="0" />
-    <Param name="73" val="-1" nrpn="-1" channel="0" />
-    <Param name="74" val="-1" nrpn="-1" channel="0" />
-    <Param name="75" val="-1" nrpn="-1" channel="0" />
-    <Param name="76" val="-1" nrpn="-1" channel="0" />
-    <Param name="77" val="-1" nrpn="-1" channel="0" />
-    <Param name="78" val="-1" nrpn="-1" channel="0" />
-    <Param name="79" val="-1" nrpn="-1" channel="0" />
-    <Param name="80" val="-1" nrpn="-1" channel="0" />
-    <Param name="81" val="-1" nrpn="-1" channel="0" />
-    <Param name="82" val="-1" nrpn="-1" channel="0" />
-    <Param name="83" val="-1" nrpn="-1" channel="0" />
-    <Param name="84" val="-1" nrpn="-1" channel="0" />
-    <Param name="85" val="-1" nrpn="-1" channel="0" />
-    <Param name="86" val="-1" nrpn="-1" channel="0" />
-    <Param name="87" val="-1" nrpn="-1" channel="0" />
-    <Param name="88" val="-1" nrpn="-1" channel="0" />
-    <Param name="89" val="-1" nrpn="-1" channel="0" />
-    <Param name="90" val="-1" nrpn="-1" channel="0" />
-    <Param name="91" val="-1" nrpn="-1" channel="0" />
-    <Param name="92" val="-1" nrpn="-1" channel="0" />
-    <Param name="93" val="-1" nrpn="-1" channel="0" />
-    <Param name="94" val="-1" nrpn="-1" channel="0" />
-    <Param name="95" val="-1" nrpn="-1" channel="0" />
-    <Param name="96" val="-1" nrpn="-1" channel="0" />
-    <Param name="97" val="-1" nrpn="-1" channel="0" />
-    <Param name="98" val="-1" nrpn="-1" channel="0" />
-    <Param name="99" val="-1" nrpn="-1" channel="0" />
-    <Param name="100" val="-1" nrpn="-1" channel="0" />
-    <Param name="101" val="-1" nrpn="-1" channel="0" />
-    <Param name="102" val="-1" nrpn="-1" channel="0" />
-    <Param name="103" val="-1" nrpn="-1" channel="0" />
-    <Param name="104" val="-1" nrpn="-1" channel="0" />
-    <Param name="105" val="-1" nrpn="-1" channel="0" />
-    <Param name="106" val="-1" nrpn="-1" channel="0" />
-    <Param name="107" val="-1" nrpn="-1" channel="0" />
-    <Param name="108" val="-1" nrpn="-1" channel="0" />
-    <Param name="109" val="-1" nrpn="-1" channel="0" />
-    <Param name="110" val="-1" nrpn="-1" channel="0" />
-    <Param name="111" val="-1" nrpn="-1" channel="0" />
-    <Param name="112" val="-1" nrpn="-1" channel="0" />
-    <Param name="113" val="-1" nrpn="-1" channel="0" />
-    <Param name="114" val="-1" nrpn="-1" channel="0" />
-    <Param name="115" val="-1" nrpn="-1" channel="0" />
-    <Param name="116" val="-1" nrpn="-1" channel="0" />
-    <Param name="117" val="-1" nrpn="-1" channel="0" />
-    <Param name="118" val="-1" nrpn="-1" channel="0" />
-    <Param name="119" val="-1" nrpn="-1" channel="0" />
-    <Param name="120" val="-1" nrpn="-1" channel="0" />
-    <Param name="121" val="-1" nrpn="-1" channel="0" />
-    <Param name="122" val="-1" nrpn="-1" channel="0" />
-    <Param name="123" val="-1" nrpn="-1" channel="0" />
-    <Param name="124" val="-1" nrpn="-1" channel="0" />
-    <Param name="125" val="-1" nrpn="-1" channel="0" />
-    <Param name="126" val="-1" nrpn="-1" channel="0" />
-    <Param name="127" val="-1" nrpn="-1" channel="0" />
-    <Param name="128" val="-1" nrpn="-1" channel="0" />
-    <Param name="129" val="-1" nrpn="-1" channel="0" />
-    <Param name="130" val="-1" nrpn="-1" channel="0" />
-    <Param name="131" val="-1" nrpn="-1" channel="0" />
-    <Param name="132" val="-1" nrpn="-1" channel="0" />
-    <Param name="133" val="-1" nrpn="-1" channel="0" />
-    <Param name="134" val="-1" nrpn="-1" channel="0" />
-    <Param name="135" val="-1" nrpn="-1" channel="0" />
-    <Param name="136" val="-1" nrpn="-1" channel="0" />
-    <Param name="137" val="-1" nrpn="-1" channel="0" />
-    <Param name="138" val="-1" nrpn="-1" channel="0" />
-    <Param name="139" val="-1" nrpn="-1" channel="0" />
-    <Param name="140" val="-1" nrpn="-1" channel="0" />
-    <Param name="141" val="-1" nrpn="-1" channel="0" />
-    <Param name="142" val="-1" nrpn="-1" channel="0" />
-    <Param name="143" val="-1" nrpn="-1" channel="0" />
-    <Param name="144" val="-1" nrpn="-1" channel="0" />
-    <Param name="145" val="-1" nrpn="-1" channel="0" />
-    <Param name="146" val="-1" nrpn="-1" channel="0" />
-    <Param name="147" val="-1" nrpn="-1" channel="0" />
-    <Param name="148" val="-1" nrpn="-1" channel="0" />
-    <Param name="149" val="-1" nrpn="-1" channel="0" />
-    <Param name="150" val="-1" nrpn="-1" channel="0" />
-    <Param name="151" val="-1" nrpn="-1" channel="0" />
-    <Param name="152" val="-1" nrpn="-1" channel="0" />
-    <Param name="153" val="-1" nrpn="-1" channel="0" />
-    <Param name="154" val="-1" nrpn="-1" channel="0" />
-    <Param name="155" val="-1" nrpn="-1" channel="0" />
-    <Param name="156" val="-1" nrpn="-1" channel="0" />
-    <Param name="157" val="-1" nrpn="-1" channel="0" />
-    <Param name="158" val="-1" nrpn="-1" channel="0" />
-    <Param name="159" val="-1" nrpn="-1" channel="0" />
-    <Param name="160" val="-1" nrpn="-1" channel="0" />
-    <Param name="161" val="-1" nrpn="-1" channel="0" />
-    <Param name="162" val="-1" nrpn="-1" channel="0" />
-    <Param name="163" val="-1" nrpn="-1" channel="0" />
-    <Param name="164" val="-1" nrpn="-1" channel="0" />
-    <Param name="165" val="-1" nrpn="-1" channel="0" />
-    <Param name="166" val="-1" nrpn="-1" channel="0" />
-    <Param name="167" val="-1" nrpn="-1" channel="0" />
-    <Param name="168" val="-1" nrpn="-1" channel="0" />
-    <Param name="169" val="-1" nrpn="-1" channel="0" />
-    <Param name="170" val="-1" nrpn="-1" channel="0" />
-    <Param name="171" val="-1" nrpn="-1" channel="0" />
-    <Param name="172" val="-1" nrpn="-1" channel="0" />
-    <Param name="173" val="-1" nrpn="-1" channel="0" />
-    <Param name="174" val="-1" nrpn="-1" channel="0" />
-    <Param name="175" val="-1" nrpn="-1" channel="0" />
-    <Param name="176" val="-1" nrpn="-1" channel="0" />
-    <Param name="177" val="-1" nrpn="-1" channel="0" />
-    <Param name="178" val="-1" nrpn="-1" channel="0" />
-    <Param name="179" val="-1" nrpn="-1" channel="0" />
-    <Param name="180" val="-1" nrpn="-1" channel="0" />
-    <Param name="181" val="-1" nrpn="-1" channel="0" />
-    <Param name="182" val="-1" nrpn="-1" channel="0" />
-    <Param name="183" val="-1" nrpn="-1" channel="0" />
-    <Param name="184" val="-1" nrpn="-1" channel="0" />
-    <Param name="185" val="-1" nrpn="-1" channel="0" />
-    <Param name="186" val="-1" nrpn="-1" channel="0" />
-    <Param name="187" val="-1" nrpn="-1" channel="0" />
-    <Param name="188" val="-1" nrpn="-1" channel="0" />
-    <Param name="189" val="-1" nrpn="-1" channel="0" />
-    <Param name="190" val="-1" nrpn="-1" channel="0" />
-    <Param name="191" val="-1" nrpn="-1" channel="0" />
-    <Param name="192" val="-1" nrpn="-1" channel="0" />
-    <Param name="193" val="-1" nrpn="-1" channel="0" />
-    <Param name="194" val="-1" nrpn="-1" channel="0" />
-    <Param name="195" val="-1" nrpn="-1" channel="0" />
-    <Param name="196" val="-1" nrpn="-1" channel="0" />
-    <Param name="197" val="-1" nrpn="-1" channel="0" />
-    <Param name="198" val="-1" nrpn="-1" channel="0" />
-    <Param name="199" val="-1" nrpn="-1" channel="0" />
-    <Param name="200" val="-1" nrpn="-1" channel="0" />
-    <Param name="201" val="-1" nrpn="-1" channel="0" />
-    <Param name="202" val="-1" nrpn="-1" channel="0" />
-    <Param name="203" val="-1" nrpn="-1" channel="0" />
-    <Param name="204" val="-1" nrpn="-1" channel="0" />
-    <Param name="205" val="-1" nrpn="-1" channel="0" />
-    <Param name="206" val="-1" nrpn="-1" channel="0" />
-    <Param name="207" val="-1" nrpn="-1" channel="0" />
-    <Param name="208" val="-1" nrpn="-1" channel="0" />
-    <Param name="209" val="-1" nrpn="-1" channel="0" />
-    <Param name="210" val="-1" nrpn="-1" channel="0" />
-    <Param name="211" val="-1" nrpn="-1" channel="0" />
-    <Param name="212" val="-1" nrpn="-1" channel="0" />
-    <Param name="213" val="-1" nrpn="-1" channel="0" />
-    <Param name="214" val="-1" nrpn="-1" channel="0" />
-    <Param name="215" val="-1" nrpn="-1" channel="0" />
-    <Param name="216" val="-1" nrpn="-1" channel="0" />
-    <Param name="217" val="-1" nrpn="-1" channel="0" />
-    <Param name="218" val="-1" nrpn="-1" channel="0" />
-    <Param name="219" val="-1" nrpn="-1" channel="0" />
-    <Param name="220" val="-1" nrpn="-1" channel="0" />
-    <Param name="221" val="-1" nrpn="-1" channel="0" />
-    <Param name="222" val="-1" nrpn="-1" channel="0" />
-    <Param name="223" val="-1" nrpn="-1" channel="0" />
-    <Param name="224" val="-1" nrpn="-1" channel="0" />
-    <Param name="225" val="-1" nrpn="-1" channel="0" />
-    <Param name="226" val="-1" nrpn="-1" channel="0" />
-    <Param name="227" val="-1" nrpn="-1" channel="0" />
-    <Param name="228" val="-1" nrpn="-1" channel="0" />
-    <Param name="229" val="-1" nrpn="-1" channel="0" />
-    <Param name="230" val="-1" nrpn="-1" channel="0" />
-    <Param name="231" val="-1" nrpn="-1" channel="0" />
-    <Param name="232" val="-1" nrpn="-1" channel="0" />
-    <Param name="233" val="-1" nrpn="-1" channel="0" />
-    <Param name="234" val="-1" nrpn="-1" channel="0" />
-    <Param name="235" val="-1" nrpn="-1" channel="0" />
-    <Param name="236" val="-1" nrpn="-1" channel="0" />
-    <Param name="237" val="-1" nrpn="-1" channel="0" />
-    <Param name="238" val="-1" nrpn="-1" channel="0" />
-    <Param name="239" val="-1" nrpn="-1" channel="0" />
-    <Param name="240" val="-1" nrpn="-1" channel="0" />
-    <Param name="241" val="-1" nrpn="-1" channel="0" />
-    <Param name="242" val="-1" nrpn="-1" channel="0" />
-    <Param name="243" val="-1" nrpn="-1" channel="0" />
-    <Param name="244" val="-1" nrpn="-1" channel="0" />
-    <Param name="245" val="-1" nrpn="-1" channel="0" />
-    <Param name="246" val="-1" nrpn="-1" channel="0" />
-    <Param name="247" val="-1" nrpn="-1" channel="0" />
-    <Param name="248" val="-1" nrpn="-1" channel="0" />
-    <Param name="249" val="-1" nrpn="-1" channel="0" />
-    <Param name="250" val="-1" nrpn="-1" channel="0" />
-    <Param name="251" val="-1" nrpn="-1" channel="0" />
-    <Param name="252" val="-1" nrpn="-1" channel="0" />
-    <Param name="253" val="-1" nrpn="-1" channel="0" />
-    <Param name="254" val="-1" nrpn="-1" channel="0" />
-    <Param name="255" val="-1" nrpn="-1" channel="0" />
-    <Param name="256" val="-1" nrpn="-1" channel="0" />
-    <Param name="257" val="-1" nrpn="-1" channel="0" />
-    <Param name="258" val="-1" nrpn="-1" channel="0" />
-    <Param name="259" val="-1" nrpn="-1" channel="0" />
-    <Param name="260" val="-1" nrpn="-1" channel="0" />
-    <Param name="261" val="-1" nrpn="-1" channel="0" />
-    <Param name="262" val="-1" nrpn="-1" channel="0" />
-    <Param name="263" val="-1" nrpn="-1" channel="0" />
-    <Param name="264" val="-1" nrpn="-1" channel="0" />
-    <Param name="265" val="-1" nrpn="-1" channel="0" />
-    <Param name="266" val="-1" nrpn="-1" channel="0" />
-    <Param name="267" val="-1" nrpn="-1" channel="0" />
-    <Param name="268" val="-1" nrpn="-1" channel="0" />
-    <Param name="269" val="-1" nrpn="-1" channel="0" />
-    <Param name="270" val="-1" nrpn="-1" channel="0" />
-    <Param name="271" val="-1" nrpn="-1" channel="0" />
-    <Param name="272" val="-1" nrpn="-1" channel="0" />
-    <Param name="273" val="-1" nrpn="-1" channel="0" />
-    <Param name="274" val="-1" nrpn="-1" channel="0" />
-    <Param name="275" val="-1" nrpn="-1" channel="0" />
-    <Param name="276" val="-1" nrpn="-1" channel="0" />
-    <Param name="277" val="-1" nrpn="-1" channel="0" />
-    <Param name="278" val="-1" nrpn="-1" channel="0" />
-    <Param name="279" val="-1" nrpn="-1" channel="0" />
-    <Param name="280" val="-1" nrpn="-1" channel="0" />
-    <Param name="281" val="-1" nrpn="-1" channel="0" />
-    <Param name="282" val="-1" nrpn="-1" channel="0" />
-    <Param name="283" val="-1" nrpn="-1" channel="0" />
-    <Param name="284" val="-1" nrpn="-1" channel="0" />
-    <Param name="285" val="-1" nrpn="-1" channel="0" />
-    <Param name="286" val="-1" nrpn="-1" channel="0" />
-    <Param name="287" val="-1" nrpn="-1" channel="0" />
-    <Param name="288" val="-1" nrpn="-1" channel="0" />
-    <Param name="289" val="-1" nrpn="-1" channel="0" />
-    <Param name="290" val="-1" nrpn="-1" channel="0" />
-    <Param name="291" val="-1" nrpn="-1" channel="0" />
-    <Param name="292" val="-1" nrpn="-1" channel="0" />
-    <Param name="293" val="-1" nrpn="-1" channel="0" />
-    <Param name="294" val="-1" nrpn="-1" channel="0" />
-    <Param name="295" val="-1" nrpn="-1" channel="0" />
-    <Param name="296" val="-1" nrpn="-1" channel="0" />
-    <Param name="297" val="-1" nrpn="-1" channel="0" />
-    <Param name="298" val="-1" nrpn="-1" channel="0" />
-    <Param name="299" val="-1" nrpn="-1" channel="0" />
-    <Param name="300" val="-1" nrpn="-1" channel="0" />
-    <Param name="301" val="-1" nrpn="-1" channel="0" />
-    <Param name="302" val="-1" nrpn="-1" channel="0" />
-    <Param name="303" val="-1" nrpn="-1" channel="0" />
-    <Param name="304" val="-1" nrpn="-1" channel="0" />
-    <Param name="305" val="-1" nrpn="-1" channel="0" />
-    <Param name="306" val="-1" nrpn="-1" channel="0" />
-    <Param name="307" val="-1" nrpn="-1" channel="0" />
-    <Param name="308" val="-1" nrpn="-1" channel="0" />
-    <Param name="309" val="-1" nrpn="-1" channel="0" />
-    <Param name="310" val="-1" nrpn="-1" channel="0" />
-    <Param name="311" val="-1" nrpn="-1" channel="0" />
-    <Param name="312" val="-1" nrpn="-1" channel="0" />
-    <Param name="313" val="-1" nrpn="-1" channel="0" />
-    <Param name="314" val="-1" nrpn="-1" channel="0" />
-    <Param name="315" val="-1" nrpn="-1" channel="0" />
-    <Param name="316" val="-1" nrpn="-1" channel="0" />
-    <Param name="317" val="-1" nrpn="-1" channel="0" />
-    <Param name="318" val="-1" nrpn="-1" channel="0" />
-    <Param name="319" val="-1" nrpn="-1" channel="0" />
-    <Param name="320" val="-1" nrpn="-1" channel="0" />
-    <Param name="321" val="-1" nrpn="-1" channel="0" />
-    <Param name="322" val="-1" nrpn="-1" channel="0" />
-    <Param name="323" val="-1" nrpn="-1" channel="0" />
-    <Param name="324" val="-1" nrpn="-1" channel="0" />
-    <Param name="325" val="-1" nrpn="-1" channel="0" />
-    <Param name="326" val="-1" nrpn="-1" channel="0" />
-    <Param name="327" val="-1" nrpn="-1" channel="0" />
-    <Param name="328" val="-1" nrpn="-1" channel="0" />
-    <Param name="329" val="-1" nrpn="-1" channel="0" />
-    <Param name="330" val="-1" nrpn="-1" channel="0" />
-    <Param name="331" val="-1" nrpn="-1" channel="0" />
-    <Param name="332" val="-1" nrpn="-1" channel="0" />
-    <Param name="333" val="-1" nrpn="-1" channel="0" />
-    <Param name="334" val="-1" nrpn="-1" channel="0" />
-    <Param name="335" val="-1" nrpn="-1" channel="0" />
-    <Param name="336" val="-1" nrpn="-1" channel="0" />
-    <Param name="337" val="-1" nrpn="-1" channel="0" />
-    <Param name="338" val="-1" nrpn="-1" channel="0" />
-    <Param name="339" val="-1" nrpn="-1" channel="0" />
-    <Param name="340" val="-1" nrpn="-1" channel="0" />
-    <Param name="341" val="-1" nrpn="-1" channel="0" />
-    <Param name="342" val="-1" nrpn="-1" channel="0" />
-    <Param name="343" val="-1" nrpn="-1" channel="0" />
-    <Param name="344" val="-1" nrpn="-1" channel="0" />
-    <Param name="345" val="-1" nrpn="-1" channel="0" />
-    <Param name="346" val="-1" nrpn="-1" channel="0" />
-    <Param name="347" val="-1" nrpn="-1" channel="0" />
-    <Param name="348" val="-1" nrpn="-1" channel="0" />
-    <Param name="349" val="-1" nrpn="-1" channel="0" />
-    <Param name="350" val="-1" nrpn="-1" channel="0" />
-    <Param name="351" val="-1" nrpn="-1" channel="0" />
-    <Param name="352" val="-1" nrpn="-1" channel="0" />
-    <Param name="353" val="-1" nrpn="-1" channel="0" />
-    <Param name="354" val="-1" nrpn="-1" channel="0" />
-    <Param name="355" val="-1" nrpn="-1" channel="0" />
-    <Param name="356" val="-1" nrpn="-1" channel="0" />
-    <Param name="357" val="-1" nrpn="-1" channel="0" />
-    <Param name="358" val="-1" nrpn="-1" channel="0" />
-    <Param name="359" val="-1" nrpn="-1" channel="0" />
-    <Param name="360" val="-1" nrpn="-1" channel="0" />
-    <Param name="361" val="-1" nrpn="-1" channel="0" />
-    <Param name="362" val="-1" nrpn="-1" channel="0" />
-    <Param name="363" val="-1" nrpn="-1" channel="0" />
-    <Param name="364" val="-1" nrpn="-1" channel="0" />
-    <Param name="365" val="-1" nrpn="-1" channel="0" />
-    <Param name="366" val="-1" nrpn="-1" channel="0" />
-    <Param name="367" val="-1" nrpn="-1" channel="0" />
-    <Param name="368" val="-1" nrpn="-1" channel="0" />
-    <Param name="369" val="-1" nrpn="-1" channel="0" />
-    <Param name="370" val="-1" nrpn="-1" channel="0" />
-    <Param name="371" val="-1" nrpn="-1" channel="0" />
-    <Param name="372" val="-1" nrpn="-1" channel="0" />
-    <Param name="373" val="-1" nrpn="-1" channel="0" />
-    <Param name="374" val="-1" nrpn="-1" channel="0" />
-    <Param name="375" val="-1" nrpn="-1" channel="0" />
-    <Param name="376" val="-1" nrpn="-1" channel="0" />
-    <Param name="377" val="-1" nrpn="-1" channel="0" />
-    <Param name="378" val="-1" nrpn="-1" channel="0" />
-    <Param name="379" val="-1" nrpn="-1" channel="0" />
-    <Param name="380" val="-1" nrpn="-1" channel="0" />
-    <Param name="381" val="-1" nrpn="-1" channel="0" />
-    <Param name="382" val="-1" nrpn="-1" channel="0" />
-    <Param name="383" val="-1" nrpn="-1" channel="0" />
-    <Param name="384" val="-1" nrpn="-1" channel="0" />
-    <Param name="385" val="-1" nrpn="-1" channel="0" />
-    <Param name="386" val="-1" nrpn="-1" channel="0" />
-    <Param name="387" val="-1" nrpn="-1" channel="0" />
-    <Param name="388" val="-1" nrpn="-1" channel="0" />
-    <Param name="389" val="-1" nrpn="-1" channel="0" />
-    <Param name="390" val="-1" nrpn="-1" channel="0" />
-    <Param name="391" val="-1" nrpn="-1" channel="0" />
-    <Param name="392" val="-1" nrpn="-1" channel="0" />
-    <Param name="393" val="-1" nrpn="-1" channel="0" />
-    <Param name="394" val="-1" nrpn="-1" channel="0" />
-    <Param name="395" val="-1" nrpn="-1" channel="0" />
-    <Param name="396" val="-1" nrpn="-1" channel="0" />
-    <Param name="397" val="-1" nrpn="-1" channel="0" />
-    <Param name="398" val="-1" nrpn="-1" channel="0" />
-    <Param name="399" val="-1" nrpn="-1" channel="0" />
-    <Param name="400" val="-1" nrpn="-1" channel="0" />
-    <Param name="401" val="-1" nrpn="-1" channel="0" />
-    <Param name="402" val="-1" nrpn="-1" channel="0" />
-    <Param name="403" val="-1" nrpn="-1" channel="0" />
-    <Param name="404" val="-1" nrpn="-1" channel="0" />
-    <Param name="405" val="-1" nrpn="-1" channel="0" />
-    <Param name="406" val="-1" nrpn="-1" channel="0" />
-    <Param name="407" val="-1" nrpn="-1" channel="0" />
-    <Param name="408" val="-1" nrpn="-1" channel="0" />
-    <Param name="409" val="-1" nrpn="-1" channel="0" />
-    <Param name="410" val="-1" nrpn="-1" channel="0" />
-    <Param name="411" val="-1" nrpn="-1" channel="0" />
-    <Param name="412" val="-1" nrpn="-1" channel="0" />
-    <Param name="413" val="-1" nrpn="-1" channel="0" />
-    <Param name="414" val="-1" nrpn="-1" channel="0" />
-    <Param name="415" val="-1" nrpn="-1" channel="0" />
-    <Param name="416" val="-1" nrpn="-1" channel="0" />
-    <Param name="417" val="-1" nrpn="-1" channel="0" />
-    <Param name="418" val="-1" nrpn="-1" channel="0" />
-    <Param name="419" val="-1" nrpn="-1" channel="0" />
-    <Param name="420" val="-1" nrpn="-1" channel="0" />
-    <Param name="421" val="-1" nrpn="-1" channel="0" />
-    <Param name="422" val="-1" nrpn="-1" channel="0" />
-    <Param name="423" val="-1" nrpn="-1" channel="0" />
-    <Param name="424" val="-1" nrpn="-1" channel="0" />
-    <Param name="425" val="-1" nrpn="-1" channel="0" />
-    <Param name="426" val="-1" nrpn="-1" channel="0" />
-    <Param name="427" val="-1" nrpn="-1" channel="0" />
-    <Param name="428" val="-1" nrpn="-1" channel="0" />
-    <Param name="429" val="-1" nrpn="-1" channel="0" />
-    <Param name="430" val="-1" nrpn="-1" channel="0" />
-    <Param name="431" val="-1" nrpn="-1" channel="0" />
-    <Param name="432" val="-1" nrpn="-1" channel="0" />
-    <Param name="433" val="-1" nrpn="-1" channel="0" />
-    <Param name="434" val="-1" nrpn="-1" channel="0" />
-    <Param name="435" val="-1" nrpn="-1" channel="0" />
-    <Param name="436" val="-1" nrpn="-1" channel="0" />
-    <Param name="437" val="-1" nrpn="-1" channel="0" />
-    <Param name="438" val="-1" nrpn="-1" channel="0" />
-    <Param name="439" val="-1" nrpn="-1" channel="0" />
-    <Param name="440" val="-1" nrpn="-1" channel="0" />
-    <Param name="441" val="-1" nrpn="-1" channel="0" />
-    <Param name="442" val="-1" nrpn="-1" channel="0" />
-    <Param name="443" val="-1" nrpn="-1" channel="0" />
-    <Param name="444" val="-1" nrpn="-1" channel="0" />
-    <Param name="445" val="-1" nrpn="-1" channel="0" />
-    <Param name="446" val="-1" nrpn="-1" channel="0" />
-    <Param name="447" val="-1" nrpn="-1" channel="0" />
-    <Param name="448" val="-1" nrpn="-1" channel="0" />
-    <Param name="449" val="-1" nrpn="-1" channel="0" />
-    <Param name="450" val="-1" nrpn="-1" channel="0" />
-    <Param name="451" val="-1" nrpn="-1" channel="0" />
-    <Param name="452" val="-1" nrpn="-1" channel="0" />
-    <Param name="453" val="-1" nrpn="-1" channel="0" />
-    <Param name="454" val="-1" nrpn="-1" channel="0" />
-    <Param name="455" val="-1" nrpn="-1" channel="0" />
-    <Param name="456" val="-1" nrpn="-1" channel="0" />
-    <Param name="457" val="-1" nrpn="-1" channel="0" />
-    <Param name="458" val="-1" nrpn="-1" channel="0" />
-    <Param name="459" val="-1" nrpn="-1" channel="0" />
-    <Param name="460" val="-1" nrpn="-1" channel="0" />
-    <Param name="461" val="-1" nrpn="-1" channel="0" />
-    <Param name="462" val="-1" nrpn="-1" channel="0" />
-    <Param name="463" val="-1" nrpn="-1" channel="0" />
-    <Param name="464" val="-1" nrpn="-1" channel="0" />
-    <Param name="465" val="-1" nrpn="-1" channel="0" />
-    <Param name="466" val="-1" nrpn="-1" channel="0" />
-    <Param name="467" val="-1" nrpn="-1" channel="0" />
-    <Param name="468" val="-1" nrpn="-1" channel="0" />
-    <Param name="469" val="-1" nrpn="-1" channel="0" />
-    <Param name="470" val="-1" nrpn="-1" channel="0" />
-    <Param name="471" val="-1" nrpn="-1" channel="0" />
-    <Param name="472" val="-1" nrpn="-1" channel="0" />
-    <Param name="473" val="-1" nrpn="-1" channel="0" />
-    <Param name="474" val="-1" nrpn="-1" channel="0" />
-    <Param name="475" val="-1" nrpn="-1" channel="0" />
-    <Param name="476" val="-1" nrpn="-1" channel="0" />
-    <Param name="477" val="-1" nrpn="-1" channel="0" />
-    <Param name="478" val="-1" nrpn="-1" channel="0" />
-    <Param name="479" val="-1" nrpn="-1" channel="0" />
-    <Param name="480" val="-1" nrpn="-1" channel="0" />
-    <Param name="481" val="-1" nrpn="-1" channel="0" />
-    <Param name="482" val="-1" nrpn="-1" channel="0" />
-    <Param name="483" val="-1" nrpn="-1" channel="0" />
-    <Param name="484" val="-1" nrpn="-1" channel="0" />
-    <Param name="485" val="-1" nrpn="-1" channel="0" />
-    <Param name="486" val="-1" nrpn="-1" channel="0" />
-    <Param name="487" val="-1" nrpn="-1" channel="0" />
-    <Param name="488" val="-1" nrpn="-1" channel="0" />
-    <Param name="489" val="-1" nrpn="-1" channel="0" />
-    <Param name="490" val="-1" nrpn="-1" channel="0" />
-    <Param name="491" val="-1" nrpn="-1" channel="0" />
-    <Param name="492" val="-1" nrpn="-1" channel="0" />
-    <Param name="493" val="-1" nrpn="-1" channel="0" />
-    <Param name="494" val="-1" nrpn="-1" channel="0" />
-    <Param name="495" val="-1" nrpn="-1" channel="0" />
-    <Param name="496" val="-1" nrpn="-1" channel="0" />
-    <Param name="497" val="-1" nrpn="-1" channel="0" />
-    <Param name="498" val="-1" nrpn="-1" channel="0" />
-    <Param name="499" val="-1" nrpn="-1" channel="0" />
-    <Param name="500" val="-1" nrpn="-1" channel="0" />
-    <Param name="501" val="-1" nrpn="-1" channel="0" />
-    <Param name="502" val="-1" nrpn="-1" channel="0" />
-    <Param name="503" val="-1" nrpn="-1" channel="0" />
-    <Param name="504" val="-1" nrpn="-1" channel="0" />
-    <Param name="505" val="-1" nrpn="-1" channel="0" />
-    <Param name="506" val="-1" nrpn="-1" channel="0" />
-    <Param name="507" val="-1" nrpn="-1" channel="0" />
-    <Param name="508" val="-1" nrpn="-1" channel="0" />
-    <Param name="509" val="-1" nrpn="-1" channel="0" />
-    <Param name="510" val="-1" nrpn="-1" channel="0" />
-    <Param name="511" val="-1" nrpn="-1" channel="0" />
-    <Param name="512" val="-1" nrpn="-1" channel="0" />
-    <Param name="DmxNextPage" val="-1" nrpn="-1" channel="0" />
-    <Param name="DmxPrevPage" val="-1" nrpn="-1" channel="0" />
-    <Param name="Master Speed" val="-1" nrpn="-1" channel="0" />
-    <Param name="MasterTempo" val="-1" nrpn="-1" channel="1" />
-    <Param name="Macros" val="-1" nrpn="-1" channel="-51" />
-    <Param name="Grand Master" val="-1" nrpn="-1" channel="0" />
-    <Param name="Crossfade" val="-1" nrpn="-1" channel="-51" />
-    <Param name="Type" val="-1" nrpn="-1" channel="0" />
-    <Param name="Amount" val="-1" nrpn="-1" channel="0" />
-    <Param name="Offset" val="-1" nrpn="-1" channel="0" />
-    <Param name="Speed" val="-1" nrpn="-1" channel="0" />
-    <Param name="Shape" val="-1" nrpn="-1" channel="0" />
-    <Param name="Band" val="-1" nrpn="-1" channel="0" />
-    <Param name="Level" val="-1" nrpn="-1" channel="0" />
-    <Param name="Attack" val="-1" nrpn="-1" channel="0" />
-    <Param name="Release" val="-1" nrpn="-1" channel="0" />
-    <Param name="Dir" val="-1" nrpn="-1" channel="0" />
-    <Param name="Invert" val="-1" nrpn="-1" channel="0" />
-    <Param name="Enabled" val="-1" nrpn="-1" channel="-51" />
-</MidiAssignments>
-<FswHandler dct="150" cht="150" sca="0" scb="0" dca="0" dcb="0" cnha="0" cnhb="0" ta="0" tb="0" />
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DmxUniverse>
+  <DmxPatches/>
+  <DmxFixtures>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Stairville/5x5 LED Matrix 28 Channel.dmx" disp="5x5 LED Matrix 28 Channel" from="1" to="28"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Stairville/5x5 LED Matrix 28 Channel.dmx" disp="5x5 LED Matrix 28 Channel" from="33" to="60"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Showtec/Sunstrip 10ch.dmx" disp="Sunstrip 10ch" from="65" to="74"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Eurolite/LED BAR 3 HCL 10ch.dmx" disp="LED BAR 3 HCL 10ch" from="97" to="106"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Stairville/Wild Wash 132 LED RGB 6ch 6ch mode.dmx" disp="Wild Wash 132 LED RGB 6ch 6ch mode" from="113" to="118"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Showtec/Sunstrip 10ch.dmx" disp="Sunstrip 10ch" from="81" to="90"/>
+  </DmxFixtures>
+  <DmxZones/>
+  <MidiAssignments>
+    <Param name="X Value" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Bank" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Preset" val="-1" nrpn="-1" channel="0"/>
+    <Param name="PresetUp" val="-1" nrpn="-1" channel="0"/>
+    <Param name="PresetDown" val="-1" nrpn="-1" channel="0"/>
+    <Param name="ShowPresetPage" val="-1" nrpn="-1" channel="0"/>
+    <Param name="BankUp" val="-1" nrpn="-1" channel="0"/>
+    <Param name="BankDown" val="-1" nrpn="-1" channel="0"/>
+    <Param name="NewPreset" val="-1" nrpn="-1" channel="0"/>
+    <Param name="DeletePreset" val="-1" nrpn="-1" channel="0"/>
+    <Param name="EditPreset" val="-1" nrpn="-1" channel="0"/>
+    <Param name="NewBank" val="-1" nrpn="-1" channel="0"/>
+    <Param name="DeleteBank" val="-1" nrpn="-1" channel="0"/>
+    <Param name="EditBank" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Autoplay Bank" val="-1" nrpn="-1" channel="0"/>
+    <Param name="OverwrtPst" val="-1" nrpn="-1" channel="0"/>
+    <Param name="1" val="-1" nrpn="-1" channel="0"/>
+    <Param name="2" val="-1" nrpn="-1" channel="0"/>
+    <Param name="3" val="-1" nrpn="-1" channel="0"/>
+    <Param name="4" val="-76" nrpn="-1" channel="0"/>
+    <Param name="5" val="108" nrpn="-1" channel="0"/>
+    <Param name="6" val="-1" nrpn="-1" channel="0"/>
+    <Param name="7" val="-1" nrpn="-1" channel="0"/>
+    <Param name="8" val="-1" nrpn="-1" channel="0"/>
+    <Param name="9" val="108" nrpn="-1" channel="0"/>
+    <Param name="10" val="-1" nrpn="-1" channel="0"/>
+    <Param name="11" val="-1" nrpn="-1" channel="0"/>
+    <Param name="12" val="-1" nrpn="-1" channel="0"/>
+    <Param name="13" val="-1" nrpn="-1" channel="0"/>
+    <Param name="14" val="-1" nrpn="-1" channel="0"/>
+    <Param name="15" val="-1" nrpn="-1" channel="0"/>
+    <Param name="16" val="-1" nrpn="-1" channel="0"/>
+    <Param name="17" val="5" nrpn="-1" channel="0"/>
+    <Param name="18" val="-1" nrpn="-1" channel="0"/>
+    <Param name="19" val="-1" nrpn="-1" channel="0"/>
+    <Param name="20" val="-1" nrpn="-1" channel="0"/>
+    <Param name="21" val="-1" nrpn="-1" channel="0"/>
+    <Param name="22" val="-1" nrpn="-1" channel="0"/>
+    <Param name="23" val="-1" nrpn="-1" channel="0"/>
+    <Param name="24" val="-1" nrpn="-1" channel="0"/>
+    <Param name="25" val="-1" nrpn="-1" channel="0"/>
+    <Param name="26" val="-1" nrpn="-1" channel="0"/>
+    <Param name="27" val="-1" nrpn="-1" channel="0"/>
+    <Param name="28" val="-1" nrpn="-1" channel="0"/>
+    <Param name="29" val="-1" nrpn="-1" channel="0"/>
+    <Param name="30" val="-1" nrpn="-1" channel="0"/>
+    <Param name="31" val="-1" nrpn="-1" channel="0"/>
+    <Param name="32" val="-1" nrpn="-1" channel="0"/>
+    <Param name="33" val="-1" nrpn="-1" channel="0"/>
+    <Param name="34" val="-1" nrpn="-1" channel="0"/>
+    <Param name="35" val="-1" nrpn="-1" channel="0"/>
+    <Param name="36" val="-1" nrpn="-1" channel="0"/>
+    <Param name="37" val="-1" nrpn="-1" channel="0"/>
+    <Param name="38" val="-1" nrpn="-1" channel="0"/>
+    <Param name="39" val="-1" nrpn="-1" channel="0"/>
+    <Param name="40" val="-1" nrpn="-1" channel="0"/>
+    <Param name="41" val="-1" nrpn="-1" channel="0"/>
+    <Param name="42" val="-1" nrpn="-1" channel="0"/>
+    <Param name="43" val="-1" nrpn="-1" channel="0"/>
+    <Param name="44" val="-1" nrpn="-1" channel="0"/>
+    <Param name="45" val="-1" nrpn="-1" channel="0"/>
+    <Param name="46" val="-1" nrpn="-1" channel="0"/>
+    <Param name="47" val="-1" nrpn="-1" channel="0"/>
+    <Param name="48" val="-1" nrpn="-1" channel="0"/>
+    <Param name="49" val="-1" nrpn="-1" channel="0"/>
+    <Param name="50" val="-1" nrpn="-1" channel="0"/>
+    <Param name="51" val="-1" nrpn="-1" channel="0"/>
+    <Param name="52" val="-1" nrpn="-1" channel="0"/>
+    <Param name="53" val="-1" nrpn="-1" channel="0"/>
+    <Param name="54" val="-1" nrpn="-1" channel="0"/>
+    <Param name="55" val="-1" nrpn="-1" channel="0"/>
+    <Param name="56" val="-1" nrpn="-1" channel="0"/>
+    <Param name="57" val="-1" nrpn="-1" channel="0"/>
+    <Param name="58" val="-1" nrpn="-1" channel="0"/>
+    <Param name="59" val="-1" nrpn="-1" channel="0"/>
+    <Param name="60" val="-1" nrpn="-1" channel="0"/>
+    <Param name="61" val="-1" nrpn="-1" channel="0"/>
+    <Param name="62" val="-1" nrpn="-1" channel="0"/>
+    <Param name="63" val="-1" nrpn="-1" channel="0"/>
+    <Param name="64" val="-1" nrpn="-1" channel="0"/>
+    <Param name="65" val="-1" nrpn="-1" channel="0"/>
+    <Param name="66" val="-1" nrpn="-1" channel="0"/>
+    <Param name="67" val="-1" nrpn="-1" channel="0"/>
+    <Param name="68" val="-1" nrpn="-1" channel="0"/>
+    <Param name="69" val="-1" nrpn="-1" channel="0"/>
+    <Param name="70" val="-1" nrpn="-1" channel="0"/>
+    <Param name="71" val="-1" nrpn="-1" channel="0"/>
+    <Param name="72" val="-1" nrpn="-1" channel="0"/>
+    <Param name="73" val="-1" nrpn="-1" channel="0"/>
+    <Param name="74" val="-1" nrpn="-1" channel="0"/>
+    <Param name="75" val="-1" nrpn="-1" channel="0"/>
+    <Param name="76" val="-1" nrpn="-1" channel="0"/>
+    <Param name="77" val="-1" nrpn="-1" channel="0"/>
+    <Param name="78" val="-1" nrpn="-1" channel="0"/>
+    <Param name="79" val="-1" nrpn="-1" channel="0"/>
+    <Param name="80" val="-1" nrpn="-1" channel="0"/>
+    <Param name="81" val="-1" nrpn="-1" channel="0"/>
+    <Param name="82" val="-1" nrpn="-1" channel="0"/>
+    <Param name="83" val="-1" nrpn="-1" channel="0"/>
+    <Param name="84" val="-1" nrpn="-1" channel="0"/>
+    <Param name="85" val="-1" nrpn="-1" channel="0"/>
+    <Param name="86" val="-1" nrpn="-1" channel="0"/>
+    <Param name="87" val="-1" nrpn="-1" channel="0"/>
+    <Param name="88" val="-1" nrpn="-1" channel="0"/>
+    <Param name="89" val="-1" nrpn="-1" channel="0"/>
+    <Param name="90" val="-1" nrpn="-1" channel="0"/>
+    <Param name="91" val="-1" nrpn="-1" channel="0"/>
+    <Param name="92" val="-1" nrpn="-1" channel="0"/>
+    <Param name="93" val="-1" nrpn="-1" channel="0"/>
+    <Param name="94" val="-1" nrpn="-1" channel="0"/>
+    <Param name="95" val="-1" nrpn="-1" channel="0"/>
+    <Param name="96" val="-1" nrpn="-1" channel="0"/>
+    <Param name="97" val="-1" nrpn="-1" channel="0"/>
+    <Param name="98" val="-1" nrpn="-1" channel="0"/>
+    <Param name="99" val="-1" nrpn="-1" channel="0"/>
+    <Param name="100" val="-1" nrpn="-1" channel="0"/>
+    <Param name="101" val="-1" nrpn="-1" channel="0"/>
+    <Param name="102" val="-1" nrpn="-1" channel="0"/>
+    <Param name="103" val="-1" nrpn="-1" channel="0"/>
+    <Param name="104" val="-1" nrpn="-1" channel="0"/>
+    <Param name="105" val="-1" nrpn="-1" channel="0"/>
+    <Param name="106" val="-1" nrpn="-1" channel="0"/>
+    <Param name="107" val="-1" nrpn="-1" channel="0"/>
+    <Param name="108" val="-1" nrpn="-1" channel="0"/>
+    <Param name="109" val="-1" nrpn="-1" channel="0"/>
+    <Param name="110" val="-1" nrpn="-1" channel="0"/>
+    <Param name="111" val="-1" nrpn="-1" channel="0"/>
+    <Param name="112" val="-1" nrpn="-1" channel="0"/>
+    <Param name="113" val="-1" nrpn="-1" channel="0"/>
+    <Param name="114" val="-1" nrpn="-1" channel="0"/>
+    <Param name="115" val="-1" nrpn="-1" channel="0"/>
+    <Param name="116" val="-1" nrpn="-1" channel="0"/>
+    <Param name="117" val="-1" nrpn="-1" channel="0"/>
+    <Param name="118" val="-1" nrpn="-1" channel="0"/>
+    <Param name="119" val="-1" nrpn="-1" channel="0"/>
+    <Param name="120" val="-1" nrpn="-1" channel="0"/>
+    <Param name="121" val="-1" nrpn="-1" channel="0"/>
+    <Param name="122" val="-1" nrpn="-1" channel="0"/>
+    <Param name="123" val="-1" nrpn="-1" channel="0"/>
+    <Param name="124" val="-1" nrpn="-1" channel="0"/>
+    <Param name="125" val="-1" nrpn="-1" channel="0"/>
+    <Param name="126" val="-1" nrpn="-1" channel="0"/>
+    <Param name="127" val="-1" nrpn="-1" channel="0"/>
+    <Param name="128" val="-1" nrpn="-1" channel="0"/>
+    <Param name="129" val="-1" nrpn="-1" channel="0"/>
+    <Param name="130" val="-1" nrpn="-1" channel="0"/>
+    <Param name="131" val="-1" nrpn="-1" channel="0"/>
+    <Param name="132" val="-1" nrpn="-1" channel="0"/>
+    <Param name="133" val="-1" nrpn="-1" channel="0"/>
+    <Param name="134" val="-1" nrpn="-1" channel="0"/>
+    <Param name="135" val="-1" nrpn="-1" channel="0"/>
+    <Param name="136" val="-1" nrpn="-1" channel="0"/>
+    <Param name="137" val="-1" nrpn="-1" channel="0"/>
+    <Param name="138" val="-1" nrpn="-1" channel="0"/>
+    <Param name="139" val="-1" nrpn="-1" channel="0"/>
+    <Param name="140" val="-1" nrpn="-1" channel="0"/>
+    <Param name="141" val="-1" nrpn="-1" channel="0"/>
+    <Param name="142" val="-1" nrpn="-1" channel="0"/>
+    <Param name="143" val="-1" nrpn="-1" channel="0"/>
+    <Param name="144" val="-1" nrpn="-1" channel="0"/>
+    <Param name="145" val="-1" nrpn="-1" channel="0"/>
+    <Param name="146" val="-1" nrpn="-1" channel="0"/>
+    <Param name="147" val="-1" nrpn="-1" channel="0"/>
+    <Param name="148" val="-1" nrpn="-1" channel="0"/>
+    <Param name="149" val="-1" nrpn="-1" channel="0"/>
+    <Param name="150" val="-1" nrpn="-1" channel="0"/>
+    <Param name="151" val="-1" nrpn="-1" channel="0"/>
+    <Param name="152" val="-1" nrpn="-1" channel="0"/>
+    <Param name="153" val="-1" nrpn="-1" channel="0"/>
+    <Param name="154" val="-1" nrpn="-1" channel="0"/>
+    <Param name="155" val="-1" nrpn="-1" channel="0"/>
+    <Param name="156" val="-1" nrpn="-1" channel="0"/>
+    <Param name="157" val="-1" nrpn="-1" channel="0"/>
+    <Param name="158" val="-1" nrpn="-1" channel="0"/>
+    <Param name="159" val="-1" nrpn="-1" channel="0"/>
+    <Param name="160" val="-1" nrpn="-1" channel="0"/>
+    <Param name="161" val="-1" nrpn="-1" channel="0"/>
+    <Param name="162" val="-1" nrpn="-1" channel="0"/>
+    <Param name="163" val="-1" nrpn="-1" channel="0"/>
+    <Param name="164" val="-1" nrpn="-1" channel="0"/>
+    <Param name="165" val="-1" nrpn="-1" channel="0"/>
+    <Param name="166" val="-1" nrpn="-1" channel="0"/>
+    <Param name="167" val="-1" nrpn="-1" channel="0"/>
+    <Param name="168" val="-1" nrpn="-1" channel="0"/>
+    <Param name="169" val="-1" nrpn="-1" channel="0"/>
+    <Param name="170" val="-1" nrpn="-1" channel="0"/>
+    <Param name="171" val="-1" nrpn="-1" channel="0"/>
+    <Param name="172" val="-1" nrpn="-1" channel="0"/>
+    <Param name="173" val="-1" nrpn="-1" channel="0"/>
+    <Param name="174" val="-1" nrpn="-1" channel="0"/>
+    <Param name="175" val="-1" nrpn="-1" channel="0"/>
+    <Param name="176" val="-1" nrpn="-1" channel="0"/>
+    <Param name="177" val="-1" nrpn="-1" channel="0"/>
+    <Param name="178" val="-1" nrpn="-1" channel="0"/>
+    <Param name="179" val="-1" nrpn="-1" channel="0"/>
+    <Param name="180" val="-1" nrpn="-1" channel="0"/>
+    <Param name="181" val="-1" nrpn="-1" channel="0"/>
+    <Param name="182" val="-1" nrpn="-1" channel="0"/>
+    <Param name="183" val="-1" nrpn="-1" channel="0"/>
+    <Param name="184" val="-1" nrpn="-1" channel="0"/>
+    <Param name="185" val="-1" nrpn="-1" channel="0"/>
+    <Param name="186" val="-1" nrpn="-1" channel="0"/>
+    <Param name="187" val="-1" nrpn="-1" channel="0"/>
+    <Param name="188" val="-1" nrpn="-1" channel="0"/>
+    <Param name="189" val="-1" nrpn="-1" channel="0"/>
+    <Param name="190" val="-1" nrpn="-1" channel="0"/>
+    <Param name="191" val="-1" nrpn="-1" channel="0"/>
+    <Param name="192" val="-1" nrpn="-1" channel="0"/>
+    <Param name="193" val="-1" nrpn="-1" channel="0"/>
+    <Param name="194" val="-1" nrpn="-1" channel="0"/>
+    <Param name="195" val="-1" nrpn="-1" channel="0"/>
+    <Param name="196" val="-1" nrpn="-1" channel="0"/>
+    <Param name="197" val="-1" nrpn="-1" channel="0"/>
+    <Param name="198" val="-1" nrpn="-1" channel="0"/>
+    <Param name="199" val="-1" nrpn="-1" channel="0"/>
+    <Param name="200" val="-1" nrpn="-1" channel="0"/>
+    <Param name="201" val="-1" nrpn="-1" channel="0"/>
+    <Param name="202" val="-1" nrpn="-1" channel="0"/>
+    <Param name="203" val="-1" nrpn="-1" channel="0"/>
+    <Param name="204" val="-1" nrpn="-1" channel="0"/>
+    <Param name="205" val="-1" nrpn="-1" channel="0"/>
+    <Param name="206" val="-1" nrpn="-1" channel="0"/>
+    <Param name="207" val="-1" nrpn="-1" channel="0"/>
+    <Param name="208" val="-1" nrpn="-1" channel="0"/>
+    <Param name="209" val="-1" nrpn="-1" channel="0"/>
+    <Param name="210" val="-1" nrpn="-1" channel="0"/>
+    <Param name="211" val="-1" nrpn="-1" channel="0"/>
+    <Param name="212" val="-1" nrpn="-1" channel="0"/>
+    <Param name="213" val="-1" nrpn="-1" channel="0"/>
+    <Param name="214" val="-1" nrpn="-1" channel="0"/>
+    <Param name="215" val="-1" nrpn="-1" channel="0"/>
+    <Param name="216" val="-1" nrpn="-1" channel="0"/>
+    <Param name="217" val="-1" nrpn="-1" channel="0"/>
+    <Param name="218" val="-1" nrpn="-1" channel="0"/>
+    <Param name="219" val="-1" nrpn="-1" channel="0"/>
+    <Param name="220" val="-1" nrpn="-1" channel="0"/>
+    <Param name="221" val="-1" nrpn="-1" channel="0"/>
+    <Param name="222" val="-1" nrpn="-1" channel="0"/>
+    <Param name="223" val="-1" nrpn="-1" channel="0"/>
+    <Param name="224" val="-1" nrpn="-1" channel="0"/>
+    <Param name="225" val="-1" nrpn="-1" channel="0"/>
+    <Param name="226" val="-1" nrpn="-1" channel="0"/>
+    <Param name="227" val="-1" nrpn="-1" channel="0"/>
+    <Param name="228" val="-1" nrpn="-1" channel="0"/>
+    <Param name="229" val="-1" nrpn="-1" channel="0"/>
+    <Param name="230" val="-1" nrpn="-1" channel="0"/>
+    <Param name="231" val="-1" nrpn="-1" channel="0"/>
+    <Param name="232" val="-1" nrpn="-1" channel="0"/>
+    <Param name="233" val="-1" nrpn="-1" channel="0"/>
+    <Param name="234" val="-1" nrpn="-1" channel="0"/>
+    <Param name="235" val="-1" nrpn="-1" channel="0"/>
+    <Param name="236" val="-1" nrpn="-1" channel="0"/>
+    <Param name="237" val="-1" nrpn="-1" channel="0"/>
+    <Param name="238" val="-1" nrpn="-1" channel="0"/>
+    <Param name="239" val="-1" nrpn="-1" channel="0"/>
+    <Param name="240" val="-1" nrpn="-1" channel="0"/>
+    <Param name="241" val="-1" nrpn="-1" channel="0"/>
+    <Param name="242" val="-1" nrpn="-1" channel="0"/>
+    <Param name="243" val="-1" nrpn="-1" channel="0"/>
+    <Param name="244" val="-1" nrpn="-1" channel="0"/>
+    <Param name="245" val="-1" nrpn="-1" channel="0"/>
+    <Param name="246" val="-1" nrpn="-1" channel="0"/>
+    <Param name="247" val="-1" nrpn="-1" channel="0"/>
+    <Param name="248" val="-1" nrpn="-1" channel="0"/>
+    <Param name="249" val="-1" nrpn="-1" channel="0"/>
+    <Param name="250" val="-1" nrpn="-1" channel="0"/>
+    <Param name="251" val="-1" nrpn="-1" channel="0"/>
+    <Param name="252" val="-1" nrpn="-1" channel="0"/>
+    <Param name="253" val="-1" nrpn="-1" channel="0"/>
+    <Param name="254" val="-1" nrpn="-1" channel="0"/>
+    <Param name="255" val="-1" nrpn="-1" channel="0"/>
+    <Param name="256" val="-1" nrpn="-1" channel="0"/>
+    <Param name="257" val="-1" nrpn="-1" channel="0"/>
+    <Param name="258" val="-1" nrpn="-1" channel="0"/>
+    <Param name="259" val="-1" nrpn="-1" channel="0"/>
+    <Param name="260" val="-1" nrpn="-1" channel="0"/>
+    <Param name="261" val="-1" nrpn="-1" channel="0"/>
+    <Param name="262" val="-1" nrpn="-1" channel="0"/>
+    <Param name="263" val="-1" nrpn="-1" channel="0"/>
+    <Param name="264" val="-1" nrpn="-1" channel="0"/>
+    <Param name="265" val="-1" nrpn="-1" channel="0"/>
+    <Param name="266" val="-1" nrpn="-1" channel="0"/>
+    <Param name="267" val="-1" nrpn="-1" channel="0"/>
+    <Param name="268" val="-1" nrpn="-1" channel="0"/>
+    <Param name="269" val="-1" nrpn="-1" channel="0"/>
+    <Param name="270" val="-1" nrpn="-1" channel="0"/>
+    <Param name="271" val="-1" nrpn="-1" channel="0"/>
+    <Param name="272" val="-1" nrpn="-1" channel="0"/>
+    <Param name="273" val="-1" nrpn="-1" channel="0"/>
+    <Param name="274" val="-1" nrpn="-1" channel="0"/>
+    <Param name="275" val="-1" nrpn="-1" channel="0"/>
+    <Param name="276" val="-1" nrpn="-1" channel="0"/>
+    <Param name="277" val="-1" nrpn="-1" channel="0"/>
+    <Param name="278" val="-1" nrpn="-1" channel="0"/>
+    <Param name="279" val="-1" nrpn="-1" channel="0"/>
+    <Param name="280" val="-1" nrpn="-1" channel="0"/>
+    <Param name="281" val="-1" nrpn="-1" channel="0"/>
+    <Param name="282" val="-1" nrpn="-1" channel="0"/>
+    <Param name="283" val="-1" nrpn="-1" channel="0"/>
+    <Param name="284" val="-1" nrpn="-1" channel="0"/>
+    <Param name="285" val="-1" nrpn="-1" channel="0"/>
+    <Param name="286" val="-1" nrpn="-1" channel="0"/>
+    <Param name="287" val="-1" nrpn="-1" channel="0"/>
+    <Param name="288" val="-1" nrpn="-1" channel="0"/>
+    <Param name="289" val="-1" nrpn="-1" channel="0"/>
+    <Param name="290" val="-1" nrpn="-1" channel="0"/>
+    <Param name="291" val="-1" nrpn="-1" channel="0"/>
+    <Param name="292" val="-1" nrpn="-1" channel="0"/>
+    <Param name="293" val="-1" nrpn="-1" channel="0"/>
+    <Param name="294" val="-1" nrpn="-1" channel="0"/>
+    <Param name="295" val="-1" nrpn="-1" channel="0"/>
+    <Param name="296" val="-1" nrpn="-1" channel="0"/>
+    <Param name="297" val="-1" nrpn="-1" channel="0"/>
+    <Param name="298" val="-1" nrpn="-1" channel="0"/>
+    <Param name="299" val="-1" nrpn="-1" channel="0"/>
+    <Param name="300" val="-1" nrpn="-1" channel="0"/>
+    <Param name="301" val="-1" nrpn="-1" channel="0"/>
+    <Param name="302" val="-1" nrpn="-1" channel="0"/>
+    <Param name="303" val="-1" nrpn="-1" channel="0"/>
+    <Param name="304" val="-1" nrpn="-1" channel="0"/>
+    <Param name="305" val="-1" nrpn="-1" channel="0"/>
+    <Param name="306" val="-1" nrpn="-1" channel="0"/>
+    <Param name="307" val="-1" nrpn="-1" channel="0"/>
+    <Param name="308" val="-1" nrpn="-1" channel="0"/>
+    <Param name="309" val="-1" nrpn="-1" channel="0"/>
+    <Param name="310" val="-1" nrpn="-1" channel="0"/>
+    <Param name="311" val="-1" nrpn="-1" channel="0"/>
+    <Param name="312" val="-1" nrpn="-1" channel="0"/>
+    <Param name="313" val="-1" nrpn="-1" channel="0"/>
+    <Param name="314" val="-1" nrpn="-1" channel="0"/>
+    <Param name="315" val="-1" nrpn="-1" channel="0"/>
+    <Param name="316" val="-1" nrpn="-1" channel="0"/>
+    <Param name="317" val="-1" nrpn="-1" channel="0"/>
+    <Param name="318" val="-1" nrpn="-1" channel="0"/>
+    <Param name="319" val="-1" nrpn="-1" channel="0"/>
+    <Param name="320" val="-1" nrpn="-1" channel="0"/>
+    <Param name="321" val="-1" nrpn="-1" channel="0"/>
+    <Param name="322" val="-1" nrpn="-1" channel="0"/>
+    <Param name="323" val="-1" nrpn="-1" channel="0"/>
+    <Param name="324" val="-1" nrpn="-1" channel="0"/>
+    <Param name="325" val="-1" nrpn="-1" channel="0"/>
+    <Param name="326" val="-1" nrpn="-1" channel="0"/>
+    <Param name="327" val="-1" nrpn="-1" channel="0"/>
+    <Param name="328" val="-1" nrpn="-1" channel="0"/>
+    <Param name="329" val="-1" nrpn="-1" channel="0"/>
+    <Param name="330" val="-1" nrpn="-1" channel="0"/>
+    <Param name="331" val="-1" nrpn="-1" channel="0"/>
+    <Param name="332" val="-1" nrpn="-1" channel="0"/>
+    <Param name="333" val="-1" nrpn="-1" channel="0"/>
+    <Param name="334" val="-1" nrpn="-1" channel="0"/>
+    <Param name="335" val="-1" nrpn="-1" channel="0"/>
+    <Param name="336" val="-1" nrpn="-1" channel="0"/>
+    <Param name="337" val="-1" nrpn="-1" channel="0"/>
+    <Param name="338" val="-1" nrpn="-1" channel="0"/>
+    <Param name="339" val="-1" nrpn="-1" channel="0"/>
+    <Param name="340" val="-1" nrpn="-1" channel="0"/>
+    <Param name="341" val="-1" nrpn="-1" channel="0"/>
+    <Param name="342" val="-1" nrpn="-1" channel="0"/>
+    <Param name="343" val="-1" nrpn="-1" channel="0"/>
+    <Param name="344" val="-1" nrpn="-1" channel="0"/>
+    <Param name="345" val="-1" nrpn="-1" channel="0"/>
+    <Param name="346" val="-1" nrpn="-1" channel="0"/>
+    <Param name="347" val="-1" nrpn="-1" channel="0"/>
+    <Param name="348" val="-1" nrpn="-1" channel="0"/>
+    <Param name="349" val="-1" nrpn="-1" channel="0"/>
+    <Param name="350" val="-1" nrpn="-1" channel="0"/>
+    <Param name="351" val="-1" nrpn="-1" channel="0"/>
+    <Param name="352" val="-1" nrpn="-1" channel="0"/>
+    <Param name="353" val="-1" nrpn="-1" channel="0"/>
+    <Param name="354" val="-1" nrpn="-1" channel="0"/>
+    <Param name="355" val="-1" nrpn="-1" channel="0"/>
+    <Param name="356" val="-1" nrpn="-1" channel="0"/>
+    <Param name="357" val="-1" nrpn="-1" channel="0"/>
+    <Param name="358" val="-1" nrpn="-1" channel="0"/>
+    <Param name="359" val="-1" nrpn="-1" channel="0"/>
+    <Param name="360" val="-1" nrpn="-1" channel="0"/>
+    <Param name="361" val="-1" nrpn="-1" channel="0"/>
+    <Param name="362" val="-1" nrpn="-1" channel="0"/>
+    <Param name="363" val="-1" nrpn="-1" channel="0"/>
+    <Param name="364" val="-1" nrpn="-1" channel="0"/>
+    <Param name="365" val="-1" nrpn="-1" channel="0"/>
+    <Param name="366" val="-1" nrpn="-1" channel="0"/>
+    <Param name="367" val="-1" nrpn="-1" channel="0"/>
+    <Param name="368" val="-1" nrpn="-1" channel="0"/>
+    <Param name="369" val="-1" nrpn="-1" channel="0"/>
+    <Param name="370" val="-1" nrpn="-1" channel="0"/>
+    <Param name="371" val="-1" nrpn="-1" channel="0"/>
+    <Param name="372" val="-1" nrpn="-1" channel="0"/>
+    <Param name="373" val="-1" nrpn="-1" channel="0"/>
+    <Param name="374" val="-1" nrpn="-1" channel="0"/>
+    <Param name="375" val="-1" nrpn="-1" channel="0"/>
+    <Param name="376" val="-1" nrpn="-1" channel="0"/>
+    <Param name="377" val="-1" nrpn="-1" channel="0"/>
+    <Param name="378" val="-1" nrpn="-1" channel="0"/>
+    <Param name="379" val="-1" nrpn="-1" channel="0"/>
+    <Param name="380" val="-1" nrpn="-1" channel="0"/>
+    <Param name="381" val="-1" nrpn="-1" channel="0"/>
+    <Param name="382" val="-1" nrpn="-1" channel="0"/>
+    <Param name="383" val="-1" nrpn="-1" channel="0"/>
+    <Param name="384" val="-1" nrpn="-1" channel="0"/>
+    <Param name="385" val="-1" nrpn="-1" channel="0"/>
+    <Param name="386" val="-1" nrpn="-1" channel="0"/>
+    <Param name="387" val="-1" nrpn="-1" channel="0"/>
+    <Param name="388" val="-1" nrpn="-1" channel="0"/>
+    <Param name="389" val="-1" nrpn="-1" channel="0"/>
+    <Param name="390" val="-1" nrpn="-1" channel="0"/>
+    <Param name="391" val="-1" nrpn="-1" channel="0"/>
+    <Param name="392" val="-1" nrpn="-1" channel="0"/>
+    <Param name="393" val="-1" nrpn="-1" channel="0"/>
+    <Param name="394" val="-1" nrpn="-1" channel="0"/>
+    <Param name="395" val="-1" nrpn="-1" channel="0"/>
+    <Param name="396" val="-1" nrpn="-1" channel="0"/>
+    <Param name="397" val="-1" nrpn="-1" channel="0"/>
+    <Param name="398" val="-1" nrpn="-1" channel="0"/>
+    <Param name="399" val="-1" nrpn="-1" channel="0"/>
+    <Param name="400" val="-1" nrpn="-1" channel="0"/>
+    <Param name="401" val="-1" nrpn="-1" channel="0"/>
+    <Param name="402" val="-1" nrpn="-1" channel="0"/>
+    <Param name="403" val="-1" nrpn="-1" channel="0"/>
+    <Param name="404" val="-1" nrpn="-1" channel="0"/>
+    <Param name="405" val="-1" nrpn="-1" channel="0"/>
+    <Param name="406" val="-1" nrpn="-1" channel="0"/>
+    <Param name="407" val="-1" nrpn="-1" channel="0"/>
+    <Param name="408" val="-1" nrpn="-1" channel="0"/>
+    <Param name="409" val="-1" nrpn="-1" channel="0"/>
+    <Param name="410" val="-1" nrpn="-1" channel="0"/>
+    <Param name="411" val="-1" nrpn="-1" channel="0"/>
+    <Param name="412" val="-1" nrpn="-1" channel="0"/>
+    <Param name="413" val="-1" nrpn="-1" channel="0"/>
+    <Param name="414" val="-1" nrpn="-1" channel="0"/>
+    <Param name="415" val="-1" nrpn="-1" channel="0"/>
+    <Param name="416" val="-1" nrpn="-1" channel="0"/>
+    <Param name="417" val="-1" nrpn="-1" channel="0"/>
+    <Param name="418" val="-1" nrpn="-1" channel="0"/>
+    <Param name="419" val="-1" nrpn="-1" channel="0"/>
+    <Param name="420" val="-1" nrpn="-1" channel="0"/>
+    <Param name="421" val="-1" nrpn="-1" channel="0"/>
+    <Param name="422" val="-1" nrpn="-1" channel="0"/>
+    <Param name="423" val="-1" nrpn="-1" channel="0"/>
+    <Param name="424" val="-1" nrpn="-1" channel="0"/>
+    <Param name="425" val="-1" nrpn="-1" channel="0"/>
+    <Param name="426" val="-1" nrpn="-1" channel="0"/>
+    <Param name="427" val="-1" nrpn="-1" channel="0"/>
+    <Param name="428" val="-1" nrpn="-1" channel="0"/>
+    <Param name="429" val="-1" nrpn="-1" channel="0"/>
+    <Param name="430" val="-1" nrpn="-1" channel="0"/>
+    <Param name="431" val="-1" nrpn="-1" channel="0"/>
+    <Param name="432" val="-1" nrpn="-1" channel="0"/>
+    <Param name="433" val="-1" nrpn="-1" channel="0"/>
+    <Param name="434" val="-1" nrpn="-1" channel="0"/>
+    <Param name="435" val="-1" nrpn="-1" channel="0"/>
+    <Param name="436" val="-1" nrpn="-1" channel="0"/>
+    <Param name="437" val="-1" nrpn="-1" channel="0"/>
+    <Param name="438" val="-1" nrpn="-1" channel="0"/>
+    <Param name="439" val="-1" nrpn="-1" channel="0"/>
+    <Param name="440" val="-1" nrpn="-1" channel="0"/>
+    <Param name="441" val="-1" nrpn="-1" channel="0"/>
+    <Param name="442" val="-1" nrpn="-1" channel="0"/>
+    <Param name="443" val="-1" nrpn="-1" channel="0"/>
+    <Param name="444" val="-1" nrpn="-1" channel="0"/>
+    <Param name="445" val="-1" nrpn="-1" channel="0"/>
+    <Param name="446" val="-1" nrpn="-1" channel="0"/>
+    <Param name="447" val="-1" nrpn="-1" channel="0"/>
+    <Param name="448" val="-1" nrpn="-1" channel="0"/>
+    <Param name="449" val="-1" nrpn="-1" channel="0"/>
+    <Param name="450" val="-1" nrpn="-1" channel="0"/>
+    <Param name="451" val="-1" nrpn="-1" channel="0"/>
+    <Param name="452" val="-1" nrpn="-1" channel="0"/>
+    <Param name="453" val="-1" nrpn="-1" channel="0"/>
+    <Param name="454" val="-1" nrpn="-1" channel="0"/>
+    <Param name="455" val="-1" nrpn="-1" channel="0"/>
+    <Param name="456" val="-1" nrpn="-1" channel="0"/>
+    <Param name="457" val="-1" nrpn="-1" channel="0"/>
+    <Param name="458" val="-1" nrpn="-1" channel="0"/>
+    <Param name="459" val="-1" nrpn="-1" channel="0"/>
+    <Param name="460" val="-1" nrpn="-1" channel="0"/>
+    <Param name="461" val="-1" nrpn="-1" channel="0"/>
+    <Param name="462" val="-1" nrpn="-1" channel="0"/>
+    <Param name="463" val="-1" nrpn="-1" channel="0"/>
+    <Param name="464" val="-1" nrpn="-1" channel="0"/>
+    <Param name="465" val="-1" nrpn="-1" channel="0"/>
+    <Param name="466" val="-1" nrpn="-1" channel="0"/>
+    <Param name="467" val="-1" nrpn="-1" channel="0"/>
+    <Param name="468" val="-1" nrpn="-1" channel="0"/>
+    <Param name="469" val="-1" nrpn="-1" channel="0"/>
+    <Param name="470" val="-1" nrpn="-1" channel="0"/>
+    <Param name="471" val="-1" nrpn="-1" channel="0"/>
+    <Param name="472" val="-1" nrpn="-1" channel="0"/>
+    <Param name="473" val="-1" nrpn="-1" channel="0"/>
+    <Param name="474" val="-1" nrpn="-1" channel="0"/>
+    <Param name="475" val="-1" nrpn="-1" channel="0"/>
+    <Param name="476" val="-1" nrpn="-1" channel="0"/>
+    <Param name="477" val="-1" nrpn="-1" channel="0"/>
+    <Param name="478" val="-1" nrpn="-1" channel="0"/>
+    <Param name="479" val="-1" nrpn="-1" channel="0"/>
+    <Param name="480" val="-1" nrpn="-1" channel="0"/>
+    <Param name="481" val="-1" nrpn="-1" channel="0"/>
+    <Param name="482" val="-1" nrpn="-1" channel="0"/>
+    <Param name="483" val="-1" nrpn="-1" channel="0"/>
+    <Param name="484" val="-1" nrpn="-1" channel="0"/>
+    <Param name="485" val="-1" nrpn="-1" channel="0"/>
+    <Param name="486" val="-1" nrpn="-1" channel="0"/>
+    <Param name="487" val="-1" nrpn="-1" channel="0"/>
+    <Param name="488" val="-1" nrpn="-1" channel="0"/>
+    <Param name="489" val="-1" nrpn="-1" channel="0"/>
+    <Param name="490" val="-1" nrpn="-1" channel="0"/>
+    <Param name="491" val="-1" nrpn="-1" channel="0"/>
+    <Param name="492" val="-1" nrpn="-1" channel="0"/>
+    <Param name="493" val="-1" nrpn="-1" channel="0"/>
+    <Param name="494" val="-1" nrpn="-1" channel="0"/>
+    <Param name="495" val="-1" nrpn="-1" channel="0"/>
+    <Param name="496" val="-1" nrpn="-1" channel="0"/>
+    <Param name="497" val="-1" nrpn="-1" channel="0"/>
+    <Param name="498" val="-1" nrpn="-1" channel="0"/>
+    <Param name="499" val="-1" nrpn="-1" channel="0"/>
+    <Param name="500" val="-1" nrpn="-1" channel="0"/>
+    <Param name="501" val="-1" nrpn="-1" channel="0"/>
+    <Param name="502" val="-1" nrpn="-1" channel="0"/>
+    <Param name="503" val="-1" nrpn="-1" channel="0"/>
+    <Param name="504" val="-1" nrpn="-1" channel="0"/>
+    <Param name="505" val="-1" nrpn="-1" channel="0"/>
+    <Param name="506" val="-1" nrpn="-1" channel="0"/>
+    <Param name="507" val="-1" nrpn="-1" channel="0"/>
+    <Param name="508" val="-1" nrpn="-1" channel="0"/>
+    <Param name="509" val="-1" nrpn="-1" channel="0"/>
+    <Param name="510" val="-1" nrpn="-1" channel="0"/>
+    <Param name="511" val="-1" nrpn="-1" channel="0"/>
+    <Param name="512" val="-1" nrpn="-1" channel="0"/>
+    <Param name="DmxNextPage" val="-1" nrpn="-1" channel="0"/>
+    <Param name="DmxPrevPage" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Master Speed" val="-1" nrpn="-1" channel="0"/>
+    <Param name="MasterTempo" val="-1" nrpn="-1" channel="1"/>
+    <Param name="Macros" val="-1" nrpn="-1" channel="-51"/>
+    <Param name="Grand Master" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Crossfade" val="-1" nrpn="-1" channel="-51"/>
+    <Param name="Type" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Amount" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Offset" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Speed" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Shape" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Band" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Level" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Attack" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Release" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Dir" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Invert" val="-1" nrpn="-1" channel="0"/>
+    <Param name="Enabled" val="-1" nrpn="-1" channel="-51"/>
+  </MidiAssignments>
+  <FswHandler dct="150" cht="150" sca="0" scb="0" dca="0" dcb="0" cnha="0" cnhb="0" ta="0" tb="0"/>
+</DmxUniverse>

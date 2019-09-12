@@ -1,26 +1,30 @@
-<?xml version="1.0" ?>
-<Order>
-    <Preset name="Full Off" crossfade="0.100000" />
-    <Preset name="Full On" crossfade="0.100000" />
-    <Preset name="BI Step 1" crossfade="0.000000" />
-    <Preset name="BI Step 2" crossfade="0.000000" />
-    <Preset name="BI Step 3" crossfade="0.000000" />
-    <Preset name="BI Step 4" crossfade="0.000000" />
-    <Preset name="BI Step 5" crossfade="0.000000" />
-    <Preset name="BO Step 1" crossfade="0.000000" />
-    <Preset name="BO Step 2" crossfade="0.000000" />
-    <Preset name="BO Step 3" crossfade="0.000000" />
-    <Preset name="BO Step 4" crossfade="0.000000" />
-    <Preset name="BO Step 5" crossfade="0.000000" />
-    <Preset name="TO Step 1" crossfade="0.000000" />
-    <Preset name="TO Step 2" crossfade="0.000000" />
-    <Preset name="TO Step 3" crossfade="0.000000" />
-    <Preset name="TO Step 4" crossfade="0.000000" />
-    <Preset name="TO Step 5" crossfade="0.000000" />
-    <Preset name="TI Step 1" crossfade="0.000000" />
-    <Preset name="TI Step 2" crossfade="0.000000" />
-    <Preset name="TI Step 3" crossfade="0.000000" />
-    <Preset name="TI Step 4" crossfade="0.000000" />
-    <Preset name="TI Step 5" crossfade="0.000000" />
-</Order>
-<Tempo val="120.000000" />
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Full Off" crossfade="0.10000000149011611938"/>
+    <Preset name="Full On" crossfade="0.10000000149011611938"/>
+    <Preset name="BI Step 1" crossfade="0"/>
+    <Preset name="BI Step 2" crossfade="0"/>
+    <Preset name="BI Step 3" crossfade="0"/>
+    <Preset name="BI Step 4" crossfade="0"/>
+    <Preset name="BI Step 5" crossfade="0"/>
+    <Preset name="BO Step 1" crossfade="0"/>
+    <Preset name="BO Step 2" crossfade="0"/>
+    <Preset name="BO Step 3" crossfade="0"/>
+    <Preset name="BO Step 4" crossfade="0"/>
+    <Preset name="BO Step 5" crossfade="0"/>
+    <Preset name="TO Step 1" crossfade="0"/>
+    <Preset name="TO Step 2" crossfade="0"/>
+    <Preset name="TO Step 3" crossfade="0"/>
+    <Preset name="TO Step 4" crossfade="0"/>
+    <Preset name="TO Step 5" crossfade="0"/>
+    <Preset name="TI Step 1" crossfade="0"/>
+    <Preset name="TI Step 2" crossfade="0"/>
+    <Preset name="TI Step 3" crossfade="0"/>
+    <Preset name="TI Step 4" crossfade="0"/>
+    <Preset name="TI Step 5" crossfade="0"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="4"/>
+</CmPresetBank>
