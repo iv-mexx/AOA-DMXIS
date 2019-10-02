@@ -3,8 +3,8 @@
 <CmPresetBank>
   <Order>
     <Preset name="Reset All"/>
-    <Preset name="Full Off" crossfade="0.10000000149011611938"/>
-    <Preset name="Full On" crossfade="0.10000000149011611938"/>
+    <Preset name="Full Off" crossfade="0"/>
+    <Preset name="Full On" crossfade="0"/>
     <Preset name="Matrix Only Full" crossfade="0"/>
     <Preset name="Sunstrip Only Full" crossfade="0"/>
     <Preset name="Left Matrix Only Full" crossfade="0"/>

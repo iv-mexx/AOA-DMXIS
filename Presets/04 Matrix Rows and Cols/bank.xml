@@ -34,7 +34,7 @@
     <Preset name="Row 5 off" crossfade="0"/>
     <Preset name="All Off" crossfade="0"/>
     <Preset name="All On" crossfade="0"/>
-    <Preset name="Activate Matrix" crossfade="0.50359201431274414062"/>
+    <Preset name="Activate Matrix" crossfade="0"/>
   </Order>
   <Tempo val="120"/>
   <BankOrder val="3"/>

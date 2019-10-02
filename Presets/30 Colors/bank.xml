@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Full Off" crossfade="0"/>
+    <Preset name="Intro Chase 1" crossfade="0"/>
+    <Preset name="Intro Chase 2" crossfade="0"/>
+    <Preset name="Dying Lights 1" crossfade="0"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="32"/>
+</CmPresetBank>

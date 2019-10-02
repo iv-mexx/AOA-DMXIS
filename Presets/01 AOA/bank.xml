@@ -3,15 +3,15 @@
 <CmPresetBank>
   <Order>
     <Preset name="Off" crossfade="0"/>
-    <Preset name="FULL ON" crossfade="0.10000000149011611938"/>
-    <Preset name="Full-On" crossfade="0.10000000149011611938"/>
+    <Preset name="FULL ON" crossfade="0"/>
+    <Preset name="Full-On" crossfade="0"/>
     <Preset name="Outer Columns" crossfade="0"/>
     <Preset name="Inner Columns" crossfade="0"/>
     <Preset name="Top Rows" crossfade="0"/>
     <Preset name="Bottom Rows" crossfade="0"/>
-    <Preset name="Random Chase 1" crossfade="0.50359201431274414062"/>
+    <Preset name="Random Chase 1" crossfade="0"/>
     <Preset name="Random Chase 2" crossfade="0.50359201431274414062"/>
-    <Preset name="Chase - Bubble Up" crossfade="0.50359201431274414062"/>
+    <Preset name="Chase - Bubble Up" crossfade="0"/>
     <Preset name="AOA" crossfade="0"/>
     <Preset name="Chase Outwards Up Step 1 - 5" crossfade="0"/>
     <Preset name="Chase Outwards Up Step 2 - 5" crossfade="0"/>

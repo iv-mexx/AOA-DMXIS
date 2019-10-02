@@ -2,15 +2,15 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Full Off" crossfade="0.10000000149011611938"/>
-    <Preset name="Full On" crossfade="0.10000000149011611938"/>
-    <Preset name="01" crossfade="0.10000000149011611938"/>
-    <Preset name="02" crossfade="0.10000000149011611938"/>
-    <Preset name="03" crossfade="0.10000000149011611938"/>
-    <Preset name="04" crossfade="0.10000000149011611938"/>
-    <Preset name="05" crossfade="0.10000000149011611938"/>
-    <Preset name="06" crossfade="0.10000000149011611938"/>
-    <Preset name="07" crossfade="0.10000000149011611938"/>
+    <Preset name="Full Off" crossfade="0"/>
+    <Preset name="Full On" crossfade="0"/>
+    <Preset name="01" crossfade="0"/>
+    <Preset name="02" crossfade="0"/>
+    <Preset name="03" crossfade="0"/>
+    <Preset name="04" crossfade="0"/>
+    <Preset name="05" crossfade="0"/>
+    <Preset name="06" crossfade="0"/>
+    <Preset name="07" crossfade="0"/>
   </Order>
   <Tempo val="120"/>
   <BankOrder val="28"/>

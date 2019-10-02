@@ -2,11 +2,11 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Strobe Left Only" crossfade="0.10000000149011611938"/>
-    <Preset name="Strobe Right Only" crossfade="0.10000000149011611938"/>
-    <Preset name="Fast Lines Left Only" crossfade="0.10000000149011611938"/>
-    <Preset name="Fast Lines Right Only" crossfade="0.10000000149011611938"/>
-    <Preset name="Concentric" crossfade="0.10000000149011611938"/>
+    <Preset name="Strobe Left Only" crossfade="0"/>
+    <Preset name="Strobe Right Only" crossfade="0"/>
+    <Preset name="Fast Lines Left Only" crossfade="0"/>
+    <Preset name="Fast Lines Right Only" crossfade="0"/>
+    <Preset name="Concentric" crossfade="0"/>
   </Order>
   <Tempo val="120"/>
   <BankOrder val="18"/>

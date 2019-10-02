@@ -7,8 +7,9 @@
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Stairville/5x5 LED Matrix 28 Channel.dmx" disp="5x5 LED Matrix 28 Channel" from="33" to="60"/>
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Showtec/Sunstrip 10ch.dmx" disp="Sunstrip 10ch" from="65" to="74"/>
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Eurolite/LED BAR 3 HCL 10ch.dmx" disp="LED BAR 3 HCL 10ch" from="97" to="106"/>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Stairville/Wild Wash 132 LED RGB 6ch 6ch mode.dmx" disp="Wild Wash 132 LED RGB 6ch 6ch mode" from="113" to="118"/>
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Showtec/Sunstrip 10ch.dmx" disp="Sunstrip 10ch" from="81" to="90"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Eurolite/LED BAR 3 HCL 10ch.dmx" disp="LED BAR 3 HCL 10ch" from="113" to="122"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Stairville/Wild Wash 132 LED RGB 6ch 6ch mode.dmx" disp="Wild Wash 132 LED RGB 6ch 6ch mode" from="129" to="134"/>
   </DmxFixtures>
   <DmxZones/>
   <MidiAssignments>
