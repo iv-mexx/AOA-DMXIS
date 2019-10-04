@@ -3,13 +3,13 @@
 <DmxUniverse>
   <DmxPatches/>
   <DmxFixtures>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Stairville/5x5 LED Matrix 28 Channel.dmx" disp="5x5 LED Matrix 28 Channel" from="1" to="28"/>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Stairville/5x5 LED Matrix 28 Channel.dmx" disp="5x5 LED Matrix 28 Channel" from="33" to="60"/>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Showtec/Sunstrip 10ch.dmx" disp="Sunstrip 10ch" from="65" to="74"/>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Showtec/Sunstrip 10ch.dmx" disp="Sunstrip 10ch" from="81" to="90"/>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Eurolite/LED BAR 3 HCL 10ch.dmx" disp="97 - Ego Riser Left" from="97" to="106"/>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Eurolite/LED BAR 3 HCL 10ch.dmx" disp="113 - Ego Riser Right" from="113" to="122"/>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//Stairville/Wild Wash 132 LED RGB 6ch 6ch mode.dmx" disp="123 - Wild Wash" from="123" to="128"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/5x5 LED Matrix 28 Channel.dmx" disp="5x5 LED Matrix 28 Channel" from="1" to="28"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/5x5 LED Matrix 28 Channel.dmx" disp="5x5 LED Matrix 28 Channel" from="33" to="60"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/Sunstrip 10ch.dmx" disp="Sunstrip 10ch" from="65" to="74"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/Sunstrip 10ch.dmx" disp="Sunstrip 10ch" from="81" to="90"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/LED BAR 3 HCL 10ch.dmx" disp="97 - Ego Riser Left" from="97" to="106"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/LED BAR 3 HCL 10ch.dmx" disp="113 - Ego Riser Right" from="113" to="122"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/Wild Wash 132 LED RGB 6ch.dmx" disp="129 - Wild Wash" from="129" to="134"/>
   </DmxFixtures>
   <DmxZones/>
   <MidiAssignments>
