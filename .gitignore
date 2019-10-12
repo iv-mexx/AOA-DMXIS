@@ -27,3 +27,5 @@
 # Default Library
 *.dmx
 
+# Include AOA Library
+!/DmxLibrary/AOA/*
