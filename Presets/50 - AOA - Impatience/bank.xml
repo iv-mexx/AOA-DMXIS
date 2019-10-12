@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="1 - Start" crossfade="0"/>
+    <Preset name="2 - Intro" crossfade="0.48775193095207214355"/>
+    <Preset name="3 - Intro" crossfade="0"/>
+    <Preset name="4 - Fill" crossfade="0"/>
+    <Preset name="5 - Vibrations" crossfade="0"/>
+    <Preset name="6 - " crossfade="0"/>
+    <Preset name="7 - " crossfade="0"/>
+    <Preset name="8 - Strobe Left" crossfade="0"/>
+    <Preset name="9 - Strobe Right" crossfade="0"/>
+    <Preset name="10 - End" crossfade="0"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="33"/>
+</CmPresetBank>

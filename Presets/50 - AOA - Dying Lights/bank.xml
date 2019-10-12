@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="01 - Intro" crossfade="0"/>
+    <Preset name="02 - Fill" crossfade="0"/>
+    <Preset name="03 - Fill" crossfade="0"/>
+    <Preset name="04 - Falling Wall" crossfade="0"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="34"/>
+</CmPresetBank>

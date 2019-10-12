@@ -5,7 +5,7 @@
 # Copy the left matrix to the right matrix
 
 offset = 1
-numChannels = 25
+numChannels = 27
 bankSize = 32
 bankFrom = 1
 bankTo = 2
@@ -15,7 +15,7 @@ for c in range(0, numChannels):
   toChannel = (bankTo - 1) * bankSize + offset + c
   SetChVal(toChannel, GetChVal(fromChannel))
   SetChEnabled(toChannel, GetChEnabled(fromChannel))
-  
+
   SetChVal(toChannel, GetChVal(fromChannel))
   SetOscAmount(toChannel, GetOscAmount(fromChannel))
   SetOscType(toChannel, GetOscType(fromChannel))

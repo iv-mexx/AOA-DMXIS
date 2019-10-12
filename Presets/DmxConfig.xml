@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <DmxUniverse>
-  <DmxPatches/>
+  <DmxPatches>
+    <DmxPatch startFader="29" endFader="-1" targetCh="97"/>
+    <DmxPatch startFader="30" endFader="-1" targetCh="98"/>
+    <DmxPatch startFader="31" endFader="-1" targetCh="113"/>
+    <DmxPatch startFader="32" endFader="-1" targetCh="114"/>
+    <DmxPatch startFader="99" endFader="-1" targetCh="99"/>
+    <DmxPatch startFader="99" endFader="-1" targetCh="115"/>
+    <DmxPatch startFader="100" endFader="-1" targetCh="100"/>
+    <DmxPatch startFader="101" endFader="-1" targetCh="101"/>
+    <DmxPatch startFader="102" endFader="-1" targetCh="102"/>
+    <DmxPatch startFader="103" endFader="-1" targetCh="103"/>
+    <DmxPatch startFader="104" endFader="-1" targetCh="104"/>
+    <DmxPatch startFader="105" endFader="-1" targetCh="105"/>
+    <DmxPatch startFader="106" endFader="-1" targetCh="106"/>
+    <DmxPatch startFader="100" endFader="-1" targetCh="116"/>
+    <DmxPatch startFader="101" endFader="-1" targetCh="117"/>
+    <DmxPatch startFader="102" endFader="-1" targetCh="118"/>
+    <DmxPatch startFader="103" endFader="-1" targetCh="119"/>
+    <DmxPatch startFader="104" endFader="-1" targetCh="120"/>
+    <DmxPatch startFader="105" endFader="-1" targetCh="121"/>
+    <DmxPatch startFader="106" endFader="-1" targetCh="122"/>
+  </DmxPatches>
   <DmxFixtures>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/5x5 LED Matrix 28 Channel.dmx" disp="5x5 LED Matrix 28 Channel" from="1" to="28"/>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/5x5 LED Matrix 28 Channel.dmx" disp="5x5 LED Matrix 28 Channel" from="33" to="60"/>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/Sunstrip 10ch.dmx" disp="Sunstrip 10ch" from="65" to="74"/>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/Sunstrip 10ch.dmx" disp="Sunstrip 10ch" from="81" to="90"/>
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/LED BAR 3 HCL 10ch.dmx" disp="97 - Ego Riser Left" from="97" to="106"/>
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/LED BAR 3 HCL 10ch.dmx" disp="113 - Ego Riser Right" from="113" to="122"/>
-    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/Wild Wash 132 LED RGB 6ch.dmx" disp="129 - Wild Wash" from="129" to="134"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/Sunstrip 10ch.dmx" disp="81 - Sunstrip Right" from="81" to="90"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/5x5 LED Matrix 28 Channel.dmx" disp="1 - LED Matrix Top" from="1" to="28"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/5x5 LED Matrix 28 Channel.dmx" disp="33 - LED Matrix Bottom" from="33" to="60"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/Sunstrip 10ch.dmx" disp="65 - Sunstrip Left" from="65" to="74"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/LED BAR Patch.dmx" disp="29 - Riser Left" from="29" to="30"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/LED BAR Patch.dmx" disp="Riser Right" from="31" to="32"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/Wild Wash 132 LED RGB 6ch.dmx" disp="75 - Wild Wash 132 LED RGB 6ch" from="75" to="80"/>
   </DmxFixtures>
   <DmxZones/>
   <MidiAssignments>
