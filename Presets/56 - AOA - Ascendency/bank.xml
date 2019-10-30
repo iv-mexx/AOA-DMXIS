@@ -9,7 +9,7 @@
     <Preset name="Chorus" crossfade="0"/>
     <Preset name="Verse Lamb of God" crossfade="0"/>
     <Preset name="Verse Tommy Lee" crossfade="0"/>
-    <Preset name="Pink" crossfade="0"/>
+    <Preset name="Post-Chorus" crossfade="0"/>
     <Preset name="Purple" crossfade="0"/>
     <Preset name="Title 00" crossfade="0"/>
     <Preset name="Title 01" crossfade="0"/>
@@ -124,6 +124,11 @@
     <Preset name="M4 - 20" crossfade="0"/>
     <Preset name="M4 - 21" crossfade="0"/>
     <Preset name="M4 - 22" crossfade="0"/>
+    <Preset name="Break - 01" crossfade="0"/>
+    <Preset name="Break - 02" crossfade="0"/>
+    <Preset name="Break - 03" crossfade="0"/>
+    <Preset name="Break - 04" crossfade="0"/>
+    <Preset name="Break - 05" crossfade="0"/>
   </Order>
   <Tempo val="120"/>
   <BankOrder val="39"/>

@@ -15,7 +15,8 @@
     <Preset name="10" crossfade="0"/>
     <Preset name="11" crossfade="0"/>
     <Preset name="12" crossfade="0"/>
+    <Preset name="13" crossfade="0"/>
   </Order>
-  <Tempo val="195"/>
+  <Tempo val="120"/>
   <BankOrder val="16"/>
 </CmPresetBank>
