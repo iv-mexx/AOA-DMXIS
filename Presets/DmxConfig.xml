@@ -33,6 +33,7 @@
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/LED BAR Patch.dmx" disp="29 - Riser Left" from="29" to="30"/>
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/LED BAR Patch.dmx" disp="Riser Right" from="31" to="32"/>
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/Wild Wash 132 LED RGB 6ch.dmx" disp="75 - Wild Wash 132 LED RGB 6ch" from="75" to="80"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/SmokeMachine-1ch.dmx" disp="SmokeMachine-1ch" from="64" to="64"/>
   </DmxFixtures>
   <DmxZones/>
   <MidiAssignments>
