@@ -10,6 +10,18 @@
     <Preset name="Step 6" crossfade="0"/>
     <Preset name="Step 7" crossfade="0"/>
     <Preset name="Step 8" crossfade="0"/>
+    <Preset name="Column Step 1" crossfade="0"/>
+    <Preset name="Column Step 2" crossfade="0"/>
+    <Preset name="Column Step 3" crossfade="0"/>
+    <Preset name="Column Step 4" crossfade="0"/>
+    <Preset name="Column Step 5" crossfade="0"/>
+    <Preset name="Column Step 6" crossfade="0"/>
+    <Preset name="Column Step 7" crossfade="0"/>
+    <Preset name="Column Step 8" crossfade="0"/>
+    <Preset name="Column Step 9" crossfade="0"/>
+    <Preset name="Column Step 10" crossfade="0"/>
+    <Preset name="Column Step 11" crossfade="0"/>
+    <Preset name="Column Step 12" crossfade="0"/>
   </Order>
   <Tempo val="120"/>
   <BankOrder val="8"/>

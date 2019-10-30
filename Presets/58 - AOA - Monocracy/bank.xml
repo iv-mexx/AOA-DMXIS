@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Intro" crossfade="0"/>
+    <Preset name="Color 1" crossfade="0"/>
+    <Preset name="Color 2" crossfade="0"/>
+    <Preset name="Title 00" crossfade="0"/>
+    <Preset name="Title 01" crossfade="0"/>
+    <Preset name="Title 02" crossfade="0"/>
+    <Preset name="Title 03" crossfade="0"/>
+    <Preset name="Title 04" crossfade="0"/>
+    <Preset name="Title 05" crossfade="0"/>
+    <Preset name="Title 06" crossfade="0"/>
+    <Preset name="Title 07" crossfade="0"/>
+    <Preset name="Title 08" crossfade="0"/>
+    <Preset name="Refrain" crossfade="0"/>
+    <Preset name="Break" crossfade="0"/>
+    <Preset name="Break 2" crossfade="0"/>
+    <Preset name="End 1" crossfade="0"/>
+    <Preset name="End 2" crossfade="0"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="41"/>
+</CmPresetBank>

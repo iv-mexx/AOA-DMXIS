@@ -2,7 +2,7 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Reset All"/>
+    <Preset name="Reset All" crossfade="0"/>
     <Preset name="Full Off" crossfade="0"/>
     <Preset name="Full On" crossfade="0"/>
     <Preset name="Matrix Only Full" crossfade="0"/>

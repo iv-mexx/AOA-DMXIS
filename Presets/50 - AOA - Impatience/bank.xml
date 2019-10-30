@@ -12,6 +12,16 @@
     <Preset name="8 - Strobe Left" crossfade="0"/>
     <Preset name="9 - Strobe Right" crossfade="0"/>
     <Preset name="10 - End" crossfade="0"/>
+    <Preset name="Title 01" crossfade="0"/>
+    <Preset name="Title 02" crossfade="0"/>
+    <Preset name="Title 03" crossfade="0"/>
+    <Preset name="Title 04" crossfade="0"/>
+    <Preset name="Title 05" crossfade="0"/>
+    <Preset name="Title 06" crossfade="0"/>
+    <Preset name="Title 07" crossfade="0"/>
+    <Preset name="Title 08" crossfade="0"/>
+    <Preset name="Title 09" crossfade="0"/>
+    <Preset name="Title 10" crossfade="0"/>
   </Order>
   <Tempo val="120"/>
   <BankOrder val="33"/>
