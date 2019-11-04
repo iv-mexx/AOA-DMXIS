@@ -100,6 +100,6 @@
     <Preset name="Refrain" crossfade="0"/>
     <Preset name="Refrain 2" crossfade="0"/>
   </Order>
-  <Tempo val="137"/>
+  <Tempo val="120"/>
   <BankOrder val="40"/>
 </CmPresetBank>
