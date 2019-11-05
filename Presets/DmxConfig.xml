@@ -6,8 +6,9 @@
     <DmxPatch startFader="30" endFader="-1" targetCh="98"/>
     <DmxPatch startFader="31" endFader="-1" targetCh="113"/>
     <DmxPatch startFader="32" endFader="-1" targetCh="114"/>
+    <DmxPatch startFader="75" endFader="-1" targetCh="129"/>
+    <DmxPatch startFader="76" endFader="-1" targetCh="130"/>
     <DmxPatch startFader="99" endFader="-1" targetCh="99"/>
-    <DmxPatch startFader="99" endFader="-1" targetCh="115"/>
     <DmxPatch startFader="100" endFader="-1" targetCh="100"/>
     <DmxPatch startFader="101" endFader="-1" targetCh="101"/>
     <DmxPatch startFader="102" endFader="-1" targetCh="102"/>
@@ -15,6 +16,7 @@
     <DmxPatch startFader="104" endFader="-1" targetCh="104"/>
     <DmxPatch startFader="105" endFader="-1" targetCh="105"/>
     <DmxPatch startFader="106" endFader="-1" targetCh="106"/>
+    <DmxPatch startFader="99" endFader="-1" targetCh="115"/>
     <DmxPatch startFader="100" endFader="-1" targetCh="116"/>
     <DmxPatch startFader="101" endFader="-1" targetCh="117"/>
     <DmxPatch startFader="102" endFader="-1" targetCh="118"/>
@@ -22,6 +24,14 @@
     <DmxPatch startFader="104" endFader="-1" targetCh="120"/>
     <DmxPatch startFader="105" endFader="-1" targetCh="121"/>
     <DmxPatch startFader="106" endFader="-1" targetCh="122"/>
+    <DmxPatch startFader="99" endFader="-1" targetCh="131"/>
+    <DmxPatch startFader="100" endFader="-1" targetCh="132"/>
+    <DmxPatch startFader="101" endFader="-1" targetCh="133"/>
+    <DmxPatch startFader="102" endFader="-1" targetCh="134"/>
+    <DmxPatch startFader="103" endFader="-1" targetCh="135"/>
+    <DmxPatch startFader="104" endFader="-1" targetCh="136"/>
+    <DmxPatch startFader="105" endFader="-1" targetCh="137"/>
+    <DmxPatch startFader="106" endFader="-1" targetCh="138"/>
   </DmxPatches>
   <DmxFixtures>
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/LED BAR 3 HCL 10ch.dmx" disp="97 - Ego Riser Left" from="97" to="106"/>
@@ -34,6 +44,7 @@
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/LED BAR Patch.dmx" disp="Riser Right" from="31" to="32"/>
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/Wild Wash 132 LED RGB 6ch.dmx" disp="75 - Wild Wash 132 LED RGB 6ch" from="75" to="80"/>
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/SmokeMachine-1ch.dmx" disp="SmokeMachine-1ch" from="64" to="64"/>
+    <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/LED BAR 3 HCL 10ch.dmx" disp="129 LED Bar Drums" from="129" to="138"/>
   </DmxFixtures>
   <DmxZones/>
   <MidiAssignments>
