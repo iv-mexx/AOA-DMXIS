@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Intro 1" crossfade="0"/>
+    <Preset name="Intro 2" crossfade="0"/>
+    <Preset name="Intro 3" crossfade="0"/>
+    <Preset name="Intro 4" crossfade="0"/>
+    <Preset name="Intro 5" crossfade="0"/>
+    <Preset name="Intro 6" crossfade="0"/>
+    <Preset name="Intro 7" crossfade="0"/>
+    <Preset name="Intro 8" crossfade="0"/>
+    <Preset name="Intro 9" crossfade="0"/>
+    <Preset name="NULL" crossfade="0"/>
+    <Preset name="A" crossfade="0"/>
+    <Preset name="B" crossfade="0"/>
+    <Preset name="C" crossfade="0"/>
+    <Preset name="D" crossfade="0"/>
+    <Preset name="E" crossfade="0"/>
+    <Preset name="F" crossfade="0"/>
+    <Preset name="G" crossfade="0"/>
+    <Preset name="H" crossfade="0"/>
+    <Preset name="I" crossfade="0"/>
+    <Preset name="J" crossfade="0"/>
+    <Preset name="K" crossfade="0"/>
+    <Preset name="L" crossfade="0"/>
+    <Preset name="M" crossfade="0"/>
+    <Preset name="N" crossfade="0"/>
+    <Preset name="O" crossfade="0"/>
+    <Preset name="P" crossfade="0"/>
+    <Preset name="Q" crossfade="0"/>
+    <Preset name="R" crossfade="0"/>
+    <Preset name="S" crossfade="0"/>
+    <Preset name="T" crossfade="0"/>
+    <Preset name="U" crossfade="0"/>
+    <Preset name="V" crossfade="0"/>
+    <Preset name="W" crossfade="0"/>
+    <Preset name="Y" crossfade="0"/>
+    <Preset name="X" crossfade="0"/>
+    <Preset name="Z" crossfade="0"/>
+  </Order>
+  <Tempo val="120"/>
+  <BankOrder val="46"/>
+</CmPresetBank>

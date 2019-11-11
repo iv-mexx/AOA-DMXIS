@@ -5,7 +5,9 @@
     <Preset name="Red" crossfade="0"/>
     <Preset name="Blue" crossfade="0"/>
     <Preset name="White" crossfade="0"/>
-    <Preset name="Murica" crossfade="0"/>
+    <Preset name="Muricaa" crossfade="0"/>
+    <Preset name="16th" crossfade="0"/>
+    <Preset name="Flag" crossfade="0"/>
   </Order>
   <Tempo val="120"/>
   <BankOrder val="43"/>

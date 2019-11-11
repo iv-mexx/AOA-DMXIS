@@ -13,6 +13,6 @@
     <Preset name="8" crossfade="0"/>
     <Preset name="9" crossfade="0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="300"/>
   <BankOrder val="11"/>
 </CmPresetBank>
