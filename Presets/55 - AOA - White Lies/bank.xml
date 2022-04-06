@@ -2,73 +2,73 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Intro" crossfade="0"/>
-    <Preset name="Title 00" crossfade="0"/>
-    <Preset name="Title 01" crossfade="0"/>
-    <Preset name="Title 02" crossfade="0"/>
-    <Preset name="Title 03" crossfade="0"/>
-    <Preset name="Title 04" crossfade="0"/>
-    <Preset name="Title 05" crossfade="0"/>
-    <Preset name="Title 06" crossfade="0"/>
-    <Preset name="Title 07" crossfade="0"/>
-    <Preset name="Title 08" crossfade="0"/>
-    <Preset name="Title 09" crossfade="0"/>
-    <Preset name="Title 10" crossfade="0"/>
-    <Preset name="Title 11" crossfade="0"/>
-    <Preset name="Title 12" crossfade="0"/>
-    <Preset name="Title 13" crossfade="0"/>
-    <Preset name="Title 14" crossfade="0"/>
-    <Preset name="Title 15" crossfade="0"/>
-    <Preset name="Title 16" crossfade="0"/>
-    <Preset name="Title 17" crossfade="0"/>
-    <Preset name="Title 18" crossfade="0"/>
-    <Preset name="Title 19" crossfade="0"/>
-    <Preset name="Title 20" crossfade="0"/>
-    <Preset name="Title 21" crossfade="0"/>
-    <Preset name="Title 22" crossfade="0"/>
-    <Preset name="Title 23" crossfade="0"/>
-    <Preset name="Title 24" crossfade="0"/>
-    <Preset name="Title 25" crossfade="0"/>
-    <Preset name="Title 26" crossfade="0"/>
-    <Preset name="Title 27" crossfade="0"/>
-    <Preset name="Title 28" crossfade="0"/>
-    <Preset name="Title 29" crossfade="0"/>
-    <Preset name="Title 30" crossfade="0"/>
-    <Preset name="Title 31" crossfade="0"/>
-    <Preset name="Title 32" crossfade="0"/>
-    <Preset name="Title 33" crossfade="0"/>
-    <Preset name="Title 34" crossfade="0"/>
-    <Preset name="Title 35" crossfade="0"/>
-    <Preset name="Title 36" crossfade="0"/>
-    <Preset name="Title 37" crossfade="0"/>
-    <Preset name="Title 38" crossfade="0"/>
-    <Preset name="Title 39" crossfade="0"/>
-    <Preset name="Title 40" crossfade="0"/>
-    <Preset name="Title 41" crossfade="0"/>
-    <Preset name="Title 42" crossfade="0"/>
-    <Preset name="Title 43" crossfade="0"/>
-    <Preset name="Title 44" crossfade="0"/>
-    <Preset name="Title 45" crossfade="0"/>
-    <Preset name="Title 46" crossfade="0"/>
-    <Preset name="Title 47" crossfade="0"/>
-    <Preset name="Title 48" crossfade="0"/>
-    <Preset name="Title 49" crossfade="0"/>
-    <Preset name="Title 50" crossfade="0"/>
-    <Preset name="Title 51" crossfade="0"/>
-    <Preset name="Title 52" crossfade="0"/>
-    <Preset name="Title 53" crossfade="0"/>
-    <Preset name="Title 54" crossfade="0"/>
-    <Preset name="Title 55" crossfade="0"/>
-    <Preset name="Title 56" crossfade="0"/>
-    <Preset name="Title 57" crossfade="0"/>
-    <Preset name="Title 58" crossfade="0"/>
-    <Preset name="Title 59" crossfade="0"/>
-    <Preset name="Title 60" crossfade="0"/>
-    <Preset name="Title 61" crossfade="0"/>
-    <Preset name="Intro Full" crossfade="0"/>
-    <Preset name="Strobe" crossfade="0"/>
-    <Preset name="Outro" crossfade="0"/>
+    <Preset name="Intro" crossfade="0.0"/>
+    <Preset name="Title 00" crossfade="0.0"/>
+    <Preset name="Title 01" crossfade="0.0"/>
+    <Preset name="Title 02" crossfade="0.0"/>
+    <Preset name="Title 03" crossfade="0.0"/>
+    <Preset name="Title 04" crossfade="0.0"/>
+    <Preset name="Title 05" crossfade="0.0"/>
+    <Preset name="Title 06" crossfade="0.0"/>
+    <Preset name="Title 07" crossfade="0.0"/>
+    <Preset name="Title 08" crossfade="0.0"/>
+    <Preset name="Title 09" crossfade="0.0"/>
+    <Preset name="Title 10" crossfade="0.0"/>
+    <Preset name="Title 11" crossfade="0.0"/>
+    <Preset name="Title 12" crossfade="0.0"/>
+    <Preset name="Title 13" crossfade="0.0"/>
+    <Preset name="Title 14" crossfade="0.0"/>
+    <Preset name="Title 15" crossfade="0.0"/>
+    <Preset name="Title 16" crossfade="0.0"/>
+    <Preset name="Title 17" crossfade="0.0"/>
+    <Preset name="Title 18" crossfade="0.0"/>
+    <Preset name="Title 19" crossfade="0.0"/>
+    <Preset name="Title 20" crossfade="0.0"/>
+    <Preset name="Title 21" crossfade="0.0"/>
+    <Preset name="Title 22" crossfade="0.0"/>
+    <Preset name="Title 23" crossfade="0.0"/>
+    <Preset name="Title 24" crossfade="0.0"/>
+    <Preset name="Title 25" crossfade="0.0"/>
+    <Preset name="Title 26" crossfade="0.0"/>
+    <Preset name="Title 27" crossfade="0.0"/>
+    <Preset name="Title 28" crossfade="0.0"/>
+    <Preset name="Title 29" crossfade="0.0"/>
+    <Preset name="Title 30" crossfade="0.0"/>
+    <Preset name="Title 31" crossfade="0.0"/>
+    <Preset name="Title 32" crossfade="0.0"/>
+    <Preset name="Title 33" crossfade="0.0"/>
+    <Preset name="Title 34" crossfade="0.0"/>
+    <Preset name="Title 35" crossfade="0.0"/>
+    <Preset name="Title 36" crossfade="0.0"/>
+    <Preset name="Title 37" crossfade="0.0"/>
+    <Preset name="Title 38" crossfade="0.0"/>
+    <Preset name="Title 39" crossfade="0.0"/>
+    <Preset name="Title 40" crossfade="0.0"/>
+    <Preset name="Title 41" crossfade="0.0"/>
+    <Preset name="Title 42" crossfade="0.0"/>
+    <Preset name="Title 43" crossfade="0.0"/>
+    <Preset name="Title 44" crossfade="0.0"/>
+    <Preset name="Title 45" crossfade="0.0"/>
+    <Preset name="Title 46" crossfade="0.0"/>
+    <Preset name="Title 47" crossfade="0.0"/>
+    <Preset name="Title 48" crossfade="0.0"/>
+    <Preset name="Title 49" crossfade="0.0"/>
+    <Preset name="Title 50" crossfade="0.0"/>
+    <Preset name="Title 51" crossfade="0.0"/>
+    <Preset name="Title 52" crossfade="0.0"/>
+    <Preset name="Title 53" crossfade="0.0"/>
+    <Preset name="Title 54" crossfade="0.0"/>
+    <Preset name="Title 55" crossfade="0.0"/>
+    <Preset name="Title 56" crossfade="0.0"/>
+    <Preset name="Title 57" crossfade="0.0"/>
+    <Preset name="Title 58" crossfade="0.0"/>
+    <Preset name="Title 59" crossfade="0.0"/>
+    <Preset name="Title 60" crossfade="0.0"/>
+    <Preset name="Title 61" crossfade="0.0"/>
+    <Preset name="Intro Full" crossfade="0.0"/>
+    <Preset name="Strobe" crossfade="0.0"/>
+    <Preset name="Outro" crossfade="0.0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="120.0"/>
   <BankOrder val="38"/>
 </CmPresetBank>

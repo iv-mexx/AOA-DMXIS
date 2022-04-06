@@ -2,9 +2,9 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Falling Stripes" crossfade="0"/>
-    <Preset name="Middle Stripes Fade Out" crossfade="0"/>
+    <Preset name="Falling Stripes" crossfade="0.0"/>
+    <Preset name="Middle Stripes Fade Out" crossfade="0.0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="120.0"/>
   <BankOrder val="17"/>
 </CmPresetBank>

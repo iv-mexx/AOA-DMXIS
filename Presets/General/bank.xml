@@ -2,8 +2,8 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Reset All"/>
+    <Preset name="Reset All" crossfade="0.0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="120.0"/>
   <BankOrder val="30"/>
 </CmPresetBank>

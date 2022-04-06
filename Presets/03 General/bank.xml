@@ -2,19 +2,19 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Reset All" crossfade="0"/>
-    <Preset name="Full Off" crossfade="0"/>
-    <Preset name="Full On" crossfade="0"/>
-    <Preset name="Matrix Only Full" crossfade="0"/>
-    <Preset name="Sunstrip Only Full" crossfade="0"/>
-    <Preset name="Left Matrix Only Full" crossfade="0"/>
-    <Preset name="Right Matrix Only Full" crossfade="0"/>
-    <Preset name="Left Sunstrip Only Full" crossfade="0"/>
-    <Preset name="Right Sunstrip Only Full" crossfade="0"/>
-    <Preset name="Add Matrix" crossfade="0"/>
-    <Preset name="Left Full" crossfade="0"/>
-    <Preset name="Right Full" crossfade="0"/>
+    <Preset name="Reset All" crossfade="0.0"/>
+    <Preset name="Full Off" crossfade="0.0"/>
+    <Preset name="Full On" crossfade="0.0"/>
+    <Preset name="Matrix Only Full" crossfade="0.0"/>
+    <Preset name="Sunstrip Only Full" crossfade="0.0"/>
+    <Preset name="Left Matrix Only Full" crossfade="0.0"/>
+    <Preset name="Right Matrix Only Full" crossfade="0.0"/>
+    <Preset name="Left Sunstrip Only Full" crossfade="0.0"/>
+    <Preset name="Right Sunstrip Only Full" crossfade="0.0"/>
+    <Preset name="Add Matrix" crossfade="0.0"/>
+    <Preset name="Left Full" crossfade="0.0"/>
+    <Preset name="Right Full" crossfade="0.0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="120.0"/>
   <BankOrder val="2"/>
 </CmPresetBank>

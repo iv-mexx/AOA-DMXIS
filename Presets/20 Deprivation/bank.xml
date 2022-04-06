@@ -2,56 +2,56 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="1 - RE" crossfade="0"/>
-    <Preset name="2 - SI" crossfade="0"/>
-    <Preset name="3 - ST" crossfade="0"/>
-    <Preset name="4 - AN" crossfade="0"/>
-    <Preset name="5 - CE" crossfade="0"/>
-    <Preset name="Res 1" crossfade="0"/>
-    <Preset name="Res 2" crossfade="0"/>
-    <Preset name="Res 3" crossfade="0"/>
-    <Preset name="Res 4" crossfade="0"/>
-    <Preset name="Res 5" crossfade="0"/>
-    <Preset name="Res 6" crossfade="0"/>
-    <Preset name="Res 7" crossfade="0"/>
-    <Preset name="Res 8" crossfade="0"/>
-    <Preset name="Res 9" crossfade="0"/>
-    <Preset name="Res 10" crossfade="0"/>
-    <Preset name="Res 11" crossfade="0"/>
-    <Preset name="Res 12" crossfade="0"/>
-    <Preset name="Res 13" crossfade="0"/>
-    <Preset name="Res 14" crossfade="0"/>
-    <Preset name="Res 15" crossfade="0"/>
-    <Preset name="Res 16" crossfade="0"/>
-    <Preset name="Res 17" crossfade="0"/>
-    <Preset name="Res 18" crossfade="0"/>
-    <Preset name="Res 19" crossfade="0"/>
-    <Preset name="Res 20" crossfade="0"/>
-    <Preset name="Res 21" crossfade="0"/>
-    <Preset name="Res 22" crossfade="0"/>
-    <Preset name="Res 23" crossfade="0"/>
-    <Preset name="Res 24" crossfade="0"/>
-    <Preset name="Res 25" crossfade="0"/>
-    <Preset name="Res 26" crossfade="0"/>
-    <Preset name="Res 27" crossfade="0"/>
-    <Preset name="Res 28" crossfade="0"/>
-    <Preset name="Res 29" crossfade="0"/>
-    <Preset name="Res 30" crossfade="0"/>
-    <Preset name="Res 31" crossfade="0"/>
-    <Preset name="Res 32" crossfade="0"/>
-    <Preset name="Res 33" crossfade="0"/>
-    <Preset name="Res 34" crossfade="0"/>
-    <Preset name="Res 35" crossfade="0"/>
-    <Preset name="Res 36" crossfade="0"/>
-    <Preset name="Res 37" crossfade="0"/>
-    <Preset name="Res 38" crossfade="0"/>
-    <Preset name="Res 39" crossfade="0"/>
-    <Preset name="Res 40" crossfade="0"/>
-    <Preset name="Res 41" crossfade="0"/>
-    <Preset name="Res 42" crossfade="0"/>
-    <Preset name="Res 43" crossfade="0"/>
-    <Preset name="Res 44" crossfade="0"/>
+    <Preset name="1 - RE" crossfade="0.0"/>
+    <Preset name="2 - SI" crossfade="0.0"/>
+    <Preset name="3 - ST" crossfade="0.0"/>
+    <Preset name="4 - AN" crossfade="0.0"/>
+    <Preset name="5 - CE" crossfade="0.0"/>
+    <Preset name="Res 1" crossfade="0.0"/>
+    <Preset name="Res 2" crossfade="0.0"/>
+    <Preset name="Res 3" crossfade="0.0"/>
+    <Preset name="Res 4" crossfade="0.0"/>
+    <Preset name="Res 5" crossfade="0.0"/>
+    <Preset name="Res 6" crossfade="0.0"/>
+    <Preset name="Res 7" crossfade="0.0"/>
+    <Preset name="Res 8" crossfade="0.0"/>
+    <Preset name="Res 9" crossfade="0.0"/>
+    <Preset name="Res 10" crossfade="0.0"/>
+    <Preset name="Res 11" crossfade="0.0"/>
+    <Preset name="Res 12" crossfade="0.0"/>
+    <Preset name="Res 13" crossfade="0.0"/>
+    <Preset name="Res 14" crossfade="0.0"/>
+    <Preset name="Res 15" crossfade="0.0"/>
+    <Preset name="Res 16" crossfade="0.0"/>
+    <Preset name="Res 17" crossfade="0.0"/>
+    <Preset name="Res 18" crossfade="0.0"/>
+    <Preset name="Res 19" crossfade="0.0"/>
+    <Preset name="Res 20" crossfade="0.0"/>
+    <Preset name="Res 21" crossfade="0.0"/>
+    <Preset name="Res 22" crossfade="0.0"/>
+    <Preset name="Res 23" crossfade="0.0"/>
+    <Preset name="Res 24" crossfade="0.0"/>
+    <Preset name="Res 25" crossfade="0.0"/>
+    <Preset name="Res 26" crossfade="0.0"/>
+    <Preset name="Res 27" crossfade="0.0"/>
+    <Preset name="Res 28" crossfade="0.0"/>
+    <Preset name="Res 29" crossfade="0.0"/>
+    <Preset name="Res 30" crossfade="0.0"/>
+    <Preset name="Res 31" crossfade="0.0"/>
+    <Preset name="Res 32" crossfade="0.0"/>
+    <Preset name="Res 33" crossfade="0.0"/>
+    <Preset name="Res 34" crossfade="0.0"/>
+    <Preset name="Res 35" crossfade="0.0"/>
+    <Preset name="Res 36" crossfade="0.0"/>
+    <Preset name="Res 37" crossfade="0.0"/>
+    <Preset name="Res 38" crossfade="0.0"/>
+    <Preset name="Res 39" crossfade="0.0"/>
+    <Preset name="Res 40" crossfade="0.0"/>
+    <Preset name="Res 41" crossfade="0.0"/>
+    <Preset name="Res 42" crossfade="0.0"/>
+    <Preset name="Res 43" crossfade="0.0"/>
+    <Preset name="Res 44" crossfade="0.0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="120.0"/>
   <BankOrder val="20"/>
 </CmPresetBank>
