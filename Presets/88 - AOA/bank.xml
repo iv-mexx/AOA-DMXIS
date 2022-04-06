@@ -5,5 +5,5 @@
     <Preset name="Out" crossfade="0.0"/>
   </Order>
   <Tempo val="120.0"/>
-  <BankOrder val="1000000"/>
+  <BankOrder val="53"/>
 </CmPresetBank>
