@@ -2,25 +2,26 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Full Off" crossfade="0"/>
-    <Preset name="Full On" crossfade="0"/>
-    <Preset name="Light Upwards" crossfade="0"/>
-    <Preset name="Falling Lights" crossfade="0"/>
-    <Preset name="Falling Lines" crossfade="0"/>
-    <Preset name="Outwards Bright" crossfade="0"/>
-    <Preset name="Outwards Dark" crossfade="0"/>
-    <Preset name="Inwards Bright" crossfade="0"/>
-    <Preset name="Inwards Dark" crossfade="0"/>
-    <Preset name="Falling Wall" crossfade="0"/>
-    <Preset name="Into Oblivion" crossfade="0"/>
-    <Preset name="Falling Stripes" crossfade="0"/>
-    <Preset name="Falling Lines Brighter" crossfade="0"/>
-    <Preset name="Monocracy" crossfade="0"/>
-    <Preset name="All Blinking" crossfade="0"/>
-    <Preset name="Schoen Intro" crossfade="0"/>
-    <Preset name="Resilience Verse" crossfade="0"/>
-    <Preset name="Matrix Chase Top-Outwards" crossfade="0"/>
+    <Preset name="Full Off" crossfade="0.0"/>
+    <Preset name="Full On" crossfade="0.0"/>
+    <Preset name="Light Upwards" crossfade="0.0"/>
+    <Preset name="Falling Lights" crossfade="0.0"/>
+    <Preset name="Falling Lines" crossfade="0.0"/>
+    <Preset name="Outwards Bright" crossfade="0.0"/>
+    <Preset name="Outwards Dark" crossfade="0.0"/>
+    <Preset name="Inwards Bright" crossfade="0.0"/>
+    <Preset name="Inwards Dark" crossfade="0.0"/>
+    <Preset name="Falling Wall" crossfade="0.0"/>
+    <Preset name="Into Oblivion" crossfade="0.0"/>
+    <Preset name="Falling Stripes" crossfade="0.0"/>
+    <Preset name="Falling Lines Brighter" crossfade="0.0"/>
+    <Preset name="Monocracy" crossfade="0.0"/>
+    <Preset name="All Blinking" crossfade="0.0"/>
+    <Preset name="Schoen Intro" crossfade="0.0"/>
+    <Preset name="Resilience Verse" crossfade="0.0"/>
+    <Preset name="Matrix Chase Top-Outwards" crossfade="0.0"/>
+    <Preset name="Matrix Tower Top" crossfade="0.0"/>
   </Order>
-  <Tempo val="137"/>
+  <Tempo val="137.0"/>
   <BankOrder val="1"/>
 </CmPresetBank>

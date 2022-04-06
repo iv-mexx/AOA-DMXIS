@@ -27,3 +27,9 @@
 # Default Library
 *.dmx
 
+# Compiled Macros
+
+*.pyc
+
+# Include AOA Library
+!/DmxLibrary/AOA/*

@@ -2,31 +2,31 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Fall 1" crossfade="0"/>
-    <Preset name="Fall 2" crossfade="0"/>
-    <Preset name="Fall 3" crossfade="0"/>
-    <Preset name="Fall 4" crossfade="0"/>
-    <Preset name="Fall 5" crossfade="0"/>
-    <Preset name="Fall 6" crossfade="0"/>
-    <Preset name="Fall 7" crossfade="0"/>
-    <Preset name="Fall 8" crossfade="0"/>
-    <Preset name="Fall 9" crossfade="0"/>
-    <Preset name="Fall 10" crossfade="0"/>
-    <Preset name="Fall 11" crossfade="0"/>
-    <Preset name="Fall 12" crossfade="0"/>
-    <Preset name="Fall 13" crossfade="0"/>
-    <Preset name="Fall 14" crossfade="0"/>
-    <Preset name="Fall 15" crossfade="0"/>
-    <Preset name="Fall 16" crossfade="0"/>
-    <Preset name="Fall 17" crossfade="0"/>
-    <Preset name="Fall 18" crossfade="0"/>
-    <Preset name="Fall 19" crossfade="0"/>
-    <Preset name="Fall 20" crossfade="0"/>
-    <Preset name="Fall 21" crossfade="0"/>
-    <Preset name="Fall 22" crossfade="0"/>
-    <Preset name="Fall 23" crossfade="0"/>
-    <Preset name="Fall 24" crossfade="0"/>
+    <Preset name="Fall 1" crossfade="0.0"/>
+    <Preset name="Fall 2" crossfade="0.0"/>
+    <Preset name="Fall 3" crossfade="0.0"/>
+    <Preset name="Fall 4" crossfade="0.0"/>
+    <Preset name="Fall 5" crossfade="0.0"/>
+    <Preset name="Fall 6" crossfade="0.0"/>
+    <Preset name="Fall 7" crossfade="0.0"/>
+    <Preset name="Fall 8" crossfade="0.0"/>
+    <Preset name="Fall 9" crossfade="0.0"/>
+    <Preset name="Fall 10" crossfade="0.0"/>
+    <Preset name="Fall 11" crossfade="0.0"/>
+    <Preset name="Fall 12" crossfade="0.0"/>
+    <Preset name="Fall 13" crossfade="0.0"/>
+    <Preset name="Fall 14" crossfade="0.0"/>
+    <Preset name="Fall 15" crossfade="0.0"/>
+    <Preset name="Fall 16" crossfade="0.0"/>
+    <Preset name="Fall 17" crossfade="0.0"/>
+    <Preset name="Fall 18" crossfade="0.0"/>
+    <Preset name="Fall 19" crossfade="0.0"/>
+    <Preset name="Fall 20" crossfade="0.0"/>
+    <Preset name="Fall 21" crossfade="0.0"/>
+    <Preset name="Fall 22" crossfade="0.0"/>
+    <Preset name="Fall 23" crossfade="0.0"/>
+    <Preset name="Fall 24" crossfade="0.0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="120.0"/>
   <BankOrder val="21"/>
 </CmPresetBank>

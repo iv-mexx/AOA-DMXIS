@@ -1,0 +1,12 @@
+Dimmer
+D,0,255,Dim
+Strobe
+V,0,255,Speed
+Red
+V,0,255,Red
+Green
+V,0,255,Green
+Blue
+V,0,255,Blue
+Sound
+V,0,255,

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Intro" crossfade="0.0"/>
+    <Preset name="Doublebass" crossfade="0.0"/>
+    <Preset name="Ocean" crossfade="0.0"/>
+    <Preset name="Refrain" crossfade="0.0"/>
+    <Preset name="Left" crossfade="0.0"/>
+    <Preset name="Right" crossfade="0.0"/>
+    <Preset name="Ocean Drumfill 1" crossfade="0.0"/>
+    <Preset name="Ocean Drumfill 2" crossfade="0.0"/>
+    <Preset name="Ocean Drumfill 3" crossfade="0.0"/>
+    <Preset name="Ocean Drumfill 4" crossfade="0.0"/>
+    <Preset name="Ocean Drumfill 5" crossfade="0.0"/>
+    <Preset name="Title 00a" crossfade="0.1951287537813187"/>
+    <Preset name="Title 00b" crossfade="0.1951287537813187"/>
+    <Preset name="Title 00c" crossfade="0.2000000029802322"/>
+    <Preset name="Title 00" crossfade="0.2000000029802322"/>
+    <Preset name="Title 01a" crossfade="0.2000000029802322"/>
+    <Preset name="Title 01b" crossfade="0.2000000029802322"/>
+    <Preset name="Title 01" crossfade="0.2000000029802322"/>
+    <Preset name="Title 02a" crossfade="0.2000000029802322"/>
+    <Preset name="Title 02b" crossfade="0.2000000029802322"/>
+    <Preset name="Title 02c" crossfade="0.2000000029802322"/>
+    <Preset name="Title 02d" crossfade="0.2000000029802322"/>
+    <Preset name="Title 02e" crossfade="0.2000000029802322"/>
+    <Preset name="Title 02" crossfade="0.1000000014901161"/>
+    <Preset name="Title 03a" crossfade="0.1000000014901161"/>
+    <Preset name="Title 03b" crossfade="0.1000000014901161"/>
+    <Preset name="Title 03c" crossfade="0.1000000014901161"/>
+    <Preset name="Title 03d" crossfade="0.1000000014901161"/>
+    <Preset name="Title 03e" crossfade="0.1000000014901161"/>
+    <Preset name="Title 03" crossfade="0.2000000029802322"/>
+    <Preset name="Title 04a" crossfade="0.2000000029802322"/>
+    <Preset name="Title 04b" crossfade="0.2000000029802322"/>
+    <Preset name="Title 04c" crossfade="0.2000000029802322"/>
+    <Preset name="Title 04d" crossfade="0.2000000029802322"/>
+    <Preset name="Title 04" crossfade="0.2000000029802322"/>
+    <Preset name="Title 05a" crossfade="0.2000000029802322"/>
+    <Preset name="Title 05b" crossfade="0.2000000029802322"/>
+    <Preset name="Title 05" crossfade="0.2000000029802322"/>
+    <Preset name="Title 06a" crossfade="0.2000000029802322"/>
+    <Preset name="Title 06b" crossfade="0.2000000029802322"/>
+    <Preset name="Title 06c" crossfade="0.2000000029802322"/>
+    <Preset name="Title 06d" crossfade="0.2000000029802322"/>
+    <Preset name="Title 06" crossfade="0.2000000029802322"/>
+    <Preset name="Title 07a" crossfade="0.2000000029802322"/>
+    <Preset name="Title 07b" crossfade="0.2000000029802322"/>
+    <Preset name="Title 07c" crossfade="0.2000000029802322"/>
+    <Preset name="Title 07d" crossfade="0.2000000029802322"/>
+    <Preset name="Title 07e" crossfade="0.2000000029802322"/>
+    <Preset name="Title 07" crossfade="0.2000000029802322"/>
+    <Preset name="Title 08a" crossfade="0.2000000029802322"/>
+    <Preset name="Title 08b" crossfade="0.2000000029802322"/>
+    <Preset name="Title 08c" crossfade="0.2000000029802322"/>
+    <Preset name="Title 08d" crossfade="0.2000000029802322"/>
+    <Preset name="Title 08e" crossfade="0.2000000029802322"/>
+    <Preset name="Title 08" crossfade="0.2000000029802322"/>
+    <Preset name="Title 09a" crossfade="0.2000000029802322"/>
+    <Preset name="Title 09b" crossfade="0.2000000029802322"/>
+    <Preset name="Title 09c" crossfade="0.2000000029802322"/>
+    <Preset name="Title 09d" crossfade="0.2000000029802322"/>
+    <Preset name="Title 09e" crossfade="0.2000000029802322"/>
+    <Preset name="Title 09" crossfade="0.2000000029802322"/>
+    <Preset name="Title 10a" crossfade="0.2000000029802322"/>
+    <Preset name="Title 10b" crossfade="0.2000000029802322"/>
+    <Preset name="Title 10c" crossfade="0.2000000029802322"/>
+    <Preset name="Title 10" crossfade="0.2000000029802322"/>
+    <Preset name="Title 10H1" crossfade="0.2000000029802322"/>
+    <Preset name="Title 10H11" crossfade="0.2000000029802322"/>
+    <Preset name="Title 10H2" crossfade="0.2000000029802322"/>
+    <Preset name="Title 10H3" crossfade="0.2000000029802322"/>
+    <Preset name="Title 12G" crossfade="0.2000000029802322"/>
+    <Preset name="Title 12G1" crossfade="0.2000000029802322"/>
+    <Preset name="Title 12G2" crossfade="0.2000000029802322"/>
+    <Preset name="Title 11a" crossfade="0.2000000029802322"/>
+    <Preset name="Title 11b" crossfade="0.2000000029802322"/>
+    <Preset name="Title 12" crossfade="0.2000000029802322"/>
+    <Preset name="Title 13a" crossfade="0.2000000029802322"/>
+    <Preset name="Title 13b" crossfade="0.2000000029802322"/>
+    <Preset name="Title 13c" crossfade="0.2000000029802322"/>
+    <Preset name="Title 13" crossfade="0.2000000029802322"/>
+    <Preset name="Title 14a" crossfade="0.2000000029802322"/>
+    <Preset name="Title 14b" crossfade="0.2000000029802322"/>
+    <Preset name="Title 14c" crossfade="0.2000000029802322"/>
+    <Preset name="Title 14d" crossfade="0.2000000029802322"/>
+    <Preset name="Title 14e" crossfade="0.2000000029802322"/>
+    <Preset name="Title 14" crossfade="0.2000000029802322"/>
+    <Preset name="Verse" crossfade="0.0"/>
+    <Preset name="Refrain 2" crossfade="0.0"/>
+    <Preset name="Refrain Candle 1" crossfade="0.1000000014901161"/>
+    <Preset name="Refrain Candle 2" crossfade="0.1000000014901161"/>
+    <Preset name="Refrain Candle 3" crossfade="0.1000000014901161"/>
+    <Preset name="Refrain Candle 4" crossfade="0.1000000014901161"/>
+    <Preset name="Refrain Candle 5" crossfade="0.1000000014901161"/>
+    <Preset name="Refrain Candle 6" crossfade="0.1000000014901161"/>
+    <Preset name="Refrain Candle 7" crossfade="0.1000000014901161"/>
+    <Preset name="Refrain Candle 8" crossfade="0.0"/>
+  </Order>
+  <Tempo val="120.0"/>
+  <BankOrder val="36"/>
+</CmPresetBank>

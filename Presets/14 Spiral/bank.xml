@@ -2,21 +2,21 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="00" crossfade="0"/>
-    <Preset name="01" crossfade="0"/>
-    <Preset name="02" crossfade="0"/>
-    <Preset name="03" crossfade="0"/>
-    <Preset name="04" crossfade="0"/>
-    <Preset name="05" crossfade="0"/>
-    <Preset name="06" crossfade="0"/>
-    <Preset name="07" crossfade="0"/>
-    <Preset name="08" crossfade="0"/>
-    <Preset name="09" crossfade="0"/>
-    <Preset name="10" crossfade="0"/>
-    <Preset name="11" crossfade="0"/>
-    <Preset name="12" crossfade="0"/>
-    <Preset name="13" crossfade="0"/>
+    <Preset name="00" crossfade="0.0"/>
+    <Preset name="01" crossfade="0.0"/>
+    <Preset name="02" crossfade="0.0"/>
+    <Preset name="03" crossfade="0.0"/>
+    <Preset name="04" crossfade="0.0"/>
+    <Preset name="05" crossfade="0.0"/>
+    <Preset name="06" crossfade="0.0"/>
+    <Preset name="07" crossfade="0.0"/>
+    <Preset name="08" crossfade="0.0"/>
+    <Preset name="09" crossfade="0.0"/>
+    <Preset name="10" crossfade="0.0"/>
+    <Preset name="11" crossfade="0.0"/>
+    <Preset name="12" crossfade="0.0"/>
+    <Preset name="13" crossfade="0.0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="120.0"/>
   <BankOrder val="14"/>
 </CmPresetBank>

@@ -2,40 +2,40 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Col 1 on symmetric" crossfade="0"/>
-    <Preset name="Col 2 on symmetric" crossfade="0"/>
-    <Preset name="Col 3 on symmetric" crossfade="0"/>
-    <Preset name="Col 4 on symmetric" crossfade="0"/>
-    <Preset name="Col 5 on symmetric" crossfade="0"/>
-    <Preset name="Col 1 off symmetric" crossfade="0"/>
-    <Preset name="Col 2 off symmetric" crossfade="0"/>
-    <Preset name="Col 3 off symmetric" crossfade="0"/>
-    <Preset name="Col 4 off symmetric" crossfade="0"/>
-    <Preset name="Col 5 off symmetric" crossfade="0"/>
-    <Preset name="Col 1 on asymmetric" crossfade="0"/>
-    <Preset name="Col 2 on asymmetric" crossfade="0"/>
-    <Preset name="Col 3 on asymmetric" crossfade="0"/>
-    <Preset name="Col 4 on asymmetric" crossfade="0"/>
-    <Preset name="Col 5 on asymmetric" crossfade="0"/>
-    <Preset name="Col 1 off asymmetric" crossfade="0"/>
-    <Preset name="Col 2 off asymmetric" crossfade="0"/>
-    <Preset name="Col 3 off asymmetric" crossfade="0"/>
-    <Preset name="Col 4 off asymmetric" crossfade="0"/>
-    <Preset name="Col 5 off asymmetric" crossfade="0"/>
-    <Preset name="Row 1 on" crossfade="0"/>
-    <Preset name="Row 2 on" crossfade="0"/>
-    <Preset name="Row 3 on" crossfade="0"/>
-    <Preset name="Row 4 on" crossfade="0"/>
-    <Preset name="Row 5 on" crossfade="0"/>
-    <Preset name="Row 1 off" crossfade="0"/>
-    <Preset name="Row 2 off" crossfade="0"/>
-    <Preset name="Row 3 off" crossfade="0"/>
-    <Preset name="Row 4 off" crossfade="0"/>
-    <Preset name="Row 5 off" crossfade="0"/>
-    <Preset name="All Off" crossfade="0"/>
-    <Preset name="All On" crossfade="0"/>
-    <Preset name="Activate Matrix" crossfade="0"/>
+    <Preset name="Col 1 on symmetric" crossfade="0.0"/>
+    <Preset name="Col 2 on symmetric" crossfade="0.0"/>
+    <Preset name="Col 3 on symmetric" crossfade="0.0"/>
+    <Preset name="Col 4 on symmetric" crossfade="0.0"/>
+    <Preset name="Col 5 on symmetric" crossfade="0.0"/>
+    <Preset name="Col 1 off symmetric" crossfade="0.0"/>
+    <Preset name="Col 2 off symmetric" crossfade="0.0"/>
+    <Preset name="Col 3 off symmetric" crossfade="0.0"/>
+    <Preset name="Col 4 off symmetric" crossfade="0.0"/>
+    <Preset name="Col 5 off symmetric" crossfade="0.0"/>
+    <Preset name="Col 1 on asymmetric" crossfade="0.0"/>
+    <Preset name="Col 2 on asymmetric" crossfade="0.0"/>
+    <Preset name="Col 3 on asymmetric" crossfade="0.0"/>
+    <Preset name="Col 4 on asymmetric" crossfade="0.0"/>
+    <Preset name="Col 5 on asymmetric" crossfade="0.0"/>
+    <Preset name="Col 1 off asymmetric" crossfade="0.0"/>
+    <Preset name="Col 2 off asymmetric" crossfade="0.0"/>
+    <Preset name="Col 3 off asymmetric" crossfade="0.0"/>
+    <Preset name="Col 4 off asymmetric" crossfade="0.0"/>
+    <Preset name="Col 5 off asymmetric" crossfade="0.0"/>
+    <Preset name="Row 1 on" crossfade="0.0"/>
+    <Preset name="Row 2 on" crossfade="0.0"/>
+    <Preset name="Row 3 on" crossfade="0.0"/>
+    <Preset name="Row 4 on" crossfade="0.0"/>
+    <Preset name="Row 5 on" crossfade="0.0"/>
+    <Preset name="Row 1 off" crossfade="0.0"/>
+    <Preset name="Row 2 off" crossfade="0.0"/>
+    <Preset name="Row 3 off" crossfade="0.0"/>
+    <Preset name="Row 4 off" crossfade="0.0"/>
+    <Preset name="Row 5 off" crossfade="0.0"/>
+    <Preset name="All Off" crossfade="0.0"/>
+    <Preset name="All On" crossfade="0.0"/>
+    <Preset name="Activate Matrix" crossfade="0.0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="120.0"/>
   <BankOrder val="3"/>
 </CmPresetBank>

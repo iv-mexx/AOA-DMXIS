@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Speechh" crossfade="2.0"/>
+    <Preset name="After Crown" crossfade="2.0"/>
+    <Preset name="After Punchfuck" crossfade="2.0"/>
+    <Preset name="After Silence" crossfade="2.0"/>
+    <Preset name="After Ascendency" crossfade="2.0"/>
+    <Preset name="After Matchgirl" crossfade="2.0"/>
+    <Preset name="After Monocracy" crossfade="2.0"/>
+    <Preset name="After White Lies" crossfade="2.0"/>
+    <Preset name="After Remember" crossfade="2.0"/>
+    <Preset name="Power Outtage 1" crossfade="0.0"/>
+    <Preset name="Power Outtage 2" crossfade="0.5613303184509277"/>
+    <Preset name="Sunrise 1" crossfade="0.9830372333526611"/>
+    <Preset name="Sunrise 2" crossfade="3.0"/>
+    <Preset name="Sunrise 3" crossfade="2.0"/>
+    <Preset name="Speech No-Fade" crossfade="0.0"/>
+  </Order>
+  <Tempo val="120.0"/>
+  <BankOrder val="45"/>
+</CmPresetBank>

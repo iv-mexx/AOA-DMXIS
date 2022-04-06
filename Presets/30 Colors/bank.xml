@@ -2,14 +2,14 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Full Off" crossfade="0"/>
-    <Preset name="Intro Chase 1" crossfade="0"/>
-    <Preset name="Intro Chase 2" crossfade="0"/>
-    <Preset name="Dying Lights 1" crossfade="0"/>
-    <Preset name="Dying Lights 2" crossfade="0"/>
-    <Preset name="Dying Lights 3" crossfade="0"/>
-    <Preset name="Dying Lights 4" crossfade="0"/>
+    <Preset name="Full Off" crossfade="0.0"/>
+    <Preset name="Intro Chase 1" crossfade="0.0"/>
+    <Preset name="Intro Chase 2" crossfade="0.0"/>
+    <Preset name="Dying Lights 1" crossfade="0.0"/>
+    <Preset name="Dying Lights 2" crossfade="0.0"/>
+    <Preset name="Dying Lights 3" crossfade="0.0"/>
+    <Preset name="Dying Lights 4" crossfade="0.0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="120.0"/>
   <BankOrder val="32"/>
 </CmPresetBank>

@@ -2,14 +2,15 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Rot Ember" crossfade="0"/>
-    <Preset name="Ember Green" crossfade="0"/>
-    <Preset name="Pulsing Earth" crossfade="0"/>
-    <Preset name="Intro" crossfade="0"/>
-    <Preset name="Rosa" crossfade="0"/>
-    <Preset name="Punk" crossfade="0"/>
-    <Preset name="Intro Pulse" crossfade="0"/>
+    <Preset name="Rot Ember" crossfade="0.0"/>
+    <Preset name="Ember Green" crossfade="0.0"/>
+    <Preset name="Pulsing Earth" crossfade="0.0"/>
+    <Preset name="Intro" crossfade="0.0"/>
+    <Preset name="Rosa" crossfade="0.0"/>
+    <Preset name="Punk" crossfade="0.0"/>
+    <Preset name="Intro Pulse" crossfade="0.0"/>
+    <Preset name="Amber" crossfade="0.0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="120.0"/>
   <BankOrder val="31"/>
 </CmPresetBank>

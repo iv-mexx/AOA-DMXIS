@@ -2,12 +2,12 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Off" crossfade="0"/>
-    <Preset name="Fast Up" crossfade="0"/>
-    <Preset name="Random Dark Blinking" crossfade="0"/>
-    <Preset name="Half Up Half Down" crossfade="0"/>
-    <Preset name="Orange Chaser" crossfade="0"/>
+    <Preset name="Off" crossfade="0.0"/>
+    <Preset name="Fast Up" crossfade="0.0"/>
+    <Preset name="Random Dark Blinking" crossfade="0.0"/>
+    <Preset name="Half Up Half Down" crossfade="0.0"/>
+    <Preset name="Orange Chaser" crossfade="0.0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="120.0"/>
   <BankOrder val="23"/>
 </CmPresetBank>

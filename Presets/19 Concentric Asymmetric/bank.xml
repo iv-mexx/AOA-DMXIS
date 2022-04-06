@@ -2,13 +2,13 @@
 
 <CmPresetBank>
   <Order>
-    <Preset name="Left Step 1" crossfade="0"/>
-    <Preset name="Left Step 2" crossfade="0"/>
-    <Preset name="Left Step 3" crossfade="0"/>
-    <Preset name="Right Step 1" crossfade="0"/>
-    <Preset name="Right Step 2" crossfade="0"/>
-    <Preset name="Right Step 3" crossfade="0"/>
+    <Preset name="Left Step 1" crossfade="0.0"/>
+    <Preset name="Left Step 2" crossfade="0.0"/>
+    <Preset name="Left Step 3" crossfade="0.0"/>
+    <Preset name="Right Step 1" crossfade="0.0"/>
+    <Preset name="Right Step 2" crossfade="0.0"/>
+    <Preset name="Right Step 3" crossfade="0.0"/>
   </Order>
-  <Tempo val="120"/>
+  <Tempo val="120.0"/>
   <BankOrder val="19"/>
 </CmPresetBank>
