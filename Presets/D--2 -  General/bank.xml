@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Reset All" crossfade="0.0"/>
+    <Preset name="Full Off" crossfade="0.0"/>
+    <Preset name="Full On" crossfade="0.0"/>
+    <Preset name="Matrix Only Full" crossfade="0.0"/>
+    <Preset name="Sunstrip Only Full" crossfade="0.0"/>
+    <Preset name="Left Matrix Only Full" crossfade="0.0"/>
+    <Preset name="Right Matrix Only Full" crossfade="0.0"/>
+    <Preset name="Left Sunstrip Only Full" crossfade="0.0"/>
+    <Preset name="Right Sunstrip Only Full" crossfade="0.0"/>
+    <Preset name="Add Matrix" crossfade="0.0"/>
+    <Preset name="Left Full" crossfade="0.0"/>
+    <Preset name="Right Full" crossfade="0.0"/>
+  </Order>
+  <Tempo val="137.0"/>
+  <BankOrder val="2"/>
+</CmPresetBank>

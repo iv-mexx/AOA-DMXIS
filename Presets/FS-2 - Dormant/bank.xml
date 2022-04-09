@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Out" crossfade="0.0"/>
+    <Preset name="Intro" crossfade="0.0"/>
+    <Preset name="Intro D" crossfade="0.0"/>
+    <Preset name="Intro O" crossfade="0.0"/>
+    <Preset name="Intro R" crossfade="0.0"/>
+    <Preset name="Intro M" crossfade="0.0"/>
+    <Preset name="Intro A" crossfade="0.0"/>
+    <Preset name="Intro N" crossfade="0.0"/>
+    <Preset name="Intro T" crossfade="0.0"/>
+    <Preset name="Intro P" crossfade="0.4322398900985718"/>
+    <Preset name="Intro E" crossfade="0.5272789001464844"/>
+    <Preset name="Intro RR" crossfade="0.5272786617279053"/>
+    <Preset name="Intro I" crossfade="0.5072578191757202"/>
+    <Preset name="Intro L" crossfade="0.4502497911453247"/>
+    <Preset name="Matrix Tripple Bottom" crossfade="0.0"/>
+    <Preset name="Matrix Tripple Mid" crossfade="0.0"/>
+    <Preset name="Matrix Tripple Top" crossfade="0.0"/>
+    <Preset name="Matrix Tripple Bottom Full" crossfade="0.0"/>
+    <Preset name="Matrix Tripple Mid Full" crossfade="0.0"/>
+    <Preset name="Matrix Tripple Top Full" crossfade="0.0"/>
+    <Preset name="Interlude Chase" crossfade="0.0"/>
+    <Preset name="Breakpart A" crossfade="2.0"/>
+    <Preset name="Breakpart B" crossfade="2.0"/>
+    <Preset name="Breakpart C" crossfade="0.0"/>
+    <Preset name="End A" crossfade="2.423378543797411e-26"/>
+  </Order>
+  <Tempo val="120.0"/>
+  <BankOrder val="54"/>
+</CmPresetBank>

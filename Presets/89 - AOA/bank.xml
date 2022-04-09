@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<CmPresetBank>
-  <Order>
-    <Preset name="Out" crossfade="0.0"/>
-  </Order>
-  <Tempo val="120.0"/>
-  <BankOrder val="54"/>
-</CmPresetBank>

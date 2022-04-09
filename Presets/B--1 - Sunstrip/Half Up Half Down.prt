@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DbAudiowarePreset product="DMXIS" major="1" minor="7" patch="4" name="Half Up Half Down" algoname="DMXIS">
+  <Params>
+    <Param nm="X Value" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Bank" v="0.2325" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Preset" v="0.0325" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="PresetUp" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="PresetDown" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="ShowPresetPage" v="1" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="BankUp" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="BankDown" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="NewPreset" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="DeletePreset" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="EditPreset" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="NewBank" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="DeleteBank" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="EditBank" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Autoplay Bank" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="OverwrtPst" v="1" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="1" v="0.389525" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="2" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="3" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="4" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="5" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="6" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="7" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="8" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="9" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="10" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="11" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="12" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="13" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="14" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="15" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="16" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="17" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="18" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="19" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="20" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="21" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="22" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="23" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="24" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="25" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="26" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="27" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="28" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="29" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="30" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="31" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="32" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="33" v="0.379056" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="34" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="35" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="36" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="37" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="38" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="39" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="40" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="41" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="42" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="43" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="44" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="45" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="46" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="47" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="48" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="49" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="50" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="51" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="52" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="53" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="54" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="55" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="56" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="57" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="58" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="59" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="60" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="61" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="62" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="63" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="64" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="65" v="0.318359" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="66" v="0.318359" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="67" v="0.318359" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="68" v="0.318359" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="69" v="0.318359" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="70" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="71" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="72" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="73" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="74" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="75" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="76" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="77" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="78" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="79" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="80" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="81" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="82" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="83" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="84" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="85" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="86" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="87" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="88" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="89" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="90" v="0.302734" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="91" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="92" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="93" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="94" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="95" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="96" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="97" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="98" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="99" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="100" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="101" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="102" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="103" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="104" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="105" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="106" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="107" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="108" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="109" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="110" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="111" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="112" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="113" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="114" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="115" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="116" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="117" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="118" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="119" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="120" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="121" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="122" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="123" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="124" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="125" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="126" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="127" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="128" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="129" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="130" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="131" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="132" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="133" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="134" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="135" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="136" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="137" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="138" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="139" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="140" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="141" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="142" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="143" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="144" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="145" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="146" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="147" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="148" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="149" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="150" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="151" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="152" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="153" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="154" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="155" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="156" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="157" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="158" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="159" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="160" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="161" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="162" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="163" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="164" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="165" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="166" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="167" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="168" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="169" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="170" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="171" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="172" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="173" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="174" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="175" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="176" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="177" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="178" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="179" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="180" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="181" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="182" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="183" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="184" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="185" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="186" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="187" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="188" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="189" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="190" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="191" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="192" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="193" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="194" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="195" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="196" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="197" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="198" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="199" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="200" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="201" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="202" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="203" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="204" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="205" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="206" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="207" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="208" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="209" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="210" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="211" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="212" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="213" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="214" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="215" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="216" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="217" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="218" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="219" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="220" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="221" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="222" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="223" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="224" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="225" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="226" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="227" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="228" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="229" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="230" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="231" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="232" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="233" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="234" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="235" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="236" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="237" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="238" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="239" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="240" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="241" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="242" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="243" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="244" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="245" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="246" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="247" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="248" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="249" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="250" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="251" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="252" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="253" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="254" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="255" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="256" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="257" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="258" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="259" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="260" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="261" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="262" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="263" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="264" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="265" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="266" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="267" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="268" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="269" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="270" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="271" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="272" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="273" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="274" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="275" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="276" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="277" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="278" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="279" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="280" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="281" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="282" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="283" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="284" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="285" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="286" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="287" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="288" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="289" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="290" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="291" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="292" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="293" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="294" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="295" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="296" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="297" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="298" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="299" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="300" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="301" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="302" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="303" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="304" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="305" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="306" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="307" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="308" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="309" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="310" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="311" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="312" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="313" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="314" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="315" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="316" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="317" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="318" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="319" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="320" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="321" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="322" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="323" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="324" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="325" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="326" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="327" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="328" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="329" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="330" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="331" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="332" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="333" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="334" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="335" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="336" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="337" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="338" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="339" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="340" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="341" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="342" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="343" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="344" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="345" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="346" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="347" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="348" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="349" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="350" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="351" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="352" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="353" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="354" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="355" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="356" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="357" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="358" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="359" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="360" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="361" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="362" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="363" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="364" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="365" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="366" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="367" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="368" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="369" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="370" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="371" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="372" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="373" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="374" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="375" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="376" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="377" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="378" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="379" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="380" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="381" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="382" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="383" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="384" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="385" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="386" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="387" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="388" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="389" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="390" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="391" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="392" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="393" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="394" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="395" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="396" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="397" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="398" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="399" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="400" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="401" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="402" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="403" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="404" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="405" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="406" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="407" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="408" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="409" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="410" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="411" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="412" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="413" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="414" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="415" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="416" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="417" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="418" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="419" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="420" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="421" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="422" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="423" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="424" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="425" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="426" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="427" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="428" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="429" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="430" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="431" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="432" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="433" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="434" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="435" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="436" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="437" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="438" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="439" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="440" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="441" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="442" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="443" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="444" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="445" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="446" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="447" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="448" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="449" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="450" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="451" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="452" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="453" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="454" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="455" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="456" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="457" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="458" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="459" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="460" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="461" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="462" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="463" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="464" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="465" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="466" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="467" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="468" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="469" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="470" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="471" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="472" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="473" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="474" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="475" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="476" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="477" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="478" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="479" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="480" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="481" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="482" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="483" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="484" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="485" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="486" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="487" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="488" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="489" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="490" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="491" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="492" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="493" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="494" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="495" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="496" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="497" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="498" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="499" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="500" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="501" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="502" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="503" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="504" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="505" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="506" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="507" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="508" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="509" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="510" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="511" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="512" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="DmxNextPage" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="DmxPrevPage" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Master Speed" v="1.04167" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="MasterTempo" v="120" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Macros" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Grand Master" v="1" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Crossfade" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Type" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Amount" v="0.5" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Offset" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Speed" v="0.357143" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Shape" v="0.5" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Band" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Level" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Attack" v="1" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Release" v="50" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Dir" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Invert" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Enabled" v="0" cc="-1" nrpn="-1" ch="0"/>
+  </Params>
+  <DmxUniverse>
+    <c n="28" en="0"/>
+    <c n="29" en="0"/>
+    <c n="30" en="0"/>
+    <c n="31" en="0"/>
+    <c n="63" en="0"/>
+    <c n="64" t="5" a="0.3" s="5" sh="0.35"/>
+    <c n="65" t="5" a="0.3" p="0.05" s="5" sh="0.35"/>
+    <c n="66" t="5" a="0.3" p="0.1" s="5" sh="0.35"/>
+    <c n="67" t="5" a="0.3" p="0.15" s="5" sh="0.35"/>
+    <c n="68" t="5" a="0.3" p="0.2" s="5" sh="0.35"/>
+    <c n="69" t="5" a="0.3" s="5" sh="0.35"/>
+    <c n="70" t="5" a="0.3" p="0.95" s="5" sh="0.35"/>
+    <c n="71" t="5" a="0.3" p="0.9" s="5" sh="0.35"/>
+    <c n="72" t="5" a="0.3" p="0.85" s="5" sh="0.35"/>
+    <c n="73" t="5" a="0.3" p="0.8" s="5" sh="0.35"/>
+    <c n="74" en="0"/>
+    <c n="75" en="0"/>
+    <c n="76" en="0"/>
+    <c n="77" en="0"/>
+    <c n="78" en="0"/>
+    <c n="79" en="0"/>
+    <c n="80" t="5" a="0.3" s="5" sh="0.35"/>
+    <c n="81" t="5" a="0.3" p="0.05" s="5" sh="0.35"/>
+    <c n="82" t="5" a="0.3" p="0.1" s="5" sh="0.35"/>
+    <c n="83" t="5" a="0.3" p="0.15" s="5" sh="0.35"/>
+    <c n="84" t="5" a="0.3" p="0.2" s="5" sh="0.35"/>
+    <c n="85" t="5" a="0.3" s="5" sh="0.35"/>
+    <c n="86" t="5" a="0.3" p="0.95" s="5" sh="0.35"/>
+    <c n="87" t="5" a="0.3" p="0.9" s="5" sh="0.35"/>
+    <c n="88" t="5" a="0.3" p="0.85" s="5" sh="0.35"/>
+    <c n="89" t="5" a="0.3" p="0.8" s="5" sh="0.35"/>
+    <c n="96" en="0"/>
+    <c n="97" en="0"/>
+    <c n="98" en="0"/>
+    <c n="99" en="0"/>
+    <c n="100" en="0"/>
+    <c n="101" en="0"/>
+    <c n="102" en="0"/>
+    <c n="103" en="0"/>
+    <c n="104" en="0"/>
+    <c n="105" en="0"/>
+    <c n="112" en="0"/>
+    <c n="113" en="0"/>
+    <c n="114" en="0"/>
+    <c n="115" en="0"/>
+    <c n="116" en="0"/>
+    <c n="117" en="0"/>
+    <c n="118" en="0"/>
+    <c n="119" en="0"/>
+    <c n="120" en="0"/>
+    <c n="121" en="0"/>
+  </DmxUniverse>
+</DbAudiowarePreset>
+ 

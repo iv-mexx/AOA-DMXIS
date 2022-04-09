@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Out" crossfade="0.0"/>
+    <Preset name="Intro" crossfade="0.0"/>
+    <Preset name="R" crossfade="0.0"/>
+    <Preset name="E" crossfade="0.0"/>
+    <Preset name="A" crossfade="0.0"/>
+    <Preset name="L" crossfade="0.0"/>
+    <Preset name="I" crossfade="0.0"/>
+    <Preset name="S" crossfade="0.0"/>
+    <Preset name="T" crossfade="0.0"/>
+    <Preset name="O" crossfade="0.0"/>
+    <Preset name="N" crossfade="0.0"/>
+    <Preset name="Verse" crossfade="0.0"/>
+    <Preset name="Blue Chaotic" crossfade="0.0"/>
+    <Preset name="Very Blue Chaotic" crossfade="0.0"/>
+    <Preset name="Dwarfs" crossfade="0.0"/>
+    <Preset name="Orange" crossfade="0.0"/>
+  </Order>
+  <Tempo val="120.0"/>
+  <BankOrder val="55"/>
+</CmPresetBank>

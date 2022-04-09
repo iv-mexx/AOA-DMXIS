@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Out" crossfade="0.0"/>
+    <Preset name="Blue UV" crossfade="0.0"/>
+    <Preset name="Violet UV" crossfade="0.0"/>
+    <Preset name="Intro 1" crossfade="0.0"/>
+    <Preset name="Intro 2" crossfade="0.0"/>
+    <Preset name="Intro 3" crossfade="0.0"/>
+    <Preset name="Intro 4" crossfade="0.0"/>
+    <Preset name="Intro 5" crossfade="0.0"/>
+    <Preset name="Intro 6" crossfade="0.0"/>
+    <Preset name="Intro 7" crossfade="0.0"/>
+    <Preset name="Intro 8" crossfade="0.0"/>
+    <Preset name="Intro 9" crossfade="0.0"/>
+    <Preset name="Intro 10" crossfade="0.0"/>
+    <Preset name="Intro 11" crossfade="0.0"/>
+    <Preset name="Intro 12" crossfade="0.0"/>
+    <Preset name="Intro 13" crossfade="0.0"/>
+    <Preset name="Intro 14" crossfade="0.0"/>
+    <Preset name="Intro 15" crossfade="0.0"/>
+    <Preset name="Intro 16" crossfade="0.0"/>
+    <Preset name="Intro 17" crossfade="0.0"/>
+    <Preset name="Intro 18" crossfade="0.0"/>
+    <Preset name="Intro 19" crossfade="0.0"/>
+    <Preset name="Intro 20" crossfade="0.0"/>
+    <Preset name="Intro 21" crossfade="0.0"/>
+    <Preset name="Intro 22" crossfade="0.0"/>
+    <Preset name="Intro 23" crossfade="0.0"/>
+    <Preset name="Intro 24" crossfade="0.0"/>
+    <Preset name="Intro 25" crossfade="0.0"/>
+    <Preset name="Intro 26" crossfade="0.0"/>
+    <Preset name="Intro 27" crossfade="0.0"/>
+    <Preset name="Intro 28" crossfade="0.0"/>
+    <Preset name="Intro 29" crossfade="0.0"/>
+    <Preset name="Intro 30" crossfade="0.0"/>
+    <Preset name="Intro 31" crossfade="0.0"/>
+    <Preset name="Intro 32" crossfade="0.0"/>
+    <Preset name="Intro 33" crossfade="0.0"/>
+    <Preset name="Intro 34" crossfade="0.0"/>
+    <Preset name="Intro 35" crossfade="0.0"/>
+    <Preset name="Intro 36" crossfade="0.0"/>
+    <Preset name="Intro 37" crossfade="0.0"/>
+    <Preset name="Intro 38" crossfade="0.0"/>
+    <Preset name="Intro 39" crossfade="0.0"/>
+    <Preset name="Intro 40" crossfade="0.0"/>
+    <Preset name="Intro 41" crossfade="0.0"/>
+    <Preset name="Intro 42" crossfade="0.0"/>
+    <Preset name="Intro 43" crossfade="0.0"/>
+    <Preset name="Intro 44" crossfade="0.0"/>
+    <Preset name="Intro 45" crossfade="0.0"/>
+    <Preset name="Intro 46" crossfade="0.0"/>
+    <Preset name="Intro 47" crossfade="0.0"/>
+    <Preset name="Intro 48" crossfade="0.0"/>
+    <Preset name="Intro 49" crossfade="0.0"/>
+    <Preset name="Intro 50" crossfade="0.0"/>
+    <Preset name="Intro 51" crossfade="0.0"/>
+    <Preset name="Intro 52" crossfade="0.0"/>
+    <Preset name="Intro 53" crossfade="0.0"/>
+    <Preset name="Intro 54" crossfade="0.0"/>
+    <Preset name="Intro 55" crossfade="0.0"/>
+    <Preset name="Intro 56" crossfade="0.0"/>
+    <Preset name="Intro 57" crossfade="0.0"/>
+    <Preset name="Intro 58" crossfade="0.0"/>
+    <Preset name="Intro 59" crossfade="0.0"/>
+    <Preset name="Intro 60" crossfade="0.0"/>
+    <Preset name="Intro 61" crossfade="0.0"/>
+    <Preset name="Intro 62" crossfade="0.0"/>
+    <Preset name="Intro 63" crossfade="0.0"/>
+    <Preset name="Intro 64" crossfade="0.0"/>
+    <Preset name="Intro 65" crossfade="0.0"/>
+    <Preset name="Intro 66" crossfade="0.0"/>
+    <Preset name="Intro 67" crossfade="0.0"/>
+    <Preset name="Intro 68" crossfade="0.0"/>
+    <Preset name="Intro 69" crossfade="0.0"/>
+    <Preset name="Intro 70" crossfade="0.0"/>
+    <Preset name="Intro 71" crossfade="0.0"/>
+    <Preset name="Intro 72" crossfade="0.0"/>
+    <Preset name="Break 1" crossfade="0.0"/>
+    <Preset name="Break 2" crossfade="0.0"/>
+    <Preset name="Break 3" crossfade="0.0"/>
+    <Preset name="Break 4" crossfade="0.0"/>
+    <Preset name="Break 5" crossfade="0.0"/>
+    <Preset name="Break 6" crossfade="0.0"/>
+    <Preset name="Break 7" crossfade="0.0"/>
+    <Preset name="Break 8" crossfade="0.0"/>
+    <Preset name="Break 9" crossfade="0.0"/>
+    <Preset name="Break 10" crossfade="0.0"/>
+    <Preset name="Break 11" crossfade="0.0"/>
+    <Preset name="Break 12" crossfade="0.0"/>
+  </Order>
+  <Tempo val="120.0"/>
+  <BankOrder val="52"/>
+</CmPresetBank>

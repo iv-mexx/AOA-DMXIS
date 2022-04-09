@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Out" crossfade="0.0"/>
+    <Preset name="Intro" crossfade="0.0"/>
+    <Preset name="Pinkish" crossfade="0.0"/>
+    <Preset name="White" crossfade="0.0"/>
+    <Preset name="White Fasterr" crossfade="0.0"/>
+    <Preset name="White Rising" crossfade="0.0"/>
+    <Preset name="Pinkish Dudelu" crossfade="0.0"/>
+    <Preset name="Outro" crossfade="0.0"/>
+  </Order>
+  <Tempo val="120.0"/>
+  <BankOrder val="53"/>
+</CmPresetBank>
