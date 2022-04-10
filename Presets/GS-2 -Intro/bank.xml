@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Out" crossfade="0.0"/>
+    <Preset name="Intro 1" crossfade="0.0"/>
+    <Preset name="Intro A1" crossfade="0.0"/>
+    <Preset name="Intro A2" crossfade="0.0"/>
+    <Preset name="Intro A3" crossfade="0.0"/>
+    <Preset name="Intro A4" crossfade="0.0"/>
+    <Preset name="Intro A5" crossfade="0.3051383197307587"/>
+    <Preset name="Intro A6" crossfade="0.0"/>
+    <Preset name="Intro 2" crossfade="0.0"/>
+  </Order>
+  <Tempo val="120.0"/>
+  <BankOrder val="56"/>
+</CmPresetBank>
