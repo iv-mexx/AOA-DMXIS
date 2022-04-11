@@ -66,6 +66,17 @@
     <Preset name="Calm 2" crossfade="0.0"/>
     <Preset name="Verse Green" crossfade="0.0"/>
     <Preset name="Verse Green-Blue" crossfade="0.0"/>
+    <Preset name="Outro 1" crossfade="0.0"/>
+    <Preset name="Outro 2" crossfade="0.0"/>
+    <Preset name="Outro 3" crossfade="0.0"/>
+    <Preset name="Outro 4" crossfade="0.0"/>
+    <Preset name="Outro 5" crossfade="0.0"/>
+    <Preset name="Outro 6" crossfade="0.0"/>
+    <Preset name="Outro 7" crossfade="0.0"/>
+    <Preset name="Outro 8" crossfade="0.0"/>
+    <Preset name="Outro 9" crossfade="0.0"/>
+    <Preset name="Outro 10" crossfade="0.0"/>
+    <Preset name="Outro 11" crossfade="0.0"/>
   </Order>
   <Tempo val="120.0"/>
   <BankOrder val="37"/>
