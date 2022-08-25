@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CmPresetBank>
+  <Order>
+    <Preset name="Final Breath" crossfade="0.0"/>
+    <Preset name="Redemption" crossfade="0.0"/>
+    <Preset name="The End of Deception" crossfade="0.0"/>
+    <Preset name="Death will Prevail" crossfade="0.0"/>
+    <Preset name="My Own Revelation" crossfade="0.0"/>
+    <Preset name="Imperious" crossfade="0.0"/>
+    <Preset name="Bury the Past" crossfade="0.0"/>
+    <Preset name="Dimension Break" crossfade="0.0"/>
+    <Preset name="Memento" crossfade="0.0"/>
+    <Preset name="Intro" crossfade="0.0"/>
+  </Order>
+  <Tempo val="120.0"/>
+  <BankOrder val="57"/>
+</CmPresetBank>
