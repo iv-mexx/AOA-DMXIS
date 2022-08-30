@@ -4,7 +4,7 @@
   <Params>
     <Param nm="X Value" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Bank" v="0.5725" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="Preset" v="0.0425" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Preset" v="0.0525" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="PresetUp" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="PresetDown" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="ShowPresetPage" v="1" cc="-1" nrpn="-1" ch="0"/>
@@ -17,33 +17,33 @@
     <Param nm="DeleteBank" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="EditBank" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Autoplay Bank" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="OverwrtPst" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="OverwrtPst" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="1" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="2" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="3" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="4" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="5" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="6" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="7" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="8" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="9" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="10" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="11" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="12" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="13" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="14" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="15" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="16" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="17" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="18" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="19" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="20" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="21" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="22" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="23" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="24" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="25" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="26" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="2" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="3" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="4" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="5" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="6" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="7" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="8" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="9" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="10" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="11" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="12" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="13" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="14" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="15" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="16" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="17" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="18" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="19" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="20" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="21" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="22" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="23" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="24" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="25" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="26" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="27" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="28" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="29" v="1" cc="-1" nrpn="-1" ch="0"/>
@@ -51,75 +51,75 @@
     <Param nm="31" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="32" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="33" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="34" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="35" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="36" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="37" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="38" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="39" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="40" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="41" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="42" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="43" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="44" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="45" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="46" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="47" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="48" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="49" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="50" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="51" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="52" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="53" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="54" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="55" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="56" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="57" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="58" v="0.246667" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="34" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="35" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="36" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="37" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="38" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="39" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="40" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="41" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="42" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="43" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="44" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="45" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="46" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="47" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="48" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="49" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="50" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="51" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="52" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="53" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="54" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="55" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="56" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="57" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="58" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="59" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="60" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="61" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="62" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="63" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="64" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="65" v="0.0787402" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="66" v="0.0787402" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="67" v="0.0787402" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="68" v="0.0787402" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="69" v="0.0787402" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="70" v="0.0787402" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="71" v="0.0787402" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="72" v="0.0787402" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="73" v="0.0787402" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="74" v="0.0787402" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="75" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="65" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="66" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="67" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="68" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="69" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="70" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="71" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="72" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="73" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="74" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="75" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="76" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="77" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="78" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="79" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="80" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="81" v="0.0472441" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="82" v="0.0472441" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="83" v="0.0472441" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="84" v="0.0472441" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="85" v="0.0472441" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="86" v="0.0472441" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="87" v="0.0472441" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="88" v="0.0472441" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="89" v="0.0472441" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="90" v="0.0472441" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="91" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="92" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="93" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="94" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="95" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="96" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="81" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="82" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="83" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="84" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="85" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="86" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="87" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="88" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="89" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="90" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="91" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="92" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="93" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="94" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="95" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="96" v="0.001953" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="97" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="98" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="99" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="100" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="101" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="102" v="1" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="102" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="103" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="104" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="105" v="0" cc="-1" nrpn="-1" ch="0"/>
@@ -535,78 +535,78 @@
     <Param nm="Master Speed" v="1.04167" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="MasterTempo" v="120" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Macros" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="Grand Master" v="0.535433" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Grand Master" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Crossfade" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="Type" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="Amount" v="0.5" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="Offset" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="Speed" v="0.357143" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Type" v="0.75" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Amount" v="1" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Offset" v="1" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Speed" v="0.487143" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Shape" v="0.5" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Band" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Level" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Attack" v="1" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="Release" v="50" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Release" v="49.9625" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Dir" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Invert" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Enabled" v="1" cc="-1" nrpn="-1" ch="0"/>
   </Params>
   <DmxUniverse>
     <c n="0" en="0"/>
-    <c n="1" t="3" a="0.11" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="2" t="3" a="0.11" p="0.46" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="3" t="3" a="0.11" p="0.919999" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="4" t="3" a="0.11" p="0.379999" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="5" t="3" a="0.11" p="0.839999" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="6" t="3" a="0.11" p="0.299998" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="7" t="3" a="0.11" p="0.759998" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="8" t="3" a="0.11" p="0.219998" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="9" t="3" a="0.11" p="0.679997" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="10" t="3" a="0.11" p="0.139997" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="11" t="3" a="0.11" p="0.599997" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="12" t="3" a="0.11" p="0.0599964" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="13" t="3" a="0.11" p="0.519996" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="14" t="3" a="0.11" p="0.979996" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="15" t="3" a="0.11" p="0.439995" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="16" t="3" a="0.11" p="0.899995" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="17" t="3" a="0.11" p="0.359995" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="18" t="3" a="0.11" p="0.819994" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="19" t="3" a="0.11" p="0.279994" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="20" t="3" a="0.11" p="0.739994" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="21" t="3" a="0.11" p="0.199993" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="22" t="3" a="0.11" p="0.659993" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="23" t="3" a="0.11" p="0.119993" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="24" t="3" a="0.11" p="0.579993" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="25" t="3" a="0.11" p="0.0399922" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="26" t="1" a="0.576667" s="5" en="0" fr="49.9625"/>
-    <c n="27" en="0" fr="49.9625"/>
+    <c n="1" en="0"/>
+    <c n="2" en="0"/>
+    <c n="3" en="0"/>
+    <c n="4" en="0"/>
+    <c n="5" en="0"/>
+    <c n="6" en="0"/>
+    <c n="7" en="0"/>
+    <c n="8" en="0"/>
+    <c n="9" en="0"/>
+    <c n="10" en="0"/>
+    <c n="11" en="0"/>
+    <c n="12" en="0"/>
+    <c n="13" en="0"/>
+    <c n="14" en="0"/>
+    <c n="15" en="0"/>
+    <c n="16" en="0"/>
+    <c n="17" en="0"/>
+    <c n="18" en="0"/>
+    <c n="19" en="0"/>
+    <c n="20" en="0"/>
+    <c n="21" en="0"/>
+    <c n="22" en="0"/>
+    <c n="23" en="0"/>
+    <c n="24" en="0"/>
+    <c n="25" en="0"/>
+    <c n="26" en="0"/>
+    <c n="27" en="0"/>
     <c n="32" en="0"/>
-    <c n="33" t="3" a="0.11" p="0.499992" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="34" t="3" a="0.11" p="0.959992" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="35" t="3" a="0.11" p="0.419991" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="36" t="3" a="0.11" p="0.879991" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="37" t="3" a="0.11" p="0.33999" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="38" t="3" a="0.11" p="0.79999" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="39" t="3" a="0.11" p="0.25999" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="40" t="3" a="0.11" p="0.71999" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="41" t="3" a="0.11" p="0.179989" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="42" t="3" a="0.11" p="0.639989" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="43" t="3" a="0.11" p="0.0999886" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="44" t="3" a="0.11" p="0.559988" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="45" t="3" a="0.11" p="0.0199879" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="46" t="3" a="0.11" p="0.479988" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="47" t="3" a="0.11" p="0.939987" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="48" t="3" a="0.11" p="0.399987" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="49" t="3" a="0.11" p="0.859987" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="50" t="3" a="0.11" p="0.319986" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="51" t="3" a="0.11" p="0.779986" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="52" t="3" a="0.11" p="0.239986" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="53" t="3" a="0.11" p="0.699985" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="54" t="3" a="0.11" p="0.159985" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="55" t="3" a="0.11" p="0.619985" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="56" t="3" a="0.11" p="0.0799843" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="57" t="3" a="0.11" p="0.539984" s="10" sh="0.03" en="0" fr="49.9625"/>
-    <c n="58" t="1" a="0.576667" s="5" sh="0.2" en="0" fr="49.9625"/>
-    <c n="59" en="0" fr="49.9625"/>
+    <c n="33" en="0"/>
+    <c n="34" en="0"/>
+    <c n="35" en="0"/>
+    <c n="36" en="0"/>
+    <c n="37" en="0"/>
+    <c n="38" en="0"/>
+    <c n="39" en="0"/>
+    <c n="40" en="0"/>
+    <c n="41" en="0"/>
+    <c n="42" en="0"/>
+    <c n="43" en="0"/>
+    <c n="44" en="0"/>
+    <c n="45" en="0"/>
+    <c n="46" en="0"/>
+    <c n="47" en="0"/>
+    <c n="48" en="0"/>
+    <c n="49" en="0"/>
+    <c n="50" en="0"/>
+    <c n="51" en="0"/>
+    <c n="52" en="0"/>
+    <c n="53" en="0"/>
+    <c n="54" en="0"/>
+    <c n="55" en="0"/>
+    <c n="56" en="0"/>
+    <c n="57" en="0"/>
+    <c n="58" en="0"/>
+    <c n="59" en="0"/>
     <c n="60" en="0"/>
     <c n="61" en="0"/>
     <c n="62" en="0"/>
@@ -617,10 +617,10 @@
     <c n="67" en="0"/>
     <c n="68" en="0"/>
     <c n="69" en="0"/>
-    <c n="70" t="2" a="0.183333" s="3" en="0"/>
-    <c n="71" t="2" a="0.183333" p="0.396666" s="3" en="0"/>
-    <c n="72" t="2" a="0.183333" p="0.793333" s="3" en="0"/>
-    <c n="73" t="2" a="0.183333" p="0.189999" s="3" en="0"/>
+    <c n="70" en="0"/>
+    <c n="71" en="0"/>
+    <c n="72" en="0"/>
+    <c n="73" en="0"/>
     <c n="74" en="0"/>
     <c n="75" en="0"/>
     <c n="76" en="0"/>
@@ -633,10 +633,10 @@
     <c n="83" en="0"/>
     <c n="84" en="0"/>
     <c n="85" en="0"/>
-    <c n="86" t="2" a="0.183333" p="0.586666" s="3" en="0"/>
-    <c n="87" t="2" a="0.183333" p="0.983333" s="3" en="0"/>
-    <c n="88" t="2" a="0.183333" p="0.379999" s="3" en="0"/>
-    <c n="89" t="2" a="0.183333" p="0.776666" s="3" en="0"/>
+    <c n="86" en="0"/>
+    <c n="87" en="0"/>
+    <c n="88" en="0"/>
+    <c n="89" en="0"/>
     <c n="90" en="0"/>
     <c n="91" en="0"/>
     <c n="92" en="0"/>
@@ -645,8 +645,8 @@
     <c n="95" en="0"/>
     <c n="96" en="0"/>
     <c n="97" en="0"/>
-    <c n="98" fr="49.9625"/>
-    <c n="99" fr="49.9625"/>
+    <c n="98" t="4" a="1" s="10" fr="49.9625"/>
+    <c n="99" t="4" a="1" p="0.5" s="10" fr="49.9625"/>
     <c n="100" fr="49.9625"/>
     <c n="101" fr="49.9625"/>
     <c n="102" fr="49.9625"/>
