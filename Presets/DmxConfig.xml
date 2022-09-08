@@ -7,11 +7,13 @@
     <DmxPatch startFader="31" endFader="32" targetCh="113"/>
     <DmxPatch startFader="31" endFader="32" targetCh="156"/>
     <DmxPatch startFader="75" endFader="76" targetCh="129"/>
+    <DmxPatch startFader="75" endFader="76" targetCh="166"/>
     <DmxPatch startFader="99" endFader="106" targetCh="99"/>
     <DmxPatch startFader="99" endFader="106" targetCh="115"/>
     <DmxPatch startFader="99" endFader="106" targetCh="131"/>
     <DmxPatch startFader="99" endFader="104" targetCh="140"/>
     <DmxPatch startFader="99" endFader="104" targetCh="150"/>
+    <DmxPatch startFader="99" endFader="104" targetCh="160"/>
   </DmxPatches>
   <DmxFixtures>
     <DmxFixture name="/Library/Application Support/ENTTEC/DMXIS/DmxLibrary//AOA/LED BAR 3 HCL 10ch.dmx" disp="97 - Ego Riser Left" from="97" to="106"/>
