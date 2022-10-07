@@ -50,7 +50,7 @@
     <Param nm="30" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="31" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="32" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="33" v="1" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="33" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="34" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="35" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="36" v="0" cc="-1" nrpn="-1" ch="0"/>
@@ -92,7 +92,7 @@
     <Param nm="72" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="73" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="74" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="75" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="75" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="76" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="77" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="78" v="0.35" cc="-1" nrpn="-1" ch="0"/>
@@ -129,7 +129,7 @@
     <Param nm="109" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="110" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="111" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="112" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="112" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="113" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="114" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="115" v="0" cc="-1" nrpn="-1" ch="0"/>
@@ -535,7 +535,7 @@
     <Param nm="Master Speed" v="1.04167" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="MasterTempo" v="120" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Macros" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="Grand Master" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Grand Master" v="0.975989" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Crossfade" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Type" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Amount" v="0.5" cc="-1" nrpn="-1" ch="0"/>

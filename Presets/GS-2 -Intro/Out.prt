@@ -17,7 +17,7 @@
     <Param nm="DeleteBank" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="EditBank" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Autoplay Bank" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="OverwrtPst" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="OverwrtPst" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="1" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="2" v="0.01" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="3" v="0.01" cc="-1" nrpn="-1" ch="0"/>
@@ -81,7 +81,7 @@
     <Param nm="61" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="62" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="63" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="64" v="0.09375" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="64" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="65" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="66" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="67" v="0" cc="-1" nrpn="-1" ch="0"/>
@@ -551,7 +551,7 @@
     <Param nm="Enabled" v="1" cc="-1" nrpn="-1" ch="0"/>
   </Params>
   <DmxUniverse>
-    <c n="0" en="0"/>
+    <c n="0" en="0" fr="49.9625"/>
     <c n="1" fr="49.9625"/>
     <c n="2" fr="49.9625"/>
     <c n="3" fr="49.9625"/>
@@ -583,7 +583,7 @@
     <c n="29" fr="49.9625"/>
     <c n="30" fr="49.9625"/>
     <c n="31" fr="49.9625"/>
-    <c n="32" en="0"/>
+    <c n="32" en="0" fr="49.9625"/>
     <c n="33" fr="49.9625"/>
     <c n="34" fr="49.9625"/>
     <c n="35" fr="49.9625"/>
@@ -656,12 +656,6 @@
     <c n="103" fr="49.9625"/>
     <c n="104" fr="49.9875"/>
     <c n="105" fr="49.9875"/>
-    <c n="106" en="0"/>
-    <c n="107" en="0"/>
-    <c n="108" en="0"/>
-    <c n="109" en="0"/>
-    <c n="110" en="0"/>
-    <c n="111" en="0"/>
     <c n="113" fr="49.9875"/>
     <c n="114" fr="49.9875"/>
     <c n="115" fr="49.9875"/>

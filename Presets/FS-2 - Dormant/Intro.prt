@@ -18,7 +18,7 @@
     <Param nm="EditBank" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Autoplay Bank" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="OverwrtPst" v="1" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="1" v="1" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="1" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="2" v="0.01" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="3" v="0.01" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="4" v="0.01" cc="-1" nrpn="-1" ch="0"/>
@@ -44,13 +44,13 @@
     <Param nm="24" v="0.01" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="25" v="0.01" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="26" v="0.01" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="27" v="0.636667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="28" v="0.686667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="29" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="27" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="28" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="29" v="0.138604" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="30" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="31" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="31" v="0.138604" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="32" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="33" v="1" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="33" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="34" v="0.00666667" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="35" v="0.00666667" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="36" v="0.00666667" cc="-1" nrpn="-1" ch="0"/>
@@ -76,12 +76,12 @@
     <Param nm="56" v="0.00666667" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="57" v="0.00666667" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="58" v="0.00666667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="59" v="0.636667" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="60" v="0.686667" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="59" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="60" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="61" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="62" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="63" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="64" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="64" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="65" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="66" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="67" v="0" cc="-1" nrpn="-1" ch="0"/>
@@ -124,12 +124,12 @@
     <Param nm="104" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="105" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="106" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="107" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="108" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="107" v="0.00585938" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="108" v="0.763672" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="109" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="110" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="110" v="0.00585938" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="111" v="0" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="112" v="0" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="112" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="113" v="1" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="114" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="115" v="0.00666667" cc="-1" nrpn="-1" ch="0"/>
@@ -545,13 +545,13 @@
     <Param nm="Band" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Level" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Attack" v="1" cc="-1" nrpn="-1" ch="0"/>
-    <Param nm="Release" v="49.9625" cc="-1" nrpn="-1" ch="0"/>
+    <Param nm="Release" v="49.9875" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Dir" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Invert" v="0" cc="-1" nrpn="-1" ch="0"/>
     <Param nm="Enabled" v="0" cc="-1" nrpn="-1" ch="0"/>
   </Params>
   <DmxUniverse>
-    <c n="0" en="0"/>
+    <c n="0" en="0" fr="49.9625"/>
     <c n="1" fr="49.9625"/>
     <c n="2" fr="49.9625"/>
     <c n="3" fr="49.9625"/>
@@ -583,7 +583,7 @@
     <c n="29" en="0" fr="49.9625"/>
     <c n="30" en="0" fr="49.9625"/>
     <c n="31" en="0" fr="49.9625"/>
-    <c n="32" en="0"/>
+    <c n="32" en="0" fr="49.9625"/>
     <c n="33" fr="49.9625"/>
     <c n="34" fr="49.9625"/>
     <c n="35" fr="49.9625"/>
@@ -656,12 +656,8 @@
     <c n="103" fr="49.9625"/>
     <c n="104" fr="49.9875"/>
     <c n="105" fr="49.9875"/>
-    <c n="106" en="0"/>
-    <c n="107" en="0"/>
-    <c n="108" en="0"/>
-    <c n="109" en="0"/>
-    <c n="110" en="0"/>
-    <c n="111" en="0"/>
+    <c n="107" t="1" a="0.203334" s="10"/>
+    <c n="108" t="1"/>
     <c n="113" fr="49.9875"/>
     <c n="114" fr="49.9875"/>
     <c n="115" t="1" a="0.203334" p="0.1" s="10" fr="49.9875"/>
