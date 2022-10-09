@@ -4,6 +4,10 @@
   <Order>
     <Preset name="Out" crossfade="0.0"/>
     <Preset name="Amber" crossfade="0.0"/>
+    <Preset name="Refrain" crossfade="0.0"/>
+    <Preset name="Refrain 2" crossfade="0.0"/>
+    <Preset name="Clean" crossfade="0.0"/>
+    <Preset name="Chaos" crossfade="0.0"/>
   </Order>
   <Tempo val="120.0"/>
   <BankOrder val="58"/>
